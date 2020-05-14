@@ -1,0 +1,8 @@
+CREATE TABLE 'banner' ('banner_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'system_id' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'sub_banner_id_1' INTEGER NOT NULL, 'is_show_room' INTEGER NOT NULL, PRIMARY KEY('banner_id'));
+INSERT INTO `banner` VALUES (/*banner_id*/10000, /*type*/1, /*system_id*/302, /*priority*/1, /*start_date*/'2020/01/01 0:00:00', /*end_date*/'2020/04/23 12:59:59', /*sub_banner_id_1*/0, /*is_show_room*/0);
+INSERT INTO `banner` VALUES (/*banner_id*/10001, /*type*/1, /*system_id*/302, /*priority*/1, /*start_date*/'2020/04/23 13:00:00', /*end_date*/'2020/05/07 12:59:59', /*sub_banner_id_1*/0, /*is_show_room*/0);
+INSERT INTO `banner` VALUES (/*banner_id*/10002, /*type*/1, /*system_id*/302, /*priority*/1, /*start_date*/'2020/05/07 13:00:00', /*end_date*/'2020/05/15 10:59:59', /*sub_banner_id_1*/0, /*is_show_room*/0);
+INSERT INTO `banner` VALUES (/*banner_id*/10003, /*type*/1, /*system_id*/302, /*priority*/1, /*start_date*/'2020/05/15 11:00:00', /*end_date*/'2020/05/28 10:59:59', /*sub_banner_id_1*/0, /*is_show_room*/0);
+INSERT INTO `banner` VALUES (/*banner_id*/20000, /*type*/2, /*system_id*/101, /*priority*/2, /*start_date*/'2020/01/01 0:00:00', /*end_date*/'2099/12/31 23:59:59', /*sub_banner_id_1*/0, /*is_show_room*/0);
+INSERT INTO `banner` VALUES (/*banner_id*/20004, /*type*/1, /*system_id*/305, /*priority*/1, /*start_date*/'2020/05/15 11:00:00', /*end_date*/'2020/05/20 12:59:59', /*sub_banner_id_1*/0, /*is_show_room*/0);
+INSERT INTO `banner` VALUES (/*banner_id*/60001, /*type*/1, /*system_id*/304, /*priority*/5, /*start_date*/'2020/01/01 0:00:00', /*end_date*/'2099/12/31 23:59:59', /*sub_banner_id_1*/0, /*is_show_room*/0);

@@ -1,0 +1,11 @@
+CREATE TABLE 'clan_grade' ('clan_grade_id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('clan_grade_id'));
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/1, /*rank_from*/1, /*rank_to*/50);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/2, /*rank_from*/51, /*rank_to*/200);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/3, /*rank_from*/201, /*rank_to*/500);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/4, /*rank_from*/501, /*rank_to*/3000);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/5, /*rank_from*/3001, /*rank_to*/10000);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/6, /*rank_from*/10001, /*rank_to*/20000);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/7, /*rank_from*/20001, /*rank_to*/30000);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/8, /*rank_from*/30001, /*rank_to*/40000);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/9, /*rank_from*/40001, /*rank_to*/60000);
+INSERT INTO `clan_grade` VALUES (/*clan_grade_id*/10, /*rank_from*/60001, /*rank_to*/-1);

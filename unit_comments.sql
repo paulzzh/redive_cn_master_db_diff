@@ -516,7 +516,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1048010, /*unit_id*/104831, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1048011, /*unit_id*/104801, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/'蛋糕准备完毕！\n礼物准备完毕！\n好了，高效的\n生日派对开始了哦！');
 INSERT INTO `unit_comments` VALUES (/*id*/1048012, /*unit_id*/104831, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'生日快乐\n虽然祝福的话语什么的\n也许很没有效率……\n但是对你，我想认真地说出来');
 INSERT INTO `unit_comments` VALUES (/*id*/1049001, /*unit_id*/104901, /*use_type*/1, /*voice_id*/1, /*face_id*/5, /*change_time*/4.8, /*change_face*/2, /*description*/'不管有什么事\n都要跟姐姐说哦！\n多多依靠我，向我撒娇吧~\n不用客气哦☆');
-INSERT INTO `unit_comments` VALUES (/*id*/1049002, /*unit_id*/104901, /*use_type*/1, /*voice_id*/2, /*face_id*/5, /*change_time*/3.2, /*change_face*/2, /*description*/'不论什么时候都可以\n向姐姐撒娇哦☆\n摸头也好，抱抱也好，\n拥想要多少有多少♪');
+INSERT INTO `unit_comments` VALUES (/*id*/1049002, /*unit_id*/104901, /*use_type*/1, /*voice_id*/2, /*face_id*/5, /*change_time*/3.2, /*change_face*/2, /*description*/'不论什么时候都可以\n向姐姐撒娇哦☆\n摸头也好，抱抱也好，\n想要多少有多少♪');
 INSERT INTO `unit_comments` VALUES (/*id*/1049003, /*unit_id*/104901, /*use_type*/1, /*voice_id*/3, /*face_id*/5, /*change_time*/4.3, /*change_face*/2, /*description*/'姐姐高兴得\n忍不住要使出手刀了~\n这是姐姐的一番情义，\n好好收下吧！');
 INSERT INTO `unit_comments` VALUES (/*id*/1049004, /*unit_id*/104901, /*use_type*/1, /*voice_id*/4, /*face_id*/5, /*change_time*/2.8, /*change_face*/2, /*description*/'姐姐可以为你做任何事情♪\n毕竟，照顾弟弟\n是姐姐的职责嘛♪');
 INSERT INTO `unit_comments` VALUES (/*id*/1049005, /*unit_id*/104901, /*use_type*/1, /*voice_id*/5, /*face_id*/6, /*change_time*/2.1, /*change_face*/2, /*description*/'怎么了？有事情？\n无论什么时候、无论在哪儿、\n无论有什么事情，\n姐姐都非常欢迎哦！');

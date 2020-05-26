@@ -16,6 +16,7 @@ INSERT INTO `tips` VALUES (/*id*/4101801, /*value*/101801, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4102001, /*value*/102001, /*tips_index*/1, /*title*/'茁壮成长的小兔');
 INSERT INTO `tips` VALUES (/*id*/4102101, /*value*/102101, /*tips_index*/1, /*title*/'无人之处');
 INSERT INTO `tips` VALUES (/*id*/4102201, /*value*/102201, /*tips_index*/1, /*title*/'为时尚早');
+INSERT INTO `tips` VALUES (/*id*/4102301, /*value*/102301, /*tips_index*/1, /*title*/'收集毛绒玩偶');
 INSERT INTO `tips` VALUES (/*id*/4102501, /*value*/102501, /*tips_index*/1, /*title*/'摔盘子记录');
 INSERT INTO `tips` VALUES (/*id*/4102601, /*value*/102601, /*tips_index*/1, /*title*/'早睡');
 INSERT INTO `tips` VALUES (/*id*/4102701, /*value*/102701, /*tips_index*/1, /*title*/'锁定');

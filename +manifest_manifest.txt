@@ -1,6 +1,6 @@
 manifest/all_assetmanifest,1b6320ec72d37397d79af0c0ded5cb20,every,146457,
 manifest/banner_assetmanifest,617e06680828af2051ebe84d74966250,every,3694,
-manifest/bdl_assetmanifest,372c1a6938e6a668f855d37e62b6f1eb,every,57388,
+manifest/bdl_assetmanifest,cc7c82685349da35cea47bd191a280a7,every,57388,
 manifest/bg_assetmanifest,f8ca1a8b413fee6fd3e47a7913fb526c,every,206604,
 manifest/clanbattle_assetmanifest,ca9859d21260a056ccee04caa759bb88,every,2253,
 manifest/comic_assetmanifest,4b2bf5db2b87388c32ac1fa4e21369d6,every,10080,

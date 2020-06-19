@@ -10,6 +10,7 @@ INSERT INTO `tips` VALUES (/*id*/4100901, /*value*/100901, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4101001, /*value*/101001, /*tips_index*/1, /*title*/'拥有王国');
 INSERT INTO `tips` VALUES (/*id*/4101101, /*value*/101101, /*tips_index*/1, /*title*/'小小的误会');
 INSERT INTO `tips` VALUES (/*id*/4101201, /*value*/101201, /*tips_index*/1, /*title*/'睡糊涂');
+INSERT INTO `tips` VALUES (/*id*/4101501, /*value*/101501, /*tips_index*/1, /*title*/'爱强于剑');
 INSERT INTO `tips` VALUES (/*id*/4101601, /*value*/101601, /*tips_index*/1, /*title*/'用气味吸引');
 INSERT INTO `tips` VALUES (/*id*/4101701, /*value*/101701, /*tips_index*/1, /*title*/'香织眼里的大概');
 INSERT INTO `tips` VALUES (/*id*/4101801, /*value*/101801, /*tips_index*/1, /*title*/'大家的示范');

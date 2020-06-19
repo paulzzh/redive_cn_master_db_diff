@@ -167,8 +167,8 @@ INSERT INTO `unit_comments` VALUES (/*id*/1014009, /*unit_id*/101431, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1014010, /*unit_id*/101431, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'正因为有你在旁边\n为我提供确切的支援，我才能\n充分地发挥力量\n我们俩正是名侦探和名助手，对吧！');
 INSERT INTO `unit_comments` VALUES (/*id*/1014011, /*unit_id*/101401, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/6.7, /*change_face*/5, /*description*/'你说今天是\n你的生日？生日快乐！\n那我们赶快完成搜查\n来庆祝一番吧！');
 INSERT INTO `unit_comments` VALUES (/*id*/1014012, /*unit_id*/101431, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'作为生日的余兴节目，今天\n让助手扮演一下侦探吧\n老师，今天我们要\n挑战什么样的谜题呢？呵呵♪');
-INSERT INTO `unit_comments` VALUES (/*id*/1015001, /*unit_id*/101501, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/'哎呀呀，你是来见\n老师的吗？\n呵呵呵，好高兴啊');
-INSERT INTO `unit_comments` VALUES (/*id*/1015002, /*unit_id*/101501, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/'今天要读\n什么书呢……\n你喜欢哪本？');
+INSERT INTO `unit_comments` VALUES (/*id*/1015001, /*unit_id*/101501, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/'哎呀呀，你是来见老师的吗？\n呵呵呵，好高兴啊');
+INSERT INTO `unit_comments` VALUES (/*id*/1015002, /*unit_id*/101501, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/'今天要读什么书呢……\n你喜欢哪本？');
 INSERT INTO `unit_comments` VALUES (/*id*/1015003, /*unit_id*/101501, /*use_type*/1, /*voice_id*/3, /*face_id*/2, /*change_time*/1.0, /*change_face*/5, /*description*/'唔呵呵♪\n你可以把老师当成\n自己的妈妈哦');
 INSERT INTO `unit_comments` VALUES (/*id*/1015004, /*unit_id*/101501, /*use_type*/1, /*voice_id*/4, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/'好孩子~好孩子♪\n老师会一直\n陪在你身边的哦');
 INSERT INTO `unit_comments` VALUES (/*id*/1015005, /*unit_id*/101501, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/4.0, /*change_face*/5, /*description*/'老师永远都是\n站在你这边的\n尽管对我撒娇吧');
@@ -385,7 +385,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1034011, /*unit_id*/103401, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1034012, /*unit_id*/103431, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'今天是你的生日\n所以首先……干杯！\n那个，我今天可以和你\n一直待在一起吗？');
 INSERT INTO `unit_comments` VALUES (/*id*/1036001, /*unit_id*/103601, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/5.9, /*change_face*/5, /*description*/'现在是学习的时间\n请不要和我说话……\n真是的，请不要露出那种表情啦\n我陪你玩就是了！');
 INSERT INTO `unit_comments` VALUES (/*id*/1036002, /*unit_id*/103601, /*use_type*/1, /*voice_id*/2, /*face_id*/5, /*change_time*/4.8, /*change_face*/4, /*description*/'不吃青椒和胡萝卜就\n长不高？\n呜呜……虽然我很想\n长高……');
-INSERT INTO `unit_comments` VALUES (/*id*/1036003, /*unit_id*/103601, /*use_type*/1, /*voice_id*/3, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/'请听我说\n我长高了！\n足足长了一厘米！');
+INSERT INTO `unit_comments` VALUES (/*id*/1036003, /*unit_id*/103601, /*use_type*/1, /*voice_id*/3, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/'请听我说\n我长高了！\n足足长了一毫米！');
 INSERT INTO `unit_comments` VALUES (/*id*/1036004, /*unit_id*/103601, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/5.2, /*change_face*/5, /*description*/'虽然我现在还是孩子，\n不过很快就会长大的\n到了那时……那个……');
 INSERT INTO `unit_comments` VALUES (/*id*/1036005, /*unit_id*/103601, /*use_type*/1, /*voice_id*/5, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/'呵呵，你很努力了呢\n今天就表扬表扬你\n摸摸你的头吧');
 INSERT INTO `unit_comments` VALUES (/*id*/1036006, /*unit_id*/103631, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'你要保护我？\n不需要你操心！\n不、不过……\n谢谢你');

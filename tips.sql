@@ -33,6 +33,7 @@ INSERT INTO `tips` VALUES (/*id*/4103801, /*value*/103801, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4104001, /*value*/104001, /*tips_index*/1, /*title*/'鼓起干劲来募集');
 INSERT INTO `tips` VALUES (/*id*/4104201, /*value*/104201, /*tips_index*/1, /*title*/'太过专注');
 INSERT INTO `tips` VALUES (/*id*/4104301, /*value*/104301, /*tips_index*/1, /*title*/'虽然嘴上这么说');
+INSERT INTO `tips` VALUES (/*id*/4104401, /*value*/104401, /*tips_index*/1, /*title*/'征服世界');
 INSERT INTO `tips` VALUES (/*id*/4104501, /*value*/104501, /*tips_index*/1, /*title*/'回过神时');
 INSERT INTO `tips` VALUES (/*id*/4104601, /*value*/104601, /*tips_index*/1, /*title*/'刚刚烤好热气腾腾');
 INSERT INTO `tips` VALUES (/*id*/4104701, /*value*/104701, /*tips_index*/1, /*title*/'搭配');

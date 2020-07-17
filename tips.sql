@@ -43,6 +43,7 @@ INSERT INTO `tips` VALUES (/*id*/4105001, /*value*/105001, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4105101, /*value*/105101, /*tips_index*/1, /*title*/'探病？');
 INSERT INTO `tips` VALUES (/*id*/4105201, /*value*/105201, /*tips_index*/1, /*title*/'少女的憧憬');
 INSERT INTO `tips` VALUES (/*id*/4105301, /*value*/105301, /*tips_index*/1, /*title*/'不是小孩子');
+INSERT INTO `tips` VALUES (/*id*/4105401, /*value*/105401, /*tips_index*/1, /*title*/'将最棒的服装');
 INSERT INTO `tips` VALUES (/*id*/4105701, /*value*/105701, /*tips_index*/1, /*title*/'将梦想装入纸飞机');
 INSERT INTO `tips` VALUES (/*id*/4105801, /*value*/105801, /*tips_index*/1, /*title*/'很棒的反应');
 INSERT INTO `tips` VALUES (/*id*/4105901, /*value*/105901, /*tips_index*/1, /*title*/'初次的味道');

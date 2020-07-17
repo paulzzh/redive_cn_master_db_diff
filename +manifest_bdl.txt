@@ -371,7 +371,7 @@ a/bdl_partsjukeboxmusiclistheader.unity3d,fff0020280e85c2ce77ac2f3621d23fb,tutor
 a/bdl_partsjukeboxmusiclistplates.unity3d,9a4e72f7cb6f0015422154e10e13c06e,tutorial1,14963,
 a/bdl_partsjukeboxmusiclisttab3.unity3d,5f7982030e60e3d890cc73ef46f9c044,tutorial1,8010,
 a/bdl_partsjukeboxmusiclisttab4.unity3d,65d7fe7fd3b80b91489101c1fab491a4,tutorial1,8926,
-a/bdl_partslifegauge.unity3d,417a04d002b73118594c43235da0b6b6,tutorial0,6418,
+a/bdl_partslifegauge.unity3d,c8ccbfc56a177f774ab8912e57433cd0,tutorial0,6415,
 a/bdl_partslobbyplate.unity3d,0cee91322b4a362a245cd6292d36c0ca,tutorial1,10750,
 a/bdl_partsmaterialquestlist.unity3d,41d9eb6db100aa266aa6c0983fc0e42d,tutorial1,9457,
 a/bdl_partsmemoryextraplates.unity3d,89f6dea3d1370e618fd7b511b64dd81a,tutorial1,16651,

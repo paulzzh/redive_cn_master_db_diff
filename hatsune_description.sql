@@ -9,7 +9,7 @@ INSERT INTO `hatsune_description` VALUES (/*id*/7, /*event_id*/10003, /*type*/1,
 INSERT INTO `hatsune_description` VALUES (/*id*/8, /*event_id*/10003, /*type*/1, /*description*/'随着活动关卡通关，会有BOSS登场。\n使用BOSS券就可以挑战BOSS。\n击败BOSS就可以获得大量讨伐证，请尽情挑战吧。');
 INSERT INTO `hatsune_description` VALUES (/*id*/9, /*event_id*/10003, /*type*/1, /*description*/'讨伐证可以用来兑换报酬。\n报酬也包括在活动中登场的部分角色的记忆碎片。\n收集记忆碎片将角色变为自己的同伴吧。');
 INSERT INTO `hatsune_description` VALUES (/*id*/10, /*event_id*/10004, /*type*/1, /*description*/'在活动中，可以观看特别的故事。\n活动剧情会根据活动关卡的通关进度解锁。');
-INSERT INTO `hatsune_description` VALUES (/*id*/11, /*event_id*/10004, /*type*/1, /*description*/'达成活动限定的任务\n就会有可以解放的角色登场。加油在活动期间通关吧。');
+INSERT INTO `hatsune_description` VALUES (/*id*/11, /*event_id*/10004, /*type*/1, /*description*/'完成活动限定的任务后，会有\n解锁角色登场。请在活动期间\n努力完成任务吧。');
 INSERT INTO `hatsune_description` VALUES (/*id*/12, /*event_id*/10004, /*type*/1, /*description*/'强力的BOSS（高难）会登场。\n高难度的BOSS1天可以讨伐1只。\n做好充分的准备，认真迎接挑战吧。');
 INSERT INTO `hatsune_description` VALUES (/*id*/13, /*event_id*/10004, /*type*/1, /*description*/'讨伐证可以用来兑换报酬。\n报酬也包括在活动中登场的部分角色的记忆碎片。\n收集记忆碎片将角色变为自己的同伴吧。');
 INSERT INTO `hatsune_description` VALUES (/*id*/14, /*event_id*/10005, /*type*/1, /*description*/'在活动中，可以观看特别的故事。\n活动剧情会根据活动关卡的通关进度解锁。');

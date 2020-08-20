@@ -647,12 +647,12 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001002, /*area_id*/21001, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001003, /*area_id*/21001, /*quest_name*/'玛那关卡3级', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001004, /*area_id*/21001, /*quest_name*/'玛那关卡4级', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001005, /*area_id*/21001, /*quest_name*/'玛那关卡5级', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
-INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001006, /*area_id*/21001, /*quest_name*/'玛那关卡等级6', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
-INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001007, /*area_id*/21001, /*quest_name*/'玛那关卡等级7', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001006, /*area_id*/21001, /*quest_name*/'玛那关卡6级', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001007, /*area_id*/21001, /*quest_name*/'玛那关卡7级', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002001, /*area_id*/21002, /*quest_name*/'经验值关卡1级', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002002, /*area_id*/21002, /*quest_name*/'经验值关卡2级', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002003, /*area_id*/21002, /*quest_name*/'经验值关卡3级', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002004, /*area_id*/21002, /*quest_name*/'经验值关卡4级', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002005, /*area_id*/21002, /*quest_name*/'经验值关卡5级', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
-INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002006, /*area_id*/21002, /*quest_name*/'经验值关卡等级6', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
-INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002007, /*area_id*/21002, /*quest_name*/'经验值关卡等级7', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002006, /*area_id*/21002, /*quest_name*/'经验值关卡6级', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21002007, /*area_id*/21002, /*quest_name*/'经验值关卡7级', /*wave_group_id_1*/101030303, /*bg_skip_id*/100391);

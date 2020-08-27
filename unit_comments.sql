@@ -755,7 +755,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1079009, /*unit_id*/107931, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1079010, /*unit_id*/107931, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'今年的夏天也受你帮助了\n谢谢你喵\n以后也请多多关照喵！');
 INSERT INTO `unit_comments` VALUES (/*id*/1079011, /*unit_id*/107901, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/2.3, /*change_face*/1, /*description*/'今天是你的生日喵！\n要是为我献上猫咪硬币\n约会这种事\n我也不是不能考虑啦喵♪');
 INSERT INTO `unit_comments` VALUES (/*id*/1079012, /*unit_id*/107931, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'生日快乐！\n今天就破例听一听\n你的愿望吧喵！比如说，\n两个人单独在无人岛上……开玩笑喵♪');
-INSERT INTO `unit_comments` VALUES (/*id*/1080001, /*unit_id*/108001, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/9.2, /*change_face*/2, /*description*/'有你这个能干的徒弟在，真是帮大忙了\n诶？你想要薪水？\n这样啊……啊，我说\n我穿泳装的样子可以当作薪水吗？');
+INSERT INTO `unit_comments` VALUES (/*id*/1080001, /*unit_id*/108001, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/9.2, /*change_face*/2, /*description*/'有能干的徒弟在，真是帮大忙了\n诶？你想要薪水？\n这样啊……啊，我说\n我穿泳装的样子可以当作薪水吗？');
 INSERT INTO `unit_comments` VALUES (/*id*/1080002, /*unit_id*/108001, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/3.2, /*change_face*/2, /*description*/'没忘东西吧？\n都准备好了吗？\n好，出发去冒险咯！');
 INSERT INTO `unit_comments` VALUES (/*id*/1080003, /*unit_id*/108001, /*use_type*/1, /*voice_id*/3, /*face_id*/6, /*change_time*/2.3, /*change_face*/2, /*description*/'你问为什么要穿泳装？\n因为要享受夏日的海滨，\n穿成这样效率才高啊！');
 INSERT INTO `unit_comments` VALUES (/*id*/1080004, /*unit_id*/108001, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/3.2, /*change_face*/5, /*description*/'难得我穿成了这样子……\n不让你见识见识的话\n就太可惜了');

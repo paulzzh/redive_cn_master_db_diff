@@ -64,3 +64,10 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/62, /*campaign_category*/32, /*val
 INSERT INTO `campaign_schedule` VALUES (/*id*/63, /*campaign_category*/42, /*value*/3000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/'2020/08/24 5:00:00', /*end_time*/'2020/08/30 4:59:59');
 INSERT INTO `campaign_schedule` VALUES (/*id*/64, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/'2020/08/30 5:00:00', /*end_time*/'2020/09/08 4:59:59');
 INSERT INTO `campaign_schedule` VALUES (/*id*/65, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/'2020/08/30 5:00:00', /*end_time*/'2020/09/08 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/66, /*campaign_category*/151, /*value*/1500.0, /*system_id*/6004, /*icon_image*/80, /*start_time*/'2020/08/30 11:00:00', /*end_time*/'2020/09/19 23:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/67, /*campaign_category*/152, /*value*/1500.0, /*system_id*/6005, /*icon_image*/80, /*start_time*/'2020/08/30 11:00:00', /*end_time*/'2020/09/19 23:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/68, /*campaign_category*/131, /*value*/2000.0, /*system_id*/6004, /*icon_image*/30, /*start_time*/'2020/08/30 11:00:00', /*end_time*/'2020/09/03 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/69, /*campaign_category*/141, /*value*/2000.0, /*system_id*/6004, /*icon_image*/40, /*start_time*/'2020/08/30 11:00:00', /*end_time*/'2020/09/03 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/70, /*campaign_category*/132, /*value*/2000.0, /*system_id*/6005, /*icon_image*/30, /*start_time*/'2020/08/30 11:00:00', /*end_time*/'2020/09/03 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/71, /*campaign_category*/142, /*value*/2000.0, /*system_id*/6005, /*icon_image*/40, /*start_time*/'2020/08/30 11:00:00', /*end_time*/'2020/09/03 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/72, /*campaign_category*/45, /*value*/2000.0, /*system_id*/104, /*icon_image*/40, /*start_time*/'2020/09/08 5:00:00', /*end_time*/'2020/09/17 4:59:59');

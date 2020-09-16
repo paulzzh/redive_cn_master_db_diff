@@ -640,8 +640,8 @@ INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12020003, /*area_id*/12020, 
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12021001, /*area_id*/12021, /*quest_name*/'卡斯塔利亚森林・东部 21-1', /*wave_group_id_1*/101210502, /*bg_skip_id*/101401);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12021002, /*area_id*/12021, /*quest_name*/'卡斯塔利亚森林・东部 21-2', /*wave_group_id_1*/101210502, /*bg_skip_id*/100931);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/12021003, /*area_id*/12021, /*quest_name*/'卡斯塔利亚森林・东部 21-3', /*wave_group_id_1*/101210502, /*bg_skip_id*/100361);
-INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/'圣迹调查关卡等级1', /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
-INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/'圣迹调查关卡等级2', /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001001, /*area_id*/18001, /*quest_name*/'圣迹调查关卡1级', /*wave_group_id_1*/108010108, /*bg_skip_id*/101331);
+INSERT INTO `skip_monster_data` VALUES (/*quest_id*/18001002, /*area_id*/18001, /*quest_name*/'圣迹调查关卡2级', /*wave_group_id_1*/108010208, /*bg_skip_id*/101341);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001001, /*area_id*/21001, /*quest_name*/'玛那关卡1级', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001002, /*area_id*/21001, /*quest_name*/'玛那关卡2级', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);
 INSERT INTO `skip_monster_data` VALUES (/*quest_id*/21001003, /*area_id*/21001, /*quest_name*/'玛那关卡3级', /*wave_group_id_1*/101080703, /*bg_skip_id*/100051);

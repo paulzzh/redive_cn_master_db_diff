@@ -29,6 +29,7 @@ INSERT INTO `tips` VALUES (/*id*/4103201, /*value*/103201, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4103301, /*value*/103301, /*tips_index*/1, /*title*/'奇异的组合');
 INSERT INTO `tips` VALUES (/*id*/4103401, /*value*/103401, /*tips_index*/1, /*title*/'反面教材');
 INSERT INTO `tips` VALUES (/*id*/4103601, /*value*/103601, /*tips_index*/1, /*title*/'好可疑……');
+INSERT INTO `tips` VALUES (/*id*/4103701, /*value*/103701, /*tips_index*/1, /*title*/'烹饪技术');
 INSERT INTO `tips` VALUES (/*id*/4103801, /*value*/103801, /*tips_index*/1, /*title*/'比起敌人还是读书');
 INSERT INTO `tips` VALUES (/*id*/4104001, /*value*/104001, /*tips_index*/1, /*title*/'鼓起干劲来募集');
 INSERT INTO `tips` VALUES (/*id*/4104201, /*value*/104201, /*tips_index*/1, /*title*/'太过专注');

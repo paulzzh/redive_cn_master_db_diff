@@ -30,7 +30,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9211, /*discription*/'「DMM版游戏�
 INSERT INTO `gift_message` VALUES (/*id*/9212, /*discription*/'广播1周年纪念直播内环节的特别礼物。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9213, /*discription*/'来自运营的公会之家道具礼物。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9214, /*discription*/'「官方直播　2018　秋」环节的特别礼物。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9215, /*discription*/'月神之塔更新附赠的礼物。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9215, /*discription*/'露娜之塔更新附赠的礼物。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9216, /*discription*/'任务报酬变更附赠的礼物。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9301, /*discription*/'超出持有数上限时获得的体力。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9302, /*discription*/'战斗竞技场的防守奖励。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

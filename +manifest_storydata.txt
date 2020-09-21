@@ -1725,7 +1725,7 @@ a/storydata_movie_200700001.unity3d,077918199370a844a4f0b506fab0f507,tutorial2,1
 a/storydata_movie_200700101.unity3d,4fbc100a3fdf47884fde0ac58eeb4751,tutorial2,2612,
 a/storydata_movie_200700401.unity3d,c624b136f56463cf194f5c896fd67955,tutorial2,2384,
 a/storydata_movie_200701001.unity3d,b6cc7eeacd046189f8f74ea62c1702c5,tutorial2,2130,
-a/storydata_movie_200701002.unity3d,f3d2e3113bc44188c3fa826473e6ab5b,tutorial2,2771,
+a/storydata_movie_200701002.unity3d,d1264d72ebca9f695707c051dc9d71f7,tutorial2,2768,
 a/storydata_movie_200701101.unity3d,07d091e816f96a8c0e9c08e9350ec0dd,tutorial2,2943,
 a/storydata_movie_200701201.unity3d,3825f423590d27efe8a6b9a052d73084,tutorial2,2249,
 a/storydata_movie_200701381.unity3d,bdef9e422166cc845bdb1f65a0bbe0b2,tutorial2,2237,

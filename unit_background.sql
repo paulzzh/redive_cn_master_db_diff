@@ -77,3 +77,4 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/109001, /*unit_name*/'惠理子
 INSERT INTO `unit_background` VALUES (/*unit_id*/109101, /*unit_name*/'静流（情人节）', /*bg_id*/500600, /*bg_name*/'厨房竞技场', /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/109201, /*unit_name*/'安', /*bg_id*/500133, /*bg_name*/'埃斯特雷拉街道', /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/109301, /*unit_name*/'露', /*bg_id*/500133, /*bg_name*/'埃斯特雷拉街道', /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/170101, /*unit_name*/'环奈', /*bg_id*/500130, /*bg_name*/'埃斯特雷拉街道', /*position*/0.0, /*face_type*/3);

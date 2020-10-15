@@ -923,5 +923,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1093009, /*unit_id*/109331, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1093010, /*unit_id*/109331, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'补考的女帝，不及格女王……\n让你见识一下\n拥有众多外号的露的实力！');
 INSERT INTO `unit_comments` VALUES (/*id*/1093011, /*unit_id*/109301, /*use_type*/2, /*voice_id*/6, /*face_id*/6, /*change_time*/2.8, /*change_face*/2, /*description*/'今天是你的生日？\n那么，露也来庆祝！\n生日快乐！');
 INSERT INTO `unit_comments` VALUES (/*id*/1093012, /*unit_id*/109331, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'露不擅长记东西……\n但是朋友的生日\n是一定会记住的！\n生日快乐！');
+INSERT INTO `unit_comments` VALUES (/*id*/1701001, /*unit_id*/170101, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/1.1, /*change_face*/2, /*description*/'和别人比较\n也没有意义嘛！\n我得打磨自己的武器！');
+INSERT INTO `unit_comments` VALUES (/*id*/1701002, /*unit_id*/170101, /*use_type*/1, /*voice_id*/2, /*face_id*/2, /*change_time*/0.0, /*change_face*/2, /*description*/'这个肉味道真是超级美味！');
+INSERT INTO `unit_comments` VALUES (/*id*/1701003, /*unit_id*/170101, /*use_type*/1, /*voice_id*/3, /*face_id*/2, /*change_time*/1.1, /*change_face*/1, /*description*/'耶！你看你看，\n我一个人就把魔物打倒了！\n谢谢你陪我特训呀！');
+INSERT INTO `unit_comments` VALUES (/*id*/1701004, /*unit_id*/170101, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'我自己都觉得自己很要强。\n越是困难的挑战，\n就越让我觉得兴奋呢。');
+INSERT INTO `unit_comments` VALUES (/*id*/1701005, /*unit_id*/170101, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'碰壁的时候，\n就要向前向上向后，\n总之四处找出路！');
+INSERT INTO `unit_comments` VALUES (/*id*/1701006, /*unit_id*/170131, /*use_type*/1, /*voice_id*/1, /*face_id*/10, /*change_time*/1.3, /*change_face*/1, /*description*/'我也好想像小佩可莉姆一样\n帅气地战斗啊！\n又帅又可爱，岂不是无敌了？');
+INSERT INTO `unit_comments` VALUES (/*id*/1701007, /*unit_id*/170131, /*use_type*/1, /*voice_id*/2, /*face_id*/6, /*change_time*/1.5, /*change_face*/2, /*description*/'魔物竟然这么好吃，吓我一跳！\n特别是眼珠！\n');
+INSERT INTO `unit_comments` VALUES (/*id*/1701008, /*unit_id*/170131, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'我的爱好是说话！\n而且经常说话之前不过脑子！\n有时候自己也会吓一跳！');
+INSERT INTO `unit_comments` VALUES (/*id*/1701009, /*unit_id*/170131, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/2.0, /*change_face*/2, /*description*/'烤肉有烤肉的好，\n鲷鱼烧有鲷鱼烧的好，\n各有千秋！\n换句话说，我都想吃！');
+INSERT INTO `unit_comments` VALUES (/*id*/1701010, /*unit_id*/170131, /*use_type*/1, /*voice_id*/5, /*face_id*/6, /*change_time*/2.1, /*change_face*/1, /*description*/'骑士不露饿相……\n这怎么可能啊！？\n人是铁饭是钢啊！？');
+INSERT INTO `unit_comments` VALUES (/*id*/1701011, /*unit_id*/170101, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/2.3, /*change_face*/6, /*description*/'生日一定要吃顿大餐！\n你想去哪儿吃？\n诶，想吃我做的菜？真的？');
+INSERT INTO `unit_comments` VALUES (/*id*/1701012, /*unit_id*/170131, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/2.2, /*change_face*/2, /*description*/'生日快乐！\n没想到吧？没想到吧？\n诶嘿嘿，我知道今天是你生日哦♪给，送你的礼物！');
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');

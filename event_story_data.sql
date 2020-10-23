@@ -5,5 +5,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5003, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5004, /*story_type*/5, /*value*/10004, /*title*/'危险假日！！ 海边的美食家公主', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/07/30 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5005, /*story_type*/5, /*value*/10005, /*title*/'珠希和美冬的无人岛0金币生活', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/08/27 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5006, /*story_type*/5, /*value*/10006, /*title*/'黑铁的亡灵（梦魇）', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/09/24 15:00:00', /*end_time*/'2099/12/31 23:59:59');
-INSERT INTO `event_story_data` VALUES (/*story_group_id*/5007, /*story_type*/5, /*value*/10007, /*title*/'布丁诡计！约定的万圣节派对', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/10/22 15:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5007, /*story_type*/5, /*value*/10007, /*title*/'不给布丁就捣蛋！约定的万圣节派对', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/10/22 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

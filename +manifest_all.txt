@@ -1676,7 +1676,7 @@ a/all_materialhatsunebossquestdetail.unity3d,6c05d23cef9e1eba48971d0b27802876,tu
 a/all_materialllama.unity3d,32b9e26de334ef97881b3aa6869bb63d,tutorial1,111476,
 a/all_materialpartsgachaicon.unity3d,37f5131519f05c84cdbca28ad335893b,tutorial1,179941,
 a/all_materialpartsheader.unity3d,f3a18fdf6f8eaedd997c293486ee4619,tutorial0,4728,
-a/all_materialquestdetail.unity3d,81c7ebe49f029aad5e5c2554acba111e,tutorial1,632951,
+a/all_materialquestdetail.unity3d,095d838d45b1da3f738902980ee8e3dd,tutorial1,740203,
 a/all_materialquestresult.unity3d,7a3abc513a3a0f4925b7d48ed272209c,tutorial1,11312,
 a/all_materialresultitemicon.unity3d,82125dbed01c473012fe3253244a9524,tutorial1,25345,
 a/all_materialrewardicon.unity3d,c88538fdc785fa21a196353c700951d5,tutorial1,8906,

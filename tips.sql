@@ -51,4 +51,5 @@ INSERT INTO `tips` VALUES (/*id*/4105801, /*value*/105801, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4105901, /*value*/105901, /*tips_index*/1, /*title*/'初次的味道');
 INSERT INTO `tips` VALUES (/*id*/4106001, /*value*/106001, /*tips_index*/1, /*title*/'傲娇');
 INSERT INTO `tips` VALUES (/*id*/4106301, /*value*/106301, /*tips_index*/1, /*title*/'感动的相遇');
+INSERT INTO `tips` VALUES (/*id*/4107101, /*value*/107101, /*tips_index*/1, /*title*/'好无聊……');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');

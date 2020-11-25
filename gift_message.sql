@@ -60,5 +60,5 @@ INSERT INTO `gift_message` VALUES (/*id*/9600, /*discription*/'小游戏获得�
 INSERT INTO `gift_message` VALUES (/*id*/9700, /*discription*/'「机器莉玛来袭！」获得的排名报酬。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/'「机器莉玛来袭！」获得的攻击报酬。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/88888, /*discription*/'购买「{0}」获得的道具', /*type_1*/88, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/88889, /*discription*/'购买「{0}」获得的体力', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/88889, /*discription*/'购买玛那获得的体力', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/88890, /*discription*/'在女神祭中赢得的奖励。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

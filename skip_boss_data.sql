@@ -15,6 +15,10 @@ INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1000701, /*skip_motion_id*/30500
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1000702, /*skip_motion_id*/305000, /*skip_bg_id*/81002606, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1000801, /*skip_motion_id*/305200, /*skip_bg_id*/81002805, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1000802, /*skip_motion_id*/305200, /*skip_bg_id*/81002806, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
+INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1000901, /*skip_motion_id*/305500, /*skip_bg_id*/81003005, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
+INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1000902, /*skip_motion_id*/305500, /*skip_bg_id*/81003006, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
+INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1001001, /*skip_motion_id*/306000, /*skip_bg_id*/81003205, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
+INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1001002, /*skip_motion_id*/306000, /*skip_bg_id*/81003206, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1001101, /*skip_motion_id*/306700, /*skip_bg_id*/81001105, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1001102, /*skip_motion_id*/306700, /*skip_bg_id*/81001106, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);
 INSERT INTO `skip_boss_data` VALUES (/*boss_id*/1001201, /*skip_motion_id*/306800, /*skip_bg_id*/81001205, /*skip_position_x*/0, /*skip_position_y*/0, /*skip_scale_x*/1.0, /*skip_scale_y*/1.0);

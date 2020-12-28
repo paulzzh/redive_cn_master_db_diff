@@ -623,4 +623,12 @@ INSERT INTO `album_production_list` VALUES (/*id*/17010105, /*unit_id*/170101, /
 INSERT INTO `album_production_list` VALUES (/*id*/17010106, /*unit_id*/170101, /*type*/105, /*title*/'好感度效果5', /*description*/'');
 INSERT INTO `album_production_list` VALUES (/*id*/17010107, /*unit_id*/170101, /*type*/106, /*title*/'好感度效果6', /*description*/'');
 INSERT INTO `album_production_list` VALUES (/*id*/17010108, /*unit_id*/170101, /*type*/107, /*title*/'好感度效果7', /*description*/'');
+INSERT INTO `album_production_list` VALUES (/*id*/17020101, /*unit_id*/170201, /*type*/201, /*title*/'解锁效果1', /*description*/'');
+INSERT INTO `album_production_list` VALUES (/*id*/17020102, /*unit_id*/170201, /*type*/101, /*title*/'好感度效果1', /*description*/'');
+INSERT INTO `album_production_list` VALUES (/*id*/17020103, /*unit_id*/170201, /*type*/102, /*title*/'好感度效果2', /*description*/'');
+INSERT INTO `album_production_list` VALUES (/*id*/17020104, /*unit_id*/170201, /*type*/103, /*title*/'好感度效果3', /*description*/'');
+INSERT INTO `album_production_list` VALUES (/*id*/17020105, /*unit_id*/170201, /*type*/104, /*title*/'好感度效果4', /*description*/'');
+INSERT INTO `album_production_list` VALUES (/*id*/17020106, /*unit_id*/170201, /*type*/105, /*title*/'好感度效果5', /*description*/'');
+INSERT INTO `album_production_list` VALUES (/*id*/17020107, /*unit_id*/170201, /*type*/106, /*title*/'好感度效果6', /*description*/'');
+INSERT INTO `album_production_list` VALUES (/*id*/17020108, /*unit_id*/170201, /*type*/107, /*title*/'好感度效果7', /*description*/'');
 CREATE INDEX 'album_production_list_0_unit_id' on 'album_production_list'('unit_id');

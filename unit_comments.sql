@@ -935,5 +935,17 @@ INSERT INTO `unit_comments` VALUES (/*id*/1701009, /*unit_id*/170131, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1701010, /*unit_id*/170131, /*use_type*/1, /*voice_id*/5, /*face_id*/6, /*change_time*/2.1, /*change_face*/1, /*description*/'骑士不露饿相……\n这怎么可能啊！？\n人是铁饭是钢啊！？');
 INSERT INTO `unit_comments` VALUES (/*id*/1701011, /*unit_id*/170101, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/2.3, /*change_face*/6, /*description*/'生日一定要吃顿大餐！\n你想去哪儿吃？\n诶，想吃我做的菜？真的？');
 INSERT INTO `unit_comments` VALUES (/*id*/1701012, /*unit_id*/170131, /*use_type*/2, /*voice_id*/6, /*face_id*/1, /*change_time*/2.2, /*change_face*/2, /*description*/'生日快乐！\n没想到吧？没想到吧？\n诶嘿嘿，我知道今天是你生日哦♪给，送你的礼物！');
+INSERT INTO `unit_comments` VALUES (/*id*/1702001, /*unit_id*/170201, /*use_type*/1, /*voice_id*/1, /*face_id*/3, /*change_time*/2.0, /*change_face*/1, /*description*/'好冷！这种天气\n就让人想吃火锅呀！\n比如寿喜烧！');
+INSERT INTO `unit_comments` VALUES (/*id*/1702002, /*unit_id*/170201, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/7.0, /*change_face*/2, /*description*/'这件振袖和服不仅超可爱，\n防御力还很高，\n穿上之后怎么运动都不会松散！是不是很厉害！？');
+INSERT INTO `unit_comments` VALUES (/*id*/1702003, /*unit_id*/170201, /*use_type*/1, /*voice_id*/3, /*face_id*/2, /*change_time*/2.5, /*change_face*/1, /*description*/'今年能演什么样的角色呢？\n要是能尝试\n一大堆新的挑战就好啦♪');
+INSERT INTO `unit_comments` VALUES (/*id*/1702004, /*unit_id*/170201, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/2.0, /*change_face*/2, /*description*/'我要参加羽毛毽比赛哦！\n好期待啊～');
+INSERT INTO `unit_comments` VALUES (/*id*/1702005, /*unit_id*/170201, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'今年也请多多关照。\n好！写好新年贺卡了！\n今年写了一大堆♪');
+INSERT INTO `unit_comments` VALUES (/*id*/1702006, /*unit_id*/170231, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'抽签或者占卜\n出了不好的结果反而让人斗志昂扬！\n我会想，\n就由我来改变这未来！');
+INSERT INTO `unit_comments` VALUES (/*id*/1702007, /*unit_id*/170231, /*use_type*/1, /*voice_id*/2, /*face_id*/2, /*change_time*/4.0, /*change_face*/1, /*description*/'能和美食殿堂的成员们结交，\n我超级开心！\n希望今后我们的感情会更好♪');
+INSERT INTO `unit_comments` VALUES (/*id*/1702008, /*unit_id*/170231, /*use_type*/1, /*voice_id*/3, /*face_id*/2, /*change_time*/3.5, /*change_face*/1, /*description*/'来这里能见到许多人，\n我好开心！美食殿堂\n今年也很受欢迎呢！');
+INSERT INTO `unit_comments` VALUES (/*id*/1702009, /*unit_id*/170231, /*use_type*/1, /*voice_id*/4, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'木屐真好啊♪\n走起路来咔啦咔啦的，\n声音好可爱！');
+INSERT INTO `unit_comments` VALUES (/*id*/1702010, /*unit_id*/170231, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'穿上振袖和服的小环奈今年也要全力冲刺！');
+INSERT INTO `unit_comments` VALUES (/*id*/1702011, /*unit_id*/170231, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/1.5, /*change_face*/1, /*description*/'生日快乐！\n希望接下来的一年，\n会成为你最美好的一年！');
+INSERT INTO `unit_comments` VALUES (/*id*/1702012, /*unit_id*/170201, /*use_type*/2, /*voice_id*/6, /*face_id*/2, /*change_time*/3.5, /*change_face*/1, /*description*/'今天是你的生日，\n所以我们开了烤肉派对！\n我会烤很多的，你也要吃很多哦！');
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');

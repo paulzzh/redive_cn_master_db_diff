@@ -55,3 +55,4 @@ INSERT INTO `tips` VALUES (/*id*/4106001, /*value*/106001, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4106301, /*value*/106301, /*tips_index*/1, /*title*/'感动的相遇');
 INSERT INTO `tips` VALUES (/*id*/4107101, /*value*/107101, /*tips_index*/1, /*title*/'好无聊……');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
+INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');

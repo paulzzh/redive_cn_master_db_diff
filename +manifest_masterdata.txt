@@ -1,1 +1,1 @@
-a/masterdata_master.unity3d,24cdf4d1ecf919fc30ebfa320d126995,tutorial2,1348912,
+a/masterdata_master.unity3d,b1a9f4ee307ba568d09e76228ac7cb22,tutorial2,1372189,

@@ -46,7 +46,7 @@ a/jukebox_thumb_music_000045.unity3d,d1cd04511f026489b5f75df0224bbb34,common,110
 a/jukebox_thumb_music_000046.unity3d,32c7c3d9533556fbbff7e9ae81d9024a,common,7127,
 a/jukebox_thumb_music_000047.unity3d,8ea405d86f98aa24676818d80c7df411,common,10778,
 a/jukebox_thumb_music_000048.unity3d,3ba4b55aa2f1a10c84a1801914399c81,common,10978,
-a/jukebox_thumb_music_000049.unity3d,10d930ef950da8d3128cc3e8a66bbd81,common,9805,
+a/jukebox_thumb_music_000049.unity3d,73a349f8fd87c32b793920dff8e699fb,common,9918,
 a/jukebox_thumb_music_000050.unity3d,e1a1af1d4c1d3e8eedde3adc3a215f91,common,10826,
 a/jukebox_thumb_music_000051.unity3d,0dced46237d759466d71ca0bd03d885f,common,10573,
 a/jukebox_thumb_music_000052.unity3d,410e3a7cb6675354a0e5be36137e7827,common,10644,

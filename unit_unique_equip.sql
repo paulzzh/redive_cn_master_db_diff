@@ -2,7 +2,10 @@ CREATE TABLE 'unit_unique_equip' ('unit_id' INTEGER NOT NULL, 'equip_slot' INTEG
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100101, /*equip_slot*/1, /*equip_id*/130011);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100201, /*equip_slot*/1, /*equip_id*/130021);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100301, /*equip_slot*/1, /*equip_id*/130031);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/100601, /*equip_slot*/1, /*equip_id*/130061);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102101, /*equip_slot*/1, /*equip_id*/130211);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102201, /*equip_slot*/1, /*equip_id*/130221);
+INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102701, /*equip_slot*/1, /*equip_id*/130271);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102801, /*equip_slot*/1, /*equip_id*/130281);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/102901, /*equip_slot*/1, /*equip_id*/130291);
 INSERT INTO `unit_unique_equip` VALUES (/*unit_id*/103001, /*equip_slot*/1, /*equip_id*/130301);

@@ -122,3 +122,10 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/120, /*campaign_category*/31, /*va
 INSERT INTO `campaign_schedule` VALUES (/*id*/121, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/'2021/01/09 5:00:00', /*end_time*/'2021/01/14 4:59:59');
 INSERT INTO `campaign_schedule` VALUES (/*id*/122, /*campaign_category*/32, /*value*/2000.0, /*system_id*/102, /*icon_image*/30, /*start_time*/'2021/01/14 5:00:00', /*end_time*/'2021/01/19 4:59:59');
 INSERT INTO `campaign_schedule` VALUES (/*id*/123, /*campaign_category*/42, /*value*/2000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/'2021/01/14 5:00:00', /*end_time*/'2021/01/19 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/124, /*campaign_category*/151, /*value*/1500.0, /*system_id*/6004, /*icon_image*/80, /*start_time*/'2021/01/18 9:00:00', /*end_time*/'2021/02/01 23:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/125, /*campaign_category*/152, /*value*/1500.0, /*system_id*/6005, /*icon_image*/80, /*start_time*/'2021/01/18 9:00:00', /*end_time*/'2021/02/01 23:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/126, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/'2021/01/19 5:00:00', /*end_time*/'2021/01/29 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/127, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/'2021/01/19 5:00:00', /*end_time*/'2021/01/29 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/128, /*campaign_category*/45, /*value*/2000.0, /*system_id*/104, /*icon_image*/40, /*start_time*/'2021/01/29 5:00:00', /*end_time*/'2021/02/08 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/129, /*campaign_category*/31, /*value*/2000.0, /*system_id*/101, /*icon_image*/30, /*start_time*/'2021/01/27 5:00:00', /*end_time*/'2021/02/02 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/130, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/'2021/01/27 5:00:00', /*end_time*/'2021/02/02 4:59:59');

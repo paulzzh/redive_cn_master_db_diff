@@ -1153,6 +1153,7 @@ a/icon_icon_stamp_105301.unity3d,14ceba6b90d8b7afa2a06b54a97b6d23,tutorial1,1184
 a/icon_icon_stamp_105801.unity3d,93ea54ab47720e572ed4851d7adf4969,tutorial1,10904,
 a/icon_icon_stamp_105901.unity3d,e303d582eeb464851c019ca41ead7b21,tutorial1,10120,
 a/icon_icon_stamp_106001.unity3d,9905077864568fee68553118b8e1ce2c,tutorial1,12111,
+a/icon_icon_training_quest_count.unity3d,fee80e2d892401a8a2de4c743f0cf297,tutorial1,9212,
 a/icon_item_no_frame_23001.unity3d,5e2cdb29a2c577409dc4f4ecdfccd684,tutorial1,4190,
 a/icon_memory_piece_no_frame.unity3d,f68224cd5083b24d240296297bedc9f4,tutorial1,9844,
 a/icon_thumb_chara_story_top_100111.unity3d,972692e899c72ac55ed41c0c7e9c9e03,tutorial1,16800,

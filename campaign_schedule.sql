@@ -129,3 +129,9 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/127, /*campaign_category*/44, /*va
 INSERT INTO `campaign_schedule` VALUES (/*id*/128, /*campaign_category*/45, /*value*/2000.0, /*system_id*/104, /*icon_image*/40, /*start_time*/'2021/01/29 5:00:00', /*end_time*/'2021/02/08 4:59:59');
 INSERT INTO `campaign_schedule` VALUES (/*id*/129, /*campaign_category*/31, /*value*/2000.0, /*system_id*/101, /*icon_image*/30, /*start_time*/'2021/01/27 5:00:00', /*end_time*/'2021/02/02 4:59:59');
 INSERT INTO `campaign_schedule` VALUES (/*id*/130, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/'2021/01/27 5:00:00', /*end_time*/'2021/02/02 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/131, /*campaign_category*/31, /*value*/3000.0, /*system_id*/101, /*icon_image*/30, /*start_time*/'2021/02/02 5:00:00', /*end_time*/'2021/02/10 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/132, /*campaign_category*/41, /*value*/3000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/'2021/02/02 5:00:00', /*end_time*/'2021/02/10 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/133, /*campaign_category*/32, /*value*/3000.0, /*system_id*/102, /*icon_image*/30, /*start_time*/'2021/02/10 5:00:00', /*end_time*/'2021/02/14 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/134, /*campaign_category*/42, /*value*/3000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/'2021/02/10 5:00:00', /*end_time*/'2021/02/14 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/135, /*campaign_category*/34, /*value*/3000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/'2021/02/11 5:00:00', /*end_time*/'2021/02/21 4:59:59');
+INSERT INTO `campaign_schedule` VALUES (/*id*/136, /*campaign_category*/44, /*value*/3000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/'2021/02/11 5:00:00', /*end_time*/'2021/02/21 4:59:59');

@@ -2,3 +2,4 @@ CREATE TABLE 'tower_story_data' ('story_group_id' INTEGER NOT NULL, 'story_type'
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7001, /*story_type*/7, /*value*/1, /*title*/'寻求失去的记忆', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/09/28 9:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7002, /*story_type*/7, /*value*/2, /*title*/'姐妹的羁绊与愿望之塔', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/11/09 12:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7003, /*story_type*/7, /*value*/3, /*title*/'星星们的二重奏', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/12/07 12:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7004, /*story_type*/7, /*value*/4, /*title*/'妹妹·约定', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/02/01 11:00:00', /*end_time*/'2099/12/31 23:59:59');

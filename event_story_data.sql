@@ -9,5 +9,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5007, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5008, /*story_type*/5, /*value*/10008, /*title*/'暮光破坏者', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/11/19 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5009, /*story_type*/5, /*value*/10009, /*title*/'忘却的圣歌', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/12/17 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5010, /*story_type*/5, /*value*/10010, /*title*/'新春破晓之星大危机！', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/01/14 15:00:00', /*end_time*/'2099/12/31 23:59:59');
-INSERT INTO `event_story_data` VALUES (/*story_group_id*/5011, /*story_type*/5, /*value*/10011, /*title*/'情人节大作战！心意相通的甜蜜战斗', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/02/11 15:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5011, /*story_type*/5, /*value*/10011, /*title*/'情人节之战！正中红心的甜蜜战斗', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/02/11 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

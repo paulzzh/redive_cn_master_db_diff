@@ -12,6 +12,7 @@ INSERT INTO `tips` VALUES (/*id*/4101001, /*value*/101001, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4101101, /*value*/101101, /*tips_index*/1, /*title*/'小小的误会');
 INSERT INTO `tips` VALUES (/*id*/4101201, /*value*/101201, /*tips_index*/1, /*title*/'睡糊涂');
 INSERT INTO `tips` VALUES (/*id*/4101301, /*value*/101301, /*tips_index*/1, /*title*/'新奥义');
+INSERT INTO `tips` VALUES (/*id*/4101401, /*value*/101401, /*tips_index*/1, /*title*/'侦探的传说');
 INSERT INTO `tips` VALUES (/*id*/4101501, /*value*/101501, /*tips_index*/1, /*title*/'爱强于剑');
 INSERT INTO `tips` VALUES (/*id*/4101601, /*value*/101601, /*tips_index*/1, /*title*/'用气味吸引');
 INSERT INTO `tips` VALUES (/*id*/4101701, /*value*/101701, /*tips_index*/1, /*title*/'香织眼里的大概');

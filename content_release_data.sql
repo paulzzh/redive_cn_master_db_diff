@@ -14,6 +14,7 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/204, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/205, /*team_level*/1, /*story_id*/0, /*quest_id*/11003001, /*dialog*/'通关主线战斗3-1（普通）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/206, /*team_level*/1, /*story_id*/0, /*quest_id*/11004013, /*dialog*/'通关主线战斗4-13（普通）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/207, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');
+INSERT INTO `content_release_data` VALUES (/*system_id*/210, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');
 INSERT INTO `content_release_data` VALUES (/*system_id*/401, /*team_level*/1, /*story_id*/0, /*quest_id*/11004006, /*dialog*/'通关主线战斗4-6（普通）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/402, /*team_level*/1, /*story_id*/0, /*quest_id*/11008015, /*dialog*/'通关主线战斗8-15（普通）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/503, /*team_level*/1, /*story_id*/0, /*quest_id*/11002002, /*dialog*/'通关主线战斗2-2（普通）后解锁');

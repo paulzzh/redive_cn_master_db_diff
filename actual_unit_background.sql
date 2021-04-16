@@ -63,8 +63,8 @@ INSERT INTO `actual_unit_background` VALUES (/*unit_id*/107531, /*unit_name*/'�
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/107631, /*unit_name*/'枣可萝', /*bg_id*/510190, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/107731, /*unit_name*/'天野铃莓', /*bg_id*/510190, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/107831, /*unit_name*/'百地希留耶', /*bg_id*/510280, /*face_type*/2);
-INSERT INTO `actual_unit_background` VALUES (/*unit_id*/107931, /*unit_name*/'大神美冬', /*bg_id*/510250, /*face_type*/2);
-INSERT INTO `actual_unit_background` VALUES (/*unit_id*/108031, /*unit_name*/'宫坂珠希', /*bg_id*/510250, /*face_type*/4);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/107931, /*unit_name*/'宫坂珠希', /*bg_id*/510250, /*face_type*/2);
+INSERT INTO `actual_unit_background` VALUES (/*unit_id*/108031, /*unit_name*/'大神美冬', /*bg_id*/510250, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/108131, /*unit_name*/'上喜忍', /*bg_id*/510300, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/108231, /*unit_name*/'出云宫子', /*bg_id*/510030, /*face_type*/4);
 INSERT INTO `actual_unit_background` VALUES (/*unit_id*/108331, /*unit_name*/'玉泉美咲', /*bg_id*/510101, /*face_type*/4);

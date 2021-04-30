@@ -1,7 +1,7 @@
 manifest/all_assetmanifest,7210e6fda7cb8faf17ec52e888e7eff0,every,216670,
 manifest/arcade_assetmanifest,fbd85f82f5324ba17a6af0ae85348cfb,every,476,
 manifest/banner_assetmanifest,60c71ae0711a27145674109840668d14,every,8366,
-manifest/bdl_assetmanifest,806db5b6c5bdcdd4bf083ff1f8b63669,every,75409,
+manifest/bdl_assetmanifest,45240f1587ae31abb14f9b5735cc7dc5,every,75409,
 manifest/bg_assetmanifest,619bafc6abcf8ad5e4231d063b0a7bb4,every,290817,
 manifest/clanbattle_assetmanifest,2e4bf3027f2c18573ddd404e9d10b719,every,2844,
 manifest/comic_assetmanifest,5b59fbaba74f1659283c3f21c3f11a67,every,12264,

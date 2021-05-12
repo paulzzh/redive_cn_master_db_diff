@@ -4,3 +4,4 @@ INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7002, /*story_type*/7, 
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7003, /*story_type*/7, /*value*/3, /*title*/'星星们的二重奏', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2020/12/07 12:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7004, /*story_type*/7, /*value*/4, /*title*/'妹妹·约定', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/02/01 11:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7005, /*story_type*/7, /*value*/5, /*title*/'傲娇鬼屋', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/03/29 12:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7006, /*story_type*/7, /*value*/6, /*title*/'两人的骄傲与羁绊同在', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/05/28 9:00:00', /*end_time*/'2099/12/31 23:59:59');

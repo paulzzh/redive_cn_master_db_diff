@@ -3,7 +3,7 @@ INSERT INTO `fke_happening_list` VALUES (/*happening_id*/1, /*happening_name*/'�
 INSERT INTO `fke_happening_list` VALUES (/*happening_id*/2, /*happening_name*/'香蕉皮跳跃');
 INSERT INTO `fke_happening_list` VALUES (/*happening_id*/3, /*happening_name*/'香蕉皮滑行');
 INSERT INTO `fke_happening_list` VALUES (/*happening_id*/4, /*happening_name*/'步美的团扇');
-INSERT INTO `fke_happening_list` VALUES (/*happening_id*/5, /*happening_name*/'恶霸官爷雕像');
+INSERT INTO `fke_happening_list` VALUES (/*happening_id*/5, /*happening_name*/'恶霸地方官雕像');
 INSERT INTO `fke_happening_list` VALUES (/*happening_id*/6, /*happening_name*/'间歇泉');
 INSERT INTO `fke_happening_list` VALUES (/*happening_id*/7, /*happening_name*/'龙卷风');
 INSERT INTO `fke_happening_list` VALUES (/*happening_id*/8, /*happening_name*/'逆风');

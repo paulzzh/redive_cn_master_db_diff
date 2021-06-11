@@ -12,6 +12,7 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10011, /*event_id*/10011, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10012, /*event_id*/10012, /*gacha_name*/'王都的名侦探　叹息的追踪者（STALKER）', /*item_type*/2, /*item_id*/60112, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10013, /*event_id*/10013, /*gacha_name*/'盛开在阿斯特朗的双轮之花', /*item_type*/2, /*item_id*/60122, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10014, /*event_id*/10014, /*gacha_name*/'复刻初音的礼物大作战', /*item_type*/2, /*item_id*/60132, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10015, /*event_id*/10015, /*gacha_name*/'将军道中记　白翼的武士', /*item_type*/2, /*item_id*/60142, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10016, /*event_id*/10016, /*gacha_name*/'复刻小小甜心冒险家', /*item_type*/2, /*item_id*/60152, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10017, /*event_id*/10017, /*gacha_name*/'Re: 从零开始收集的异世界餐桌', /*item_type*/2, /*item_id*/60162, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);

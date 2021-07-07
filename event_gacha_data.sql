@@ -16,5 +16,6 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10015, /*event_id*/10015, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10016, /*event_id*/10016, /*gacha_name*/'复刻小小甜心冒险家', /*item_type*/2, /*item_id*/60152, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10017, /*event_id*/10017, /*gacha_name*/'Re: 从零开始收集的异世界餐桌', /*item_type*/2, /*item_id*/60162, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10018, /*event_id*/10018, /*gacha_name*/'复刻吸血鬼猎人with伊莉亚', /*item_type*/2, /*item_id*/60172, /*cost*/1, /*repeat_step*/5);
-INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10019, /*event_id*/10019, /*gacha_name*/'铃奈的彩虹舞台！', /*item_type*/2, /*item_id*/60182, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10019, /*event_id*/10019, /*gacha_name*/'铃奈的RAINBOW STAGE！', /*item_type*/2, /*item_id*/60182, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10020, /*event_id*/10020, /*gacha_name*/'复刻危险假日！海边的美食家公主', /*item_type*/2, /*item_id*/60192, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);

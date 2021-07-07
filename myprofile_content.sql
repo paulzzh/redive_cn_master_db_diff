@@ -7,3 +7,6 @@ INSERT INTO `myprofile_content` VALUES (/*id*/5, /*name*/'浅蓝色', /*start_ti
 INSERT INTO `myprofile_content` VALUES (/*id*/6, /*name*/'蓝色', /*start_time*/'2020-01-01 0:00:00', /*end_time*/'', /*disp_order*/17);
 INSERT INTO `myprofile_content` VALUES (/*id*/7, /*name*/'紫色', /*start_time*/'2020-01-01 0:00:00', /*end_time*/'', /*disp_order*/18);
 INSERT INTO `myprofile_content` VALUES (/*id*/8, /*name*/'灰色', /*start_time*/'2020-01-01 0:00:00', /*end_time*/'', /*disp_order*/19);
+INSERT INTO `myprofile_content` VALUES (/*id*/9, /*name*/'夏日沙滩的朝阳', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/9);
+INSERT INTO `myprofile_content` VALUES (/*id*/10, /*name*/'夏日沙滩的夕阳', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/10);
+INSERT INTO `myprofile_content` VALUES (/*id*/11, /*name*/'夏日沙滩的星空', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/11);

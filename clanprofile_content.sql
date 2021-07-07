@@ -14,3 +14,6 @@ INSERT INTO `clanprofile_content` VALUES (/*id*/12, /*name*/'墨丘利财团', /
 INSERT INTO `clanprofile_content` VALUES (/*id*/13, /*name*/'暮光流星群', /*start_time*/'2020-01-01 0:00:00', /*end_time*/'', /*disp_order*/24);
 INSERT INTO `clanprofile_content` VALUES (/*id*/14, /*name*/'月光学院', /*start_time*/'2020-01-01 0:00:00', /*end_time*/'', /*disp_order*/25);
 INSERT INTO `clanprofile_content` VALUES (/*id*/15, /*name*/'纯白之翼　兰德索尔分部', /*start_time*/'2020-01-01 0:00:00', /*end_time*/'', /*disp_order*/26);
+INSERT INTO `clanprofile_content` VALUES (/*id*/16, /*name*/'夏日沙滩的朝阳', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/9);
+INSERT INTO `clanprofile_content` VALUES (/*id*/17, /*name*/'夏日沙滩的夕阳', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/10);
+INSERT INTO `clanprofile_content` VALUES (/*id*/18, /*name*/'夏日沙滩的星空', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/11);

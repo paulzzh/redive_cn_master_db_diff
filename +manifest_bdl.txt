@@ -811,7 +811,7 @@ a/bdl_viewquestspeciallevel.unity3d,638d60176f63275ed8f0a3bb38191b7c,tutorial1,1
 a/bdl_viewquesttop.unity3d,9769856a26721405ded1ece8b1f2da66,tutorial0,17004,
 a/bdl_viewquestuniqueequip.unity3d,d2171034ce5aa85b7e0de5b62ea0b44e,tutorial1,10653,
 a/bdl_viewquestunitexpand.unity3d,20e8d5139090f85475f850ae8bc0b2f3,tutorial1,9690,
-a/bdl_viewracetop.unity3d,d1b904c1377faa0580abfad1cf78ab46,tutorial1,1078289,
+a/bdl_viewracetop.unity3d,3d388299edd560b0984221771189f6b9,tutorial1,1082476,
 a/bdl_viewroomtop.unity3d,2a52eb84ef4a7dc6a369286a85038a3e,tutorial1,55841,
 a/bdl_viewseasonpass.unity3d,1fd1823c8d6c87a5bdc8ee65d987fe0a,tutorial1,18292,
 a/bdl_viewsekairanking.unity3d,1d4b7fae74534f839433c7ece7203dda,tutorial1,67397,

@@ -7,8 +7,6 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/107, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/108, /*team_level*/1, /*story_id*/0, /*quest_id*/11009001, /*dialog*/'通关主线关卡9-1（NORMAL）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/109, /*team_level*/1, /*story_id*/0, /*quest_id*/11009002, /*dialog*/'通关主线关卡9-2（NORMAL）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/110, /*team_level*/1, /*story_id*/0, /*quest_id*/11001005, /*dialog*/'通关主线关卡1-5（NORMAL）后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/111, /*team_level*/1, /*story_id*/0, /*quest_id*/12018001, /*dialog*/'通关主线关卡18-1（HARD）后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/112, /*team_level*/1, /*story_id*/0, /*quest_id*/11018005, /*dialog*/'通关主线关卡18-5（NORMAL）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/201, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');
 INSERT INTO `content_release_data` VALUES (/*system_id*/202, /*team_level*/1, /*story_id*/0, /*quest_id*/11004006, /*dialog*/'通关主线战斗4-6（NORMAL）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/203, /*team_level*/1, /*story_id*/0, /*quest_id*/11008015, /*dialog*/'通关主线战斗8-15（NORMAL）后解锁');
@@ -25,6 +23,3 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/601, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/602, /*team_level*/1, /*story_id*/0, /*quest_id*/11007001, /*dialog*/'通关主线战斗7-1（NORMAL）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/603, /*team_level*/1, /*story_id*/0, /*quest_id*/11016014, /*dialog*/'通关主线战斗16-14（NORMAL）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/701, /*team_level*/1, /*story_id*/0, /*quest_id*/11003001, /*dialog*/'通关主线战斗3-1（NORMAL）后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/904, /*team_level*/1, /*story_id*/0, /*quest_id*/11002009, /*dialog*/'通关主线关卡2-9（NORMAL）后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/905, /*team_level*/1, /*story_id*/0, /*quest_id*/11002009, /*dialog*/'通关主线关卡2-9（NORMAL）后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/906, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');

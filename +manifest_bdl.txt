@@ -797,7 +797,7 @@ a/bdl_viewminigamepcttop.unity3d,c4b6957fb74928dbfa92fd1c239a3971,tutorial1,1212
 a/bdl_viewminigamesrttop.unity3d,55cb7aabadc46c2ce7f4b52d50a87082,tutorial1,12090,
 a/bdl_viewminigamesrtwordlist.unity3d,be45b1df4761b33e0b45ac8bba704dab,tutorial1,11825,
 a/bdl_viewmission.unity3d,72fb93dcc9b71725261713a350064573,tutorial1,20397,
-a/bdl_viewmyprofilecard.unity3d,ab0d98e87bb760c87eea171660c55b31,tutorial1,50704,
+a/bdl_viewmyprofilecard.unity3d,6e44a0f02a3db96a92b809137f099464,tutorial1,50702,
 a/bdl_viewnewcharacterintroduction.unity3d,a7e7b7fef98ed25946938a46834145cd,tutorial1,66433,
 a/bdl_viewnormalarenatop.unity3d,237745fa014ee073c484845cb096f93b,tutorial1,19921,
 a/bdl_viewompphotomemory.unity3d,1b3e80d9fe1b48e2fe97bc2d1fee2abc,tutorial1,11150,

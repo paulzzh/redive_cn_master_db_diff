@@ -921,7 +921,7 @@ a/spine_event_story_10017.cysp.unity3d,b2004fb1ce43800d911ea1d29c3243e7,tutorial
 a/spine_event_story_10028.cysp.unity3d,095a9694a678acb7836606e89b2851cd,tutorial2,63870,
 a/spine_event_story_60000.cysp.unity3d,b8c16385722f2bce03f380570c641b2f,tutorial2,45678,
 a/spine_event_story_60001.cysp.unity3d,2e36c05ac1219df42eebda1ae0e9bac5,tutorial2,15183,
-a/spine_eventdiary.unity3d,db2f76c127faf6bd4d445b313f100360,tutorial2,409823,
+a/spine_eventdiary.unity3d,d410880358b8ac75cb1bb0d2cd4c2fbf,tutorial2,403639,
 a/spine_full_100111.unity3d,501ecd97f6ca9f604bd0c4965c3f1c93,tutorial2,250002,
 a/spine_full_100211.unity3d,da92f8765dbe843125d449eb51d2a680,tutorial2,309533,
 a/spine_full_100311.unity3d,fd1b624ea7f58e0dca4ce4132e4b78fc,tutorial2,282093,

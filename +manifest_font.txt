@@ -1,2 +1,2 @@
 a/font_df-hanzipen-w5.unity3d,6c0e14e32b95928671fa088da2909bdc,common,5537492,
-a/font_fot-udmarugo_largepro-b.unity3d,01db2c2f1a6593fe15a53e5d393a510b,common,4439618,
+a/font_fot-udmarugo_largepro-b.unity3d,5c151cc61b1236fcdb80ed15c6b6ff8a,common,2236187,

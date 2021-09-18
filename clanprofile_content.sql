@@ -19,3 +19,4 @@ INSERT INTO `clanprofile_content` VALUES (/*id*/17, /*name*/'夏日沙滩的夕�
 INSERT INTO `clanprofile_content` VALUES (/*id*/18, /*name*/'夏日沙滩的星空', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/11);
 INSERT INTO `clanprofile_content` VALUES (/*id*/19, /*name*/'海底背景', /*start_time*/'2021-08-19 11:00:00', /*end_time*/'', /*disp_order*/8);
 INSERT INTO `clanprofile_content` VALUES (/*id*/20, /*name*/'？？？', /*start_time*/'2021-08-19 11:00:00', /*end_time*/'', /*disp_order*/29);
+INSERT INTO `clanprofile_content` VALUES (/*id*/21, /*name*/'圣特蕾莎女子学院\n（好朋友社）', /*start_time*/'2021-09-21 11:00:00', /*end_time*/'', /*disp_order*/27);

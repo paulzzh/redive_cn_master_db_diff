@@ -11,3 +11,5 @@ INSERT INTO `myprofile_content` VALUES (/*id*/9, /*name*/'夏日沙滩的朝阳'
 INSERT INTO `myprofile_content` VALUES (/*id*/10, /*name*/'夏日沙滩的夕阳', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/10);
 INSERT INTO `myprofile_content` VALUES (/*id*/11, /*name*/'夏日沙滩的星空', /*start_time*/'2019-06-30 12:00:00', /*end_time*/'', /*disp_order*/11);
 INSERT INTO `myprofile_content` VALUES (/*id*/12, /*name*/'海底背景', /*start_time*/'2021-08-19 11:00:00', /*end_time*/'', /*disp_order*/8);
+INSERT INTO `myprofile_content` VALUES (/*id*/13, /*name*/'万圣节的白天', /*start_time*/'2021-10-04 11:00:00', /*end_time*/'', /*disp_order*/6);
+INSERT INTO `myprofile_content` VALUES (/*id*/14, /*name*/'万圣节的夜晚', /*start_time*/'2021-10-04 11:00:00', /*end_time*/'', /*disp_order*/7);

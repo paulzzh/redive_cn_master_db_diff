@@ -66,5 +66,6 @@ INSERT INTO `tips` VALUES (/*id*/4109601, /*value*/109601, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4110701, /*value*/110701, /*tips_index*/1, /*title*/'孤单者专用');
 INSERT INTO `tips` VALUES (/*id*/4110801, /*value*/110801, /*tips_index*/1, /*title*/'容易被误解');
 INSERT INTO `tips` VALUES (/*id*/4111401, /*value*/111401, /*tips_index*/1, /*title*/'可以跟我做朋友吗？');
+INSERT INTO `tips` VALUES (/*id*/4111501, /*value*/106501, /*tips_index*/1, /*title*/'我奉陪！');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
 INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');

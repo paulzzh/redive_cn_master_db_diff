@@ -457,7 +457,7 @@ a/bdl_partseventkaiserbattlesub.unity3d,6c6ab8237d6fd962ad8e176ba2204ddf,tutoria
 a/bdl_partseventrobollamabattlelogplate.unity3d,dce78e92ad543b633e3ff40d0e3a5571,tutorial1,6373,
 a/bdl_partseventteaserdetail.unity3d,89502da12ef0466e135f8e48332b6ff1,tutorial1,6571,
 a/bdl_partsfilterlingbutton.unity3d,5099bb009f160ed7d7847d58b36f2efe,tutorial1,10290,
-a/bdl_partsfloordetailinfogroup.unity3d,054550fd65832f149c97e69d7ef0abde,tutorial1,38811,
+a/bdl_partsfloordetailinfogroup.unity3d,0277a8213e6ca545f4a26f9cc15c6b18,tutorial1,46342,
 a/bdl_partsfooter.unity3d,7df47b6e784be93980e309b345a2b140,tutorial0,36917,
 a/bdl_partsfreeskilllist.unity3d,dc401634ce023547f1f2d535809a8466,tutorial1,7950,
 a/bdl_partsfriendbattleplate.unity3d,d10987f361921d7b41c664ece93e5c19,tutorial1,8983,

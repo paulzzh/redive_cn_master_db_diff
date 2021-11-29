@@ -25,3 +25,5 @@ INSERT INTO `clanprofile_content` VALUES (/*id*/23, /*name*/'万圣节的夜晚'
 INSERT INTO `clanprofile_content` VALUES (/*id*/24, /*name*/'蘑菇和秋天的溪谷', /*start_time*/'2021-10-19 11:00:00', /*end_time*/'', /*disp_order*/4);
 INSERT INTO `clanprofile_content` VALUES (/*id*/25, /*name*/'蘑菇和小溪', /*start_time*/'2021-10-19 11:00:00', /*end_time*/'', /*disp_order*/5);
 INSERT INTO `clanprofile_content` VALUES (/*id*/26, /*name*/'龙族据点', /*start_time*/'2021-11-16 11:00:00', /*end_time*/'', /*disp_order*/28);
+INSERT INTO `clanprofile_content` VALUES (/*id*/27, /*name*/'圣诞节的白天', /*start_time*/'2021-12-11 11:00:00', /*end_time*/'', /*disp_order*/2);
+INSERT INTO `clanprofile_content` VALUES (/*id*/28, /*name*/'圣诞节的夜晚', /*start_time*/'2021-12-11 11:00:00', /*end_time*/'', /*disp_order*/3);

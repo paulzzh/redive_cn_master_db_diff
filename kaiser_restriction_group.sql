@@ -75,6 +75,8 @@ INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*u
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*unit_id*/110601);
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*unit_id*/110701);
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*unit_id*/110801);
+INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*unit_id*/170101);
+INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*unit_id*/170201);
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/2001, /*unit_id*/100101);
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/2001, /*unit_id*/100201);
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/2001, /*unit_id*/100301);

@@ -26,4 +26,6 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10025, /*event_id*/10025, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10026, /*event_id*/10026, /*gacha_name*/'不给布丁就捣蛋！约定的万圣节派对', /*item_type*/2, /*item_id*/60252, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10027, /*event_id*/10027, /*gacha_name*/'龙之探索者', /*item_type*/2, /*item_id*/60262, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10028, /*event_id*/10028, /*gacha_name*/'暮光破坏者', /*item_type*/2, /*item_id*/60272, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10029, /*event_id*/10029, /*gacha_name*/'礼物大恐慌！　兰德索尔的圣诞老人们', /*item_type*/2, /*item_id*/60282, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10030, /*event_id*/10030, /*gacha_name*/'忘却的圣歌', /*item_type*/2, /*item_id*/60292, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);

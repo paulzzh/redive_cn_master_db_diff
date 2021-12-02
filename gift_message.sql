@@ -81,4 +81,5 @@ INSERT INTO `gift_message` VALUES (/*id*/9701, /*discription*/'「机械莉玛�
 INSERT INTO `gift_message` VALUES (/*id*/9702, /*discription*/'在「王都终末决战」中获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/88888, /*discription*/'购买「{0}」获得的道具', /*type_1*/88, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/88889, /*discription*/'购买玛那获得的体力', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/88890, /*discription*/'购买「女神祭宝库秘钥」获得的道具', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/88890, /*discription*/'从「女神祭」宝库中获得的道具', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/88891, /*discription*/'季票额外经验兑换玛那', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

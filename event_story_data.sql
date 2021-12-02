@@ -20,4 +20,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5023, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5025, /*story_type*/5, /*value*/10025, /*title*/'小小的勇气·万圣节之夜！', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/09/30 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5027, /*story_type*/5, /*value*/10027, /*title*/'龙之探索者', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/10/28 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5029, /*story_type*/5, /*value*/10029, /*title*/'礼物大恐慌！　兰德索尔的圣诞老人们', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/11/25 15:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5031, /*story_type*/5, /*value*/10031, /*title*/'狂奔！　兰德索尔公会竞速赛', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/12/26 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

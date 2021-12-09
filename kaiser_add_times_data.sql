@@ -47,7 +47,7 @@ INSERT INTO `kaiser_add_times_data` VALUES (/*id*/45, /*add_times*/1, /*add_time
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/46, /*add_times*/1, /*add_times_time*/'2021/12/24 12:59:59', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/47, /*add_times*/1, /*add_times_time*/'2021/12/24 13:59:59', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/48, /*add_times*/1, /*add_times_time*/'2021/12/24 14:59:59', /*duration*/60);
-INSERT INTO `kaiser_add_times_data` VALUES (/*id*/49, /*add_times*/1, /*add_times_time*/'2021/12/24 15:59:59', /*duration*/60);
+INSERT INTO `kaiser_add_times_data` VALUES (/*id*/49, /*add_times*/2, /*add_times_time*/'2021/12/24 15:59:59', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/50, /*add_times*/2, /*add_times_time*/'2021/12/24 16:59:59', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/51, /*add_times*/2, /*add_times_time*/'2021/12/24 17:59:59', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/52, /*add_times*/2, /*add_times_time*/'2021/12/24 18:59:59', /*duration*/60);
@@ -119,7 +119,7 @@ INSERT INTO `kaiser_add_times_data` VALUES (/*id*/117, /*add_times*/2, /*add_tim
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/118, /*add_times*/2, /*add_times_time*/'2021/12/27 12:59:58', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/119, /*add_times*/2, /*add_times_time*/'2021/12/27 13:59:58', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/120, /*add_times*/2, /*add_times_time*/'2021/12/27 14:59:58', /*duration*/60);
-INSERT INTO `kaiser_add_times_data` VALUES (/*id*/121, /*add_times*/2, /*add_times_time*/'2021/12/27 15:59:58', /*duration*/60);
+INSERT INTO `kaiser_add_times_data` VALUES (/*id*/121, /*add_times*/3, /*add_times_time*/'2021/12/27 15:59:58', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/122, /*add_times*/3, /*add_times_time*/'2021/12/27 16:59:58', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/123, /*add_times*/3, /*add_times_time*/'2021/12/27 17:59:58', /*duration*/60);
 INSERT INTO `kaiser_add_times_data` VALUES (/*id*/124, /*add_times*/3, /*add_times_time*/'2021/12/27 18:59:58', /*duration*/60);

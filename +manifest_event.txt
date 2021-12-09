@@ -246,7 +246,7 @@ a/event_guildintroduction_5_1.unity3d,b9dd16201feef19567260beef5b8abca,common,45
 a/event_guildintroduction_5_2.unity3d,a6fbecbd535d5e699e203d0961274494,common,4195,
 a/event_guildintroduction_6_1.unity3d,0b0f060d97de24897bbfe0eee6c58786,common,5166,
 a/event_guildintroduction_6_2.unity3d,21b2f0bd9a9f4dc1f6d058c800cbb3fc,common,5273,
-a/event_hatsuneeffect.unity3d,2b3baecc28239b217752c901b20ef436,common,964995,
+a/event_hatsuneeffect.unity3d,6375b4c633a018fda7a4c9ad681dbd99,common,964990,
 a/event_icon_quiz_910012.unity3d,4558c0f44951bb804ab93b7dbfa3e60c,common,8391,
 a/event_img_event_boxgacha_00.unity3d,850fb625b90f4f9c3d65b8dcd7ba289c,common,113414,
 a/event_img_event_boxgacha_10002_00.unity3d,ad62f8a716408791c1baae98001f9168,common,113422,

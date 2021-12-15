@@ -1218,7 +1218,7 @@ INSERT INTO `unit_comments` VALUES (/*id*/1115012, /*unit_id*/111531, /*use_type
 INSERT INTO `unit_comments` VALUES (/*id*/1116001, /*unit_id*/111601, /*use_type*/1, /*voice_id*/1, /*face_id*/2, /*change_time*/1.7, /*change_face*/1, /*description*/'圣诞快乐！\n希望我的演唱会\n能成为对你而言\n最棒的礼物。');
 INSERT INTO `unit_comments` VALUES (/*id*/1116002, /*unit_id*/111601, /*use_type*/1, /*voice_id*/2, /*face_id*/2, /*change_time*/4.6, /*change_face*/6, /*description*/'火鸡还有蛋糕……\n我最喜欢圣诞大餐了！\n就今天一天，\n就算吃撑了也没关系吧？');
 INSERT INTO `unit_comments` VALUES (/*id*/1116003, /*unit_id*/111601, /*use_type*/1, /*voice_id*/3, /*face_id*/1, /*change_time*/3.0, /*change_face*/2, /*description*/'我觉得比往常的圣诞节\n过得更开心，\n是因为有你在吗？');
-INSERT INTO `unit_comments` VALUES (/*id*/1116004, /*unit_id*/111601, /*use_type*/1, /*voice_id*/4, /*face_id*/6, /*change_time*/4.1, /*change_face*/5, /*description*/'哈啊～\n今天好冷啊。\n我说，我们能不能\n稍微走远一点？');
+INSERT INTO `unit_comments` VALUES (/*id*/1116004, /*unit_id*/111601, /*use_type*/1, /*voice_id*/4, /*face_id*/6, /*change_time*/4.1, /*change_face*/5, /*description*/'哈啊～\n今天好冷啊。\n我……能稍微\n靠近你一些吗？');
 INSERT INTO `unit_comments` VALUES (/*id*/1116005, /*unit_id*/111601, /*use_type*/1, /*voice_id*/5, /*face_id*/1, /*change_time*/3.7, /*change_face*/2, /*description*/'怎么样？\n这身衣服很不错吧♪\n我想让你看到\n我最可爱的一面！');
 INSERT INTO `unit_comments` VALUES (/*id*/1116006, /*unit_id*/111631, /*use_type*/1, /*voice_id*/1, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'能让大家都欢笑的圣诞节\n是我最喜欢的！\n这份情谊\n就让我用最棒的演出来报答吧！');
 INSERT INTO `unit_comments` VALUES (/*id*/1116007, /*unit_id*/111631, /*use_type*/1, /*voice_id*/2, /*face_id*/1, /*change_time*/0.0, /*change_face*/1, /*description*/'要用我的演唱会来\n炒热圣诞节的气氛咯♪\n因为圣诞老人和偶像\n都是为人们带去梦想的工作啊！');

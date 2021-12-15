@@ -820,7 +820,7 @@ a/bdl_viewquestuniqueequip.unity3d,d2171034ce5aa85b7e0de5b62ea0b44e,tutorial1,10
 a/bdl_viewquestunitexpand.unity3d,20e8d5139090f85475f850ae8bc0b2f3,tutorial1,9690,
 a/bdl_viewracetop.unity3d,6f3e3b3936c186c0c01e6b6762317456,tutorial1,805361,
 a/bdl_viewroomtop.unity3d,2a52eb84ef4a7dc6a369286a85038a3e,tutorial1,55841,
-a/bdl_viewseasonpass.unity3d,28ba68241444ca54acd249f1d57dfdaa,tutorial1,36140,
+a/bdl_viewseasonpass.unity3d,a5ec90e5c549ca1f33d5c76aa3baf4e4,tutorial1,36144,
 a/bdl_viewsekairanking.unity3d,1d4b7fae74534f839433c7ece7203dda,tutorial1,67397,
 a/bdl_viewshareditemlist.unity3d,9e6f35dc622b6b8e7e110e217dc715a2,tutorial1,21618,
 a/bdl_viewshop.unity3d,b46c77ca780edc07e734b54f1c313613,tutorial1,28834,

@@ -31,4 +31,5 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10030, /*event_id*/10030, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10031, /*event_id*/10031, /*gacha_name*/'狂奔！　兰德索尔公会竞速赛', /*item_type*/2, /*item_id*/60302, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10032, /*event_id*/10032, /*gacha_name*/'新春破晓之星大危机', /*item_type*/2, /*item_id*/60312, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10033, /*event_id*/10033, /*gacha_name*/'魔法少女　二人是Misty＆Purely', /*item_type*/2, /*item_id*/60322, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10034, /*event_id*/10034, /*gacha_name*/'情人节之战！　正中红心的甜蜜战斗', /*item_type*/2, /*item_id*/60332, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);

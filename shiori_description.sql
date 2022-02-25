@@ -1,0 +1,11 @@
+CREATE TABLE 'shiori_description' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `shiori_description` VALUES (/*id*/101, /*type*/1, /*description*/'在外传中，可以观看特别的故事。\n活动剧情会根据活动关卡的通关进度解锁。');
+INSERT INTO `shiori_description` VALUES (/*id*/201, /*type*/2, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+INSERT INTO `shiori_description` VALUES (/*id*/301, /*type*/3, /*description*/'挑战活动关卡和首领时，\n会触发信赖度章节。根据对话的结果，能提升信赖度，\n当信赖度达到一定程度时，还能获得礼物。');
+INSERT INTO `shiori_description` VALUES (/*id*/20005, /*type*/4, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+INSERT INTO `shiori_description` VALUES (/*id*/20007, /*type*/5, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+INSERT INTO `shiori_description` VALUES (/*id*/20009, /*type*/6, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+INSERT INTO `shiori_description` VALUES (/*id*/20010, /*type*/7, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+INSERT INTO `shiori_description` VALUES (/*id*/20011, /*type*/8, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+INSERT INTO `shiori_description` VALUES (/*id*/20013, /*type*/9, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+CREATE INDEX 'shiori_description_0_type' on 'shiori_description'('type');

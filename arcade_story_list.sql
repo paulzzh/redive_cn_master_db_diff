@@ -7,3 +7,10 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027700, /*arcade_id*/1004, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027701, /*arcade_id*/1004, /*sub_title*/'过于热血的战斗');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027702, /*arcade_id*/1004, /*sub_title*/'压轴登场');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027703, /*arcade_id*/1004, /*sub_title*/'战斗的结局……');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027704, /*arcade_id*/1004, /*sub_title*/'向更高处进发！');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040700, /*arcade_id*/1005, /*sub_title*/'看好奶酪！');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040701, /*arcade_id*/1005, /*sub_title*/'和弱小敌人的攻防');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040702, /*arcade_id*/1005, /*sub_title*/'奶酪的诱惑');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040703, /*arcade_id*/1005, /*sub_title*/'萌芽的爱情？');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040704, /*arcade_id*/1005, /*sub_title*/'劳动会一直持续下去');
+CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');

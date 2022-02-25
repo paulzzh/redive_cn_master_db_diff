@@ -28,3 +28,6 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/26, /*ailment_action*/69, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/27, /*ailment_action*/8, /*ailment_detail_1*/10, /*ailment_name*/'昏迷');
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/28, /*ailment_action*/9, /*ailment_detail_1*/5, /*ailment_name*/'诅咒');
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/29, /*ailment_action*/70, /*ailment_detail_1*/-1, /*ailment_name*/'HP变化');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/30, /*ailment_action*/8, /*ailment_detail_1*/11, /*ailment_name*/'时间停止');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/31, /*ailment_action*/76, /*ailment_detail_1*/-1, /*ailment_name*/'生命值回复量减少');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/32, /*ailment_action*/78, /*ailment_detail_1*/-1, /*ailment_name*/'弱体伤害上升');

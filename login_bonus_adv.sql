@@ -4,4 +4,9 @@ INSERT INTO `login_bonus_adv` VALUES (/*id*/2, /*login_bonus_id*/70000, /*start_
 INSERT INTO `login_bonus_adv` VALUES (/*id*/3, /*login_bonus_id*/70001, /*start_time*/'0', /*end_time*/'0', /*count_key*/1, /*adv_id*/410, /*read_process_flag*/0);
 INSERT INTO `login_bonus_adv` VALUES (/*id*/4, /*login_bonus_id*/70001, /*start_time*/'0', /*end_time*/'0', /*count_key*/2, /*adv_id*/411, /*read_process_flag*/0);
 INSERT INTO `login_bonus_adv` VALUES (/*id*/5, /*login_bonus_id*/70001, /*start_time*/'0', /*end_time*/'0', /*count_key*/3, /*adv_id*/412, /*read_process_flag*/0);
+INSERT INTO `login_bonus_adv` VALUES (/*id*/6, /*login_bonus_id*/70002, /*start_time*/'2021/12/24 5:00:00', /*end_time*/'2021/12/25 4:59:59', /*count_key*/0, /*adv_id*/400, /*read_process_flag*/0);
+INSERT INTO `login_bonus_adv` VALUES (/*id*/7, /*login_bonus_id*/70002, /*start_time*/'2021/12/25 5:00:00', /*end_time*/'2021/12/26 4:59:59', /*count_key*/0, /*adv_id*/401, /*read_process_flag*/0);
+INSERT INTO `login_bonus_adv` VALUES (/*id*/8, /*login_bonus_id*/70003, /*start_time*/'0', /*end_time*/'0', /*count_key*/1, /*adv_id*/413, /*read_process_flag*/0);
+INSERT INTO `login_bonus_adv` VALUES (/*id*/9, /*login_bonus_id*/70003, /*start_time*/'0', /*end_time*/'0', /*count_key*/2, /*adv_id*/414, /*read_process_flag*/0);
+INSERT INTO `login_bonus_adv` VALUES (/*id*/10, /*login_bonus_id*/70003, /*start_time*/'0', /*end_time*/'0', /*count_key*/3, /*adv_id*/415, /*read_process_flag*/0);
 CREATE INDEX 'login_bonus_adv_0_login_bonus_id' on 'login_bonus_adv'('login_bonus_id');

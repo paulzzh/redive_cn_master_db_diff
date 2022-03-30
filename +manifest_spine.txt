@@ -1239,7 +1239,7 @@ a/spine_event_story_10037.cysp.unity3d,2eddd9a78ae35410b4e1136705e8d05f,tutorial
 a/spine_event_story_60000.cysp.unity3d,b8c16385722f2bce03f380570c641b2f,tutorial2,45678,
 a/spine_event_story_60001.cysp.unity3d,2e36c05ac1219df42eebda1ae0e9bac5,tutorial2,15183,
 a/spine_event_story_60002.cysp.unity3d,ef25336084b8c6724f4733f47e79fa08,tutorial2,15184,
-a/spine_eventdiary.unity3d,458867908d4f09ec0f05d01a136d167b,tutorial2,404055,
+a/spine_eventdiary.unity3d,d410880358b8ac75cb1bb0d2cd4c2fbf,tutorial2,403639,
 a/spine_full_100111.unity3d,501ecd97f6ca9f604bd0c4965c3f1c93,tutorial2,250002,
 a/spine_full_100113.unity3d,0c720295637f60c7aa8cfb386713541f,tutorial2,283833,
 a/spine_full_100211.unity3d,da92f8765dbe843125d449eb51d2a680,tutorial2,309533,

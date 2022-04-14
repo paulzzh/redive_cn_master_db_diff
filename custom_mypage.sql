@@ -21,7 +21,7 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000018, /*group_id*/10001, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000019, /*group_id*/10001, /*still_group_id*/0, /*still_name*/'OPscene4', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000020, /*group_id*/10001, /*still_group_id*/0, /*still_name*/'OPscene5', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000021, /*group_id*/10001, /*still_group_id*/0, /*still_name*/'OPscene6', /*vertical_still_flg*/0, /*scroll_direction*/0);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000022, /*group_id*/10001, /*still_group_id*/0, /*still_name*/'アニメオリジナル　コッコロカスタムマイページ', /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000022, /*group_id*/10001, /*still_group_id*/0, /*still_name*/'动画原创　可可萝自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000023, /*group_id*/10002, /*still_group_id*/0, /*still_name*/'Menu04scene1', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000024, /*group_id*/10002, /*still_group_id*/0, /*still_name*/'Menu04scene2', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000025, /*group_id*/10002, /*still_group_id*/0, /*still_name*/'Menu04scene3', /*vertical_still_flg*/0, /*scroll_direction*/0);
@@ -40,7 +40,7 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000037, /*group_id*/10002, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000038, /*group_id*/10002, /*still_group_id*/0, /*still_name*/'Menu06scene4', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000039, /*group_id*/10002, /*still_group_id*/0, /*still_name*/'Menu06scene5', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000040, /*group_id*/10002, /*still_group_id*/0, /*still_name*/'Menu06scene6', /*vertical_still_flg*/0, /*scroll_direction*/0);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000041, /*group_id*/10002, /*still_group_id*/0, /*still_name*/'アニメオリジナル　キャルカスタムマイページ', /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000041, /*group_id*/10002, /*still_group_id*/0, /*still_name*/'动画原创　凯露自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000042, /*group_id*/10003, /*still_group_id*/0, /*still_name*/'Menu07scene1', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000043, /*group_id*/10003, /*still_group_id*/0, /*still_name*/'Menu07scene2', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000044, /*group_id*/10003, /*still_group_id*/0, /*still_name*/'Menu07scene3', /*vertical_still_flg*/0, /*scroll_direction*/0);
@@ -59,7 +59,7 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000056, /*group_id*/10003, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000057, /*group_id*/10003, /*still_group_id*/0, /*still_name*/'Menu09scene4', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000058, /*group_id*/10003, /*still_group_id*/0, /*still_name*/'Menu09scene5', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000059, /*group_id*/10003, /*still_group_id*/0, /*still_name*/'Menu09scene6', /*vertical_still_flg*/0, /*scroll_direction*/0);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000060, /*group_id*/10003, /*still_group_id*/0, /*still_name*/'アニメオリジナルカスタムマイページ', /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000060, /*group_id*/10003, /*still_group_id*/0, /*still_name*/'动画原创  流夏自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000061, /*group_id*/10004, /*still_group_id*/0, /*still_name*/'Menu10scene1', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000062, /*group_id*/10004, /*still_group_id*/0, /*still_name*/'Menu10scene2', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000063, /*group_id*/10004, /*still_group_id*/0, /*still_name*/'Menu10scene3', /*vertical_still_flg*/0, /*scroll_direction*/0);
@@ -90,8 +90,8 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000087, /*group_id*/10004, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000088, /*group_id*/10004, /*still_group_id*/0, /*still_name*/'EDscene4', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000089, /*group_id*/10004, /*still_group_id*/0, /*still_name*/'EDscene5', /*vertical_still_flg*/0, /*scroll_direction*/0);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000090, /*group_id*/10004, /*still_group_id*/0, /*still_name*/'EDscene6', /*vertical_still_flg*/0, /*scroll_direction*/0);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000091, /*group_id*/10004, /*still_group_id*/0, /*still_name*/'アニメオリジナル　ペコリーヌカスタムマイページ', /*vertical_still_flg*/0, /*scroll_direction*/0);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000092, /*group_id*/20001, /*still_group_id*/0, /*still_name*/'3周年記念カスタムマイページ1', /*vertical_still_flg*/0, /*scroll_direction*/0);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000093, /*group_id*/20001, /*still_group_id*/0, /*still_name*/'3周年記念カスタムマイページ2', /*vertical_still_flg*/0, /*scroll_direction*/0);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000094, /*group_id*/20001, /*still_group_id*/0, /*still_name*/'3周年記念カスタムマイページ3', /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000091, /*group_id*/10004, /*still_group_id*/0, /*still_name*/'动画原创　佩可莉姆自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000092, /*group_id*/20001, /*still_group_id*/0, /*still_name*/'3周年纪念自定义我的主页1', /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000093, /*group_id*/20001, /*still_group_id*/0, /*still_name*/'3周年纪念自定义我的主页2', /*vertical_still_flg*/0, /*scroll_direction*/0);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000094, /*group_id*/20001, /*still_group_id*/0, /*still_name*/'3周年纪念自定义我的主页3', /*vertical_still_flg*/0, /*scroll_direction*/0);
 CREATE INDEX 'custom_mypage_0_still_group_id' on 'custom_mypage'('still_group_id');

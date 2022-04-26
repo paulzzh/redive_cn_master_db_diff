@@ -7,4 +7,5 @@ INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6027, /*story_type*/6, /
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6029, /*story_type*/6, /*value*/10029, /*title*/'礼物大恐慌！　兰德索尔的圣诞老人们', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2021/11/30 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6033, /*story_type*/6, /*value*/10033, /*title*/'魔法少女　二人是Misty&Purely', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/01/28 9:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6038, /*story_type*/6, /*value*/10038, /*title*/'恩赐的财团与神圣学院的问题儿童', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/03/31 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
+INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6040, /*story_type*/6, /*value*/10040, /*title*/'牧场里的四农士　贫穷农场奋斗记！', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/04/30 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');

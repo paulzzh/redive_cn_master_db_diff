@@ -268,7 +268,7 @@ a/all_atlasttkrecord02.unity3d,e8c05fec20b04928a2816b933cf33024,tutorial1,220655
 a/all_atlasttkrecord03.unity3d,51d5e0193a04b2639fecb656267e5a03,tutorial1,221032,
 a/all_atlasttkrecord04.unity3d,c69a45f6c2abc5dbf3a274663ebe84e2,tutorial1,269122,
 a/all_atlasttkrecord05.unity3d,56b85cf0ddaab61abafe1a6d1bbeef6e,tutorial1,174286,
-a/all_atlasttkrecordcommon.unity3d,8d0305b4b4902eea22260bda20291c9a,tutorial1,560481,
+a/all_atlasttkrecordcommon.unity3d,babf534f63bbb810bba9b7eb30c187fb,tutorial1,564300,
 a/all_atlastutorial.unity3d,7c960a2929da48639d77dedbf23182b1,tutorial0,6146,
 a/all_atlasuekbody.unity3d,281fc60c97b0be12e3aa00e7feffbb87,tutorial1,237983,
 a/all_atlasuekboss.unity3d,517145478a32ef7ce924577cf804d054,tutorial1,799754,

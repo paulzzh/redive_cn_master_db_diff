@@ -72,6 +72,7 @@ INSERT INTO `tips` VALUES (/*id*/4111501, /*value*/106501, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4112201, /*value*/112201, /*tips_index*/1, /*title*/'决定了☆');
 INSERT INTO `tips` VALUES (/*id*/4112301, /*value*/112301, /*tips_index*/1, /*title*/'魔法少女？');
 INSERT INTO `tips` VALUES (/*id*/4112701, /*value*/112701, /*tips_index*/1, /*title*/'替身');
+INSERT INTO `tips` VALUES (/*id*/4112801, /*value*/112801, /*tips_index*/1, /*title*/'认知');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
 INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');
 INSERT INTO `tips` VALUES (/*id*/4180401, /*value*/180401, /*tips_index*/1, /*title*/'力量提升☆');

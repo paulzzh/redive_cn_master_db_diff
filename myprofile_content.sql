@@ -20,3 +20,6 @@ INSERT INTO `myprofile_content` VALUES (/*id*/18, /*name*/'圣诞节的夜晚', 
 INSERT INTO `myprofile_content` VALUES (/*id*/19, /*name*/'元旦日出', /*start_time*/'2021-12-31 11:00:00', /*end_time*/'', /*disp_order*/6);
 INSERT INTO `myprofile_content` VALUES (/*id*/20, /*name*/'不可思议之国的城堡', /*start_time*/'2022-05-31 11:00:00', /*end_time*/'', /*disp_order*/4);
 INSERT INTO `myprofile_content` VALUES (/*id*/21, /*name*/'不可思议之国的平原', /*start_time*/'2022-05-31 11:00:00', /*end_time*/'', /*disp_order*/5);
+INSERT INTO `myprofile_content` VALUES (/*id*/22, /*name*/'银河', /*start_time*/'2022-06-30 11:00:00', /*end_time*/'', /*disp_order*/1);
+INSERT INTO `myprofile_content` VALUES (/*id*/23, /*name*/'祈愿竹之村的白天', /*start_time*/'2022-06-30 11:00:00', /*end_time*/'', /*disp_order*/2);
+INSERT INTO `myprofile_content` VALUES (/*id*/24, /*name*/'祈愿竹之村的夜晚', /*start_time*/'2022-06-30 11:00:00', /*end_time*/'', /*disp_order*/3);

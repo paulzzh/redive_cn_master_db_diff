@@ -2881,7 +2881,7 @@ a/all_materialmultirankup.unity3d,5077a79b0d0f952f16f26cb0ddb29cd0,tutorial1,322
 a/all_materialpartsdialogclanbattlefinalday.unity3d,3dc72b34ff71d1523dff8e21fa6e5b8f,tutorial1,23479,
 a/all_materialpartsgachaicon.unity3d,de345aacb4da5b8ecee1dd0542dbc6a5,tutorial1,382068,
 a/all_materialpartsheader.unity3d,3e5fc9f7360f2d505fe1819d7688bdb4,tutorial0,4772,
-a/all_materialquestdetail.unity3d,e86c9980c98a81d931af4fa1298cb026,tutorial1,387175,
+a/all_materialquestdetail.unity3d,ef141e478d48d0e62ce986cd0baef558,tutorial1,387175,
 a/all_materialquestresult.unity3d,3c5a5b91b4aafc41a255b4da01a204d1,tutorial1,11353,
 a/all_materialrace.unity3d,bc00002fd1fc10eb7b59d2058ab4766c,tutorial1,827834,
 a/all_materialresultitemicon.unity3d,8d8f7afee0a799db4c02eee22c3542d8,tutorial1,25388,

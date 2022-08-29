@@ -3463,7 +3463,7 @@ a/icon_thumb_guild_story_top_3015.unity3d,e9f6f7488555fe559dc8c4d94900fedb,tutor
 a/icon_thumb_guild_story_top_3016.unity3d,bcecc16a7c6d169d154c202bfee5be98,tutorial1,17713,
 a/icon_thumb_guild_story_top_3017.unity3d,daf5fa036b683348eb2f11bae9d39629,tutorial1,18014,
 a/icon_thumb_guild_story_top_3101.unity3d,46c70bec55e84000ff6933e3fa1c268a,tutorial1,18132,
-a/icon_thumb_lto_story.unity3d,a53ae4fb35bc50ed68a5841b9b5fc5f7,tutorial1,13123,
+a/icon_thumb_lto_story.unity3d,2a1a8ec8ea9eac0a86320a540c46b357,tutorial1,13504,
 a/icon_thumb_movie_1000101.unity3d,f2631a53706a84b8fcd0b2309ae2934b,tutorial1,4580,
 a/icon_thumb_movie_1000201.unity3d,e893f6d695717bdfaa9a0ae6e3b66ad2,tutorial1,5491,
 a/icon_thumb_movie_1000301.unity3d,7173a6a787b47752688b84c2bf20163c,tutorial1,5199,

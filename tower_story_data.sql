@@ -13,3 +13,4 @@ INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7011, /*story_type*/7, 
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7012, /*story_type*/7, /*value*/12, /*title*/'擦肩而过的距离', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/05/15 12:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7013, /*story_type*/7, /*value*/13, /*title*/'劳逸不均', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/07/14 12:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7014, /*story_type*/7, /*value*/14, /*title*/'淑女的理想和大人的真实', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/09/15 12:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `tower_story_data` VALUES (/*story_group_id*/7015, /*story_type*/7, /*value*/15, /*title*/'姐姐的命题和博士的对偶', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/11/18 12:00:00', /*end_time*/'2099/12/31 23:59:59');

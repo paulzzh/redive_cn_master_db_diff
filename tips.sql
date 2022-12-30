@@ -83,6 +83,7 @@ INSERT INTO `tips` VALUES (/*id*/4114201, /*value*/114201, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4114301, /*value*/114301, /*tips_index*/1, /*title*/'一起！');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
 INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');
+INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/'猜拳时间！');
 INSERT INTO `tips` VALUES (/*id*/4180201, /*value*/180201, /*tips_index*/1, /*title*/'点点头');
 INSERT INTO `tips` VALUES (/*id*/4180401, /*value*/180401, /*tips_index*/1, /*title*/'力量提升☆');
 INSERT INTO `tips` VALUES (/*id*/4180501, /*value*/180501, /*tips_index*/1, /*title*/'软乎乎');

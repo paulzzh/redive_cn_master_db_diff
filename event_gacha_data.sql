@@ -55,5 +55,7 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10054, /*event_id*/10054, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10055, /*event_id*/10055, /*gacha_name*/'礼物大恐慌！　兰德索尔的圣诞老人们', /*item_type*/2, /*item_id*/60542, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10056, /*event_id*/10056, /*gacha_name*/'新春美食公主！　孤注一掷的少女们', /*item_type*/2, /*item_id*/60552, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10057, /*event_id*/10057, /*gacha_name*/'狂奔！　兰德索尔公会竞速赛', /*item_type*/2, /*item_id*/60562, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10058, /*event_id*/10058, /*gacha_name*/'情相连。心相系。', /*item_type*/2, /*item_id*/60572, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10059, /*event_id*/10059, /*gacha_name*/'情相连。心相系。', /*item_type*/2, /*item_id*/60572, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

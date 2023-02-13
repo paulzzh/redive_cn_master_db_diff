@@ -72,12 +72,12 @@ INSERT INTO `gift_message` VALUES (/*id*/9409, /*discription*/'购买道具装�
 INSERT INTO `gift_message` VALUES (/*id*/9410, /*discription*/'购买道具装备礼包Ⅳ（再贩）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9411, /*discription*/'购买道具装备礼包Ⅴ获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9412, /*discription*/'购买道具装备礼包Ⅵ获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9413, /*discription*/'购买道具装备礼包Ⅰ（3周年）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9414, /*discription*/'购买道具装备礼包Ⅱ（3周年）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9415, /*discription*/'购买道具装备礼包Ⅲ（3周年）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9416, /*discription*/'购买道具装备礼包Ⅳ（3周年）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9417, /*discription*/'购买道具装备礼包Ⅴ（3周年）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/9418, /*discription*/'购买道具装备礼包Ⅵ（3周年）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9413, /*discription*/'购买道具装备礼包Ⅰ（特别纪念）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9414, /*discription*/'购买道具装备礼包Ⅱ（特别纪念）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9415, /*discription*/'购买道具装备礼包Ⅲ（特别纪念）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9416, /*discription*/'购买道具装备礼包Ⅳ（特别纪念）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9417, /*discription*/'购买道具装备礼包Ⅴ（特别纪念）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9418, /*discription*/'购买道具装备礼包Ⅵ（特别纪念）获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9419, /*discription*/'购买道具装备礼包Ⅶ获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9420, /*discription*/'购买道具装备礼包Ⅷ获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9501, /*discription*/'「活动登录奖励」第{1}天获得的道具。', /*type_1*/13, /*type_2*/2, /*type_3*/0, /*type_4*/0);

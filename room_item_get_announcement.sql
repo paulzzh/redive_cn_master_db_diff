@@ -1,7 +1,7 @@
 CREATE TABLE 'room_item_get_announcement' ('id' INTEGER NOT NULL, 'room_item_id' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'get_date' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/1, /*room_item_id*/2801, /*start_date*/'2022/10/31 11:00:00', /*end_date*/'2030/12/31 23:59:59', /*get_date*/'');
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/2, /*room_item_id*/2802, /*start_date*/'2022/11/21 11:00:00', /*end_date*/'2030/12/31 23:59:59', /*get_date*/'');
-INSERT INTO `room_item_get_announcement` VALUES (/*id*/3, /*room_item_id*/2307, /*start_date*/'2021/2/16 12:00:00', /*end_date*/'2030/12/31 23:59:59', /*get_date*/'2021/2/16 12:00:00');
-INSERT INTO `room_item_get_announcement` VALUES (/*id*/4, /*room_item_id*/2308, /*start_date*/'2021/2/16 12:00:00', /*end_date*/'2030/12/31 23:59:59', /*get_date*/'2021/2/16 12:00:00');
+INSERT INTO `room_item_get_announcement` VALUES (/*id*/3, /*room_item_id*/2307, /*start_date*/'2023/02/16 12:00:00', /*end_date*/'2030/12/31 23:59:59', /*get_date*/'2023/02/16 12:00:00');
+INSERT INTO `room_item_get_announcement` VALUES (/*id*/4, /*room_item_id*/2308, /*start_date*/'2023/02/16 12:00:00', /*end_date*/'2030/12/31 23:59:59', /*get_date*/'2023/02/16 12:00:00');
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/5, /*room_item_id*/2806, /*start_date*/'2023/02/10 12:00:00', /*end_date*/'2030/12/31 23:59:59', /*get_date*/'');
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/6, /*room_item_id*/2808, /*start_date*/'2021/2/28 12:00:00', /*end_date*/'2030/12/31 23:59:59', /*get_date*/'');

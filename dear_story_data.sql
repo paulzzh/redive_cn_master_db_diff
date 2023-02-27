@@ -15,4 +15,5 @@ INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6050, /*story_type*/6, /
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6052, /*story_type*/6, /*value*/10052, /*title*/'魔法提督Lovely★莫妮卡 Let''s　Go！魔法的四重奏！', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/10/31 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6054, /*story_type*/6, /*value*/10054, /*title*/'初次登场·香格里拉　圣夜的爱情游戏', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/11/30 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6056, /*story_type*/6, /*value*/10056, /*title*/'新春美食公主！　孤注一掷的少女们', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2022/12/31 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
+INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6061, /*story_type*/6, /*value*/10061, /*title*/'灰姑娘课程　璀璨的日子是苹果的滋味', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2023/2/28 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');

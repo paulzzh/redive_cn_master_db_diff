@@ -3,4 +3,13 @@ INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10001, /*group_name*/'公�
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10002, /*group_name*/'公主连结！Re:Dive 2');
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10003, /*group_name*/'公主连结！Re:Dive 3');
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10004, /*group_name*/'公主连结！Re:Dive 4');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10005, /*group_name*/'公主连结！Re:Dive 第2季 1');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10006, /*group_name*/'公主连结！Re:Dive 第2季 2');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10007, /*group_name*/'公主连结！Re:Dive 第2季 3');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/10008, /*group_name*/'公主连结！Re:Dive 第2季 全卷购买特典');
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20001, /*group_name*/'公主连结！Re:Dive 3周年纪念');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20002, /*group_name*/'官方插画 第3卷 发售纪念道具');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20003, /*group_name*/'公主连结！Re:Dive 3.5周年纪念');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20004, /*group_name*/'公主连结！Re:Dive 4周年纪念');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/30001, /*group_name*/'小游戏');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40001, /*group_name*/'大家的日历');

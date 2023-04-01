@@ -13,4 +13,7 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040701, /*arcade_id*/1005, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040702, /*arcade_id*/1005, /*sub_title*/'奶酪的诱惑');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040703, /*arcade_id*/1005, /*sub_title*/'萌芽的爱情？');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040704, /*arcade_id*/1005, /*sub_title*/'劳动会一直持续下去');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5080700, /*arcade_id*/1008, /*sub_title*/'通往究极的道路');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5080701, /*arcade_id*/1008, /*sub_title*/'布丁永存');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/9004201, /*arcade_id*/1009, /*sub_title*/'以正确答案为目标团结一致！');
 CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');

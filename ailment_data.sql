@@ -31,3 +31,11 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/29, /*ailment_action*/70, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/30, /*ailment_action*/8, /*ailment_detail_1*/11, /*ailment_name*/'时间停止');
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/31, /*ailment_action*/76, /*ailment_detail_1*/-1, /*ailment_name*/'生命值回复量减少');
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/32, /*ailment_action*/78, /*ailment_detail_1*/-1, /*ailment_name*/'弱体伤害上升');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/33, /*ailment_action*/79, /*ailment_detail_1*/-1, /*ailment_name*/'行动时造成中毒伤害');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/34, /*ailment_action*/8, /*ailment_detail_1*/14, /*ailment_name*/'眩晕（其他栏）');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/35, /*ailment_action*/9, /*ailment_detail_1*/7, /*ailment_name*/'毒（其他栏）');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/36, /*ailment_action*/9, /*ailment_detail_1*/8, /*ailment_name*/'诅咒（其他栏）');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/37, /*ailment_action*/11, /*ailment_detail_1*/2, /*ailment_name*/'混乱（其他栏）');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/38, /*ailment_action*/8, /*ailment_detail_1*/13, /*ailment_name*/'结晶化');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/39, /*ailment_action*/83, /*ailment_detail_1*/1, /*ailment_name*/'减速（可以叠加）');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/40, /*ailment_action*/83, /*ailment_detail_1*/2, /*ailment_name*/'加速（可以叠加）');

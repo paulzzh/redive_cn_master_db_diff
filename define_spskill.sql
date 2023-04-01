@@ -1,5 +1,10 @@
 CREATE TABLE 'define_spskill' ('link_skill_slot' INTEGER NOT NULL, 'sp_skill_id' INTEGER NOT NULL, 'base_skill_id' INTEGER NOT NULL, 'skill_category' INTEGER NOT NULL, PRIMARY KEY('link_skill_slot'));
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1067001, /*sp_skill_id*/1067101, /*base_skill_id*/1067001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1158001, /*sp_skill_id*/1158100, /*base_skill_id*/1158001, /*skill_category*/1);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1158002, /*sp_skill_id*/1158101, /*base_skill_id*/1158001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1158003, /*sp_skill_id*/1158102, /*base_skill_id*/1158001, /*skill_category*/2);
-CREATE UNIQUE INDEX 'define_spskill_0_sp_skill_id' on 'define_spskill'('sp_skill_id');
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1158012, /*sp_skill_id*/1158111, /*base_skill_id*/1158001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1164001, /*sp_skill_id*/1164101, /*base_skill_id*/1164001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1185001, /*sp_skill_id*/1185101, /*base_skill_id*/1185001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1220001, /*sp_skill_id*/1220101, /*base_skill_id*/1220001, /*skill_category*/2);
+CREATE INDEX 'define_spskill_0_sp_skill_id' on 'define_spskill'('sp_skill_id');

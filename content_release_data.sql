@@ -22,6 +22,7 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/205, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/206, /*team_level*/1, /*story_id*/0, /*quest_id*/11004013, /*dialog*/'通关主线战斗4-13（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/207, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');
 INSERT INTO `content_release_data` VALUES (/*system_id*/210, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');
+INSERT INTO `content_release_data` VALUES (/*system_id*/212, /*team_level*/1, /*story_id*/0, /*quest_id*/11004013, /*dialog*/'通关主线关卡4-13（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/401, /*team_level*/1, /*story_id*/0, /*quest_id*/11004006, /*dialog*/'通关主线战斗4-6（普通难度）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/402, /*team_level*/1, /*story_id*/0, /*quest_id*/11008015, /*dialog*/'通关主线战斗8-15（普通难度）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/503, /*team_level*/1, /*story_id*/0, /*quest_id*/11002002, /*dialog*/'通关主线战斗2-2（普通难度）后解锁');
@@ -34,4 +35,5 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/701, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/904, /*team_level*/1, /*story_id*/0, /*quest_id*/11002009, /*dialog*/'通关主线关卡2-9（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/905, /*team_level*/1, /*story_id*/0, /*quest_id*/11002009, /*dialog*/'通关主线关卡2-9（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/906, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');
+INSERT INTO `content_release_data` VALUES (/*system_id*/909, /*team_level*/1, /*story_id*/0, /*quest_id*/11003006, /*dialog*/'通关主线关卡3-6（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/8001, /*team_level*/1, /*story_id*/0, /*quest_id*/11003002, /*dialog*/'通关主线关卡3-2（普通难度）后解锁');

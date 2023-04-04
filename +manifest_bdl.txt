@@ -868,6 +868,7 @@ a/bdl_partstitleuicustomize_1001.unity3d,93c603c3c489631e7c5803e26ae566a8,tutori
 a/bdl_partstitleuicustomize_1002.unity3d,47d73d9b0a78a99f2cc60152cf2f7d5c,tutorial1,177025,
 a/bdl_partstitleuicustomize_1003.unity3d,44c2d74ae5b83256e514ca72cf4601a5,tutorial1,177071,
 a/bdl_partstitleuicustomize_1004.unity3d,4cbb65be12d2c3b9a7c492655b6f146d,tutorial1,177043,
+a/bdl_partstitleuicustomize_1013.unity3d,77bd14a6aa0e2d3fe8e010033b58b0bd,tutorial1,177034,
 a/bdl_partstopicsfilterplates.unity3d,9d30763d4dfde73df4c9099289a74096,tutorial1,8419,
 a/bdl_partstouchpopup.unity3d,bb5185c14b20b072252fc59b7542e993,tutorial1,6191,
 a/bdl_partstowerbanner.unity3d,e19b483564f889743d0332bae72a639e,tutorial1,6793,

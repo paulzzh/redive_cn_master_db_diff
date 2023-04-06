@@ -6864,7 +6864,7 @@ a/storydata_spine_full_106711.unity3d,2ab8b16d91868ad7688eedef7e078256,common,40
 a/storydata_spine_full_106712.unity3d,f3e038a0604948985be3268fa22d2e23,everytmp,406141,
 a/storydata_spine_full_106713.unity3d,b9b088b958153de8181ed787b036684d,everytmp,562060,
 a/storydata_spine_full_106731.unity3d,4a0487648af199b92e6b236c9a7cbbdc,everytmp,235388,
-a/storydata_spine_full_106811.unity3d,c525fa9301f9565f592b223e0cdd60ff,common,574341,
+a/storydata_spine_full_106811.unity3d,3ff4e1ac8f6d0c3a3dd905748c16470e,common,1134735,
 a/storydata_spine_full_106812.unity3d,992cee4aceae5a8cae32d98d89f8c143,common,273809,
 a/storydata_spine_full_106813.unity3d,f77df1f51f9e3bbb9ce4df354c7eb2c3,everytmp,574378,
 a/storydata_spine_full_106814.unity3d,f5d608b71625edf6e1fded52a1beb92c,everytmp,325105,

@@ -4,7 +4,7 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5021701, /*arcade_id*/1003, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5021710, /*arcade_id*/1003, /*sub_title*/'挑战自己的极限');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5021711, /*arcade_id*/1003, /*sub_title*/'真的才是最好的');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027700, /*arcade_id*/1004, /*sub_title*/'再次前往厄尔庇斯岛！');
-INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027701, /*arcade_id*/1004, /*sub_title*/'过于热血的战斗');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027701, /*arcade_id*/1004, /*sub_title*/'过于激烈的战斗');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027702, /*arcade_id*/1004, /*sub_title*/'压轴登场');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027703, /*arcade_id*/1004, /*sub_title*/'战斗的结局……');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5027704, /*arcade_id*/1004, /*sub_title*/'向更高处进发！');

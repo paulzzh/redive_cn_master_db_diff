@@ -22,6 +22,7 @@ INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9101801, /*nam
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9102001, /*name*/'美美「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/4/3 5:00:00', /*end_time*/'2022/4/4 4:59:00', /*adv_id*/1020500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9102002, /*name*/'美美「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2023/4/3 5:00:00', /*end_time*/'2023/4/4 4:59:00', /*adv_id*/1020501);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9102101, /*name*/'胡桃「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/6/9 5:00:00', /*end_time*/'2022/6/10 4:59:00', /*adv_id*/1021500);
+INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9102102, /*name*/'胡桃「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2023/6/9 5:00:00', /*end_time*/'2023/6/10 4:59:00', /*adv_id*/1021501);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9102301, /*name*/'绫音「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/5/10 5:00:00', /*end_time*/'2022/5/11 4:59:00', /*adv_id*/1023500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9102302, /*name*/'绫音「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2023/5/10 5:00:00', /*end_time*/'2023/5/11 4:59:00', /*adv_id*/1023501);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9102501, /*name*/'铃莓「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/12/12 5:00:00', /*end_time*/'2022/12/13 4:59:00', /*adv_id*/1025500);
@@ -38,7 +39,9 @@ INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9103601, /*nam
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9103701, /*name*/'智「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/8/11 5:00:00', /*end_time*/'2022/8/12 4:59:00', /*adv_id*/1037500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9103801, /*name*/'栞「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/11/3 5:00:00', /*end_time*/'2022/11/4 4:59:00', /*adv_id*/1038500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9104001, /*name*/'碧「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/6/6 5:00:00', /*end_time*/'2022/6/7 4:59:00', /*adv_id*/1040500);
+INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9104002, /*name*/'碧「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2023/6/6 5:00:00', /*end_time*/'2023/6/7 4:59:00', /*adv_id*/1040501);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9104201, /*name*/'千歌「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/6/3 5:00:00', /*end_time*/'2022/6/4 4:59:00', /*adv_id*/1042500);
+INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9104202, /*name*/'千歌「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2023/6/3 5:00:00', /*end_time*/'2023/6/4 4:59:00', /*adv_id*/1042501);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9104301, /*name*/'真琴「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/8/9 5:00:00', /*end_time*/'2022/8/10 4:59:00', /*adv_id*/1043500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9104401, /*name*/'伊莉亚「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2022/5/5 5:00:00', /*end_time*/'2022/5/6 4:59:00', /*adv_id*/1044500);
 INSERT INTO `birthday_login_bonus_data` VALUES (/*login_bonus_id*/9104402, /*name*/'伊莉亚「生日剧情」', /*login_bonus_type*/9, /*start_time*/'2023/5/5 5:00:00', /*end_time*/'2023/5/6 4:59:00', /*adv_id*/1044501);

@@ -57,3 +57,13 @@ INSERT INTO `campaign_freegacha_data` VALUES (/*id*/55, /*campaign_id*/17, /*gac
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/56, /*campaign_id*/17, /*gacha_id*/50129);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/57, /*campaign_id*/17, /*gacha_id*/30130);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/58, /*campaign_id*/18, /*gacha_id*/30148);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/59, /*campaign_id*/18, /*gacha_id*/40005);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/60, /*campaign_id*/18, /*gacha_id*/30150);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/61, /*campaign_id*/18, /*gacha_id*/50151);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/62, /*campaign_id*/19, /*gacha_id*/50151);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/63, /*campaign_id*/19, /*gacha_id*/30152);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/64, /*campaign_id*/19, /*gacha_id*/30153);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/65, /*campaign_id*/19, /*gacha_id*/30154);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/66, /*campaign_id*/19, /*gacha_id*/40006);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/67, /*campaign_id*/19, /*gacha_id*/30156);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/68, /*campaign_id*/19, /*gacha_id*/30157);

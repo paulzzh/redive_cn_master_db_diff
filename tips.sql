@@ -92,6 +92,7 @@ INSERT INTO `tips` VALUES (/*id*/4116601, /*value*/116601, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4116701, /*value*/116701, /*tips_index*/1, /*title*/'擅长领域（可能）');
 INSERT INTO `tips` VALUES (/*id*/4116801, /*value*/116801, /*tips_index*/1, /*title*/'确定赤字');
 INSERT INTO `tips` VALUES (/*id*/4116901, /*value*/116901, /*tips_index*/1, /*title*/'擅长领域');
+INSERT INTO `tips` VALUES (/*id*/4117501, /*value*/117501, /*tips_index*/1, /*title*/'刺痛');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
 INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');
 INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/'猜拳时间！');
@@ -100,3 +101,4 @@ INSERT INTO `tips` VALUES (/*id*/4180301, /*value*/180301, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4180401, /*value*/180401, /*tips_index*/1, /*title*/'力量提升☆');
 INSERT INTO `tips` VALUES (/*id*/4180501, /*value*/180501, /*tips_index*/1, /*title*/'软乎乎');
 INSERT INTO `tips` VALUES (/*id*/4180601, /*value*/180601, /*tips_index*/1, /*title*/'助威声');
+INSERT INTO `tips` VALUES (/*id*/4180701, /*value*/180701, /*tips_index*/1, /*title*/'我的色彩');

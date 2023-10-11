@@ -74,5 +74,6 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10073, /*event_id*/10073, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10074, /*event_id*/10074, /*gacha_name*/'大江户的非法病历　Dr.深月的诊疗室', /*item_type*/2, /*item_id*/60732, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10075, /*event_id*/10075, /*gacha_name*/'快乐变身 双生天使', /*item_type*/2, /*item_id*/60742, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10076, /*event_id*/10076, /*gacha_name*/'万圣节救援队·紧急出动！　捕获毛茸茸大作战', /*item_type*/2, /*item_id*/60752, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10077, /*event_id*/10077, /*gacha_name*/'尖叫！连连！万圣鬼怪狂欢节', /*item_type*/2, /*item_id*/60762, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

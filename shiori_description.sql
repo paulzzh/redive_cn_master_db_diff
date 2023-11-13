@@ -12,4 +12,5 @@ INSERT INTO `shiori_description` VALUES (/*id*/20015, /*type*/10, /*description*
 INSERT INTO `shiori_description` VALUES (/*id*/20016, /*type*/11, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 INSERT INTO `shiori_description` VALUES (/*id*/20018, /*type*/12, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 INSERT INTO `shiori_description` VALUES (/*id*/20020, /*type*/13, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+INSERT INTO `shiori_description` VALUES (/*id*/20021, /*type*/14, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 CREATE INDEX 'shiori_description_0_type' on 'shiori_description'('type');

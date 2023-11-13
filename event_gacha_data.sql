@@ -76,5 +76,6 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10075, /*event_id*/10075, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10076, /*event_id*/10076, /*gacha_name*/'万圣节救援队·紧急出动！　捕获毛茸茸大作战', /*item_type*/2, /*item_id*/60752, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10077, /*event_id*/10077, /*gacha_name*/'尖叫！连连！万圣鬼怪狂欢节', /*item_type*/2, /*item_id*/60762, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10078, /*event_id*/10078, /*gacha_name*/'魔法少女外传　黑暗魔法★三人组！', /*item_type*/2, /*item_id*/60772, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10079, /*event_id*/10079, /*gacha_name*/'魔法提督Lovely★莫妮卡 Let''s　Go！魔法的四重奏！', /*item_type*/2, /*item_id*/60782, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

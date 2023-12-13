@@ -7,10 +7,10 @@ INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/5, /*mission_reward_i
 INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/6, /*mission_reward_id*/10020004, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/80);
 INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/7, /*mission_reward_id*/10020005, /*reward_type*/1001, /*reward_id*/98002, /*reward_num*/400);
 INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/8, /*mission_reward_id*/10020005, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/200000);
-INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/9, /*mission_reward_id*/10020005, /*reward_type*/2, /*reward_id*/60571, /*reward_num*/100);
+INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/9, /*mission_reward_id*/10020005, /*reward_type*/2, /*reward_id*/60811, /*reward_num*/100);
 INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/10, /*mission_reward_id*/10020006, /*reward_type*/1001, /*reward_id*/98002, /*reward_num*/400);
 INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/11, /*mission_reward_id*/10020006, /*reward_type*/12, /*reward_id*/94002, /*reward_num*/200000);
-INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/12, /*mission_reward_id*/10020006, /*reward_type*/2, /*reward_id*/60601, /*reward_num*/100);
+INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/12, /*mission_reward_id*/10020006, /*reward_type*/2, /*reward_id*/60831, /*reward_num*/100);
 INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/13, /*mission_reward_id*/10020007, /*reward_type*/1001, /*reward_id*/98002, /*reward_num*/400);
 INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/14, /*mission_reward_id*/10020007, /*reward_type*/2, /*reward_id*/90005, /*reward_num*/50);
 INSERT INTO `seasonpass_mission_reward_data` VALUES (/*id*/15, /*mission_reward_id*/10020008, /*reward_type*/1001, /*reward_id*/98002, /*reward_num*/400);

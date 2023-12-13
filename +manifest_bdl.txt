@@ -1109,7 +1109,7 @@ a/bdl_viewquestunitexpand.unity3d,29227c616cc06508bbed86faec4a0f18,tutorial1,974
 a/bdl_viewracetop.unity3d,112bec5cd6049c211e88a3e728bae30f,tutorial1,281213,
 a/bdl_viewredeemunitdetail.unity3d,7b432d3d8e69a59254b1dcee0b99c61c,tutorial1,38328,
 a/bdl_viewroomtop.unity3d,90c42cdc6e7fc29399bf75853dd3abf5,tutorial1,56563,
-a/bdl_viewseasonpass.unity3d,a5ec90e5c549ca1f33d5c76aa3baf4e4,tutorial1,36144,
+a/bdl_viewseasonpass.unity3d,cd3dce68f0ecbc7a963a12b367e6cc17,tutorial1,36152,
 a/bdl_viewsecretdungeontop.unity3d,ff87a27dd07eb6cbc31886936f1e2264,tutorial1,19854,
 a/bdl_viewsekairanking.unity3d,1d4b7fae74534f839433c7ece7203dda,tutorial1,67397,
 a/bdl_viewshareditemlist.unity3d,a40964b4d1895151d9c435b239453f6f,tutorial1,23469,

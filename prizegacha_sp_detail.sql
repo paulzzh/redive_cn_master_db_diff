@@ -3,3 +3,4 @@ INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/101, /*effect_id*/101,
 INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/102, /*effect_id*/102, /*name*/'可可萝奖');
 INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/103, /*effect_id*/103, /*name*/'凯露奖');
 INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/104, /*effect_id*/104, /*name*/'雪菲奖');
+INSERT INTO `prizegacha_sp_detail` VALUES (/*disp_rarity*/105, /*effect_id*/105, /*name*/'爱梅斯奖');

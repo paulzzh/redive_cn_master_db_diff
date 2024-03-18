@@ -6,10 +6,10 @@ INSERT INTO `love_rankup` VALUES (/*unit_id*/180701, /*love_rank*/5, /*effect_un
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180701, /*love_rank*/6, /*effect_unit_id*/118301);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180701, /*love_rank*/7, /*effect_unit_id*/118401);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180701, /*love_rank*/8, /*effect_unit_id*/118301);
-INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/9, /*effect_unit_id*/170301);
-INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/10, /*effect_unit_id*/170301);
-INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/11, /*effect_unit_id*/170301);
-INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/12, /*effect_unit_id*/170301);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/9, /*effect_unit_id*/170101);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/10, /*effect_unit_id*/170101);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/11, /*effect_unit_id*/170101);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/105701, /*love_rank*/12, /*effect_unit_id*/170101);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180801, /*love_rank*/2, /*effect_unit_id*/120401);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180801, /*love_rank*/3, /*effect_unit_id*/120501);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180801, /*love_rank*/4, /*effect_unit_id*/120601);
@@ -24,4 +24,11 @@ INSERT INTO `love_rankup` VALUES (/*unit_id*/180901, /*love_rank*/5, /*effect_un
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180901, /*love_rank*/6, /*effect_unit_id*/121701);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180901, /*love_rank*/7, /*effect_unit_id*/121801);
 INSERT INTO `love_rankup` VALUES (/*unit_id*/180901, /*love_rank*/8, /*effect_unit_id*/121801);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/2, /*effect_unit_id*/124401);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/3, /*effect_unit_id*/124301);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/4, /*effect_unit_id*/124401);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/5, /*effect_unit_id*/124401);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/6, /*effect_unit_id*/124301);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/7, /*effect_unit_id*/124401);
+INSERT INTO `love_rankup` VALUES (/*unit_id*/181001, /*love_rank*/8, /*effect_unit_id*/124301);
 CREATE INDEX 'love_rankup_0_unit_id' on 'love_rankup'('unit_id');

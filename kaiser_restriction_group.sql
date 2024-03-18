@@ -99,6 +99,4 @@ INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*u
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*unit_id*/109801);
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1001, /*unit_id*/106501);
 INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1003, /*unit_id*/111401);
-INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*unit_id*/170101);
-INSERT INTO `kaiser_restriction_group` VALUES (/*restriction_group_id*/1004, /*unit_id*/170201);
 CREATE INDEX 'kaiser_restriction_group_0_restriction_group_id' on 'kaiser_restriction_group'('restriction_group_id');

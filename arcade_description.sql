@@ -3,5 +3,9 @@ INSERT INTO `arcade_description` VALUES (/*id*/1, /*arcade_id*/1009, /*type*/1, 
 INSERT INTO `arcade_description` VALUES (/*id*/2, /*arcade_id*/1009, /*type*/1, /*image_id*/100902, /*description*/'为了提供更多乐趣，本次准备了两种游戏模式可供选择。\n如果想以个人实力进行挑战，请选择与人机游玩的单人模式，\n如果想与同伴合作游玩，请选择多人模式。');
 INSERT INTO `arcade_description` VALUES (/*id*/3, /*arcade_id*/1009, /*type*/1, /*image_id*/100903, /*description*/'系统会随机给出游戏提示。\n如果想得到更多提示，请使用「提示按钮」功能。\n提示功能的使用次数是有限的，不要随意浪费哦。');
 INSERT INTO `arcade_description` VALUES (/*id*/4, /*arcade_id*/1009, /*type*/1, /*image_id*/100904, /*description*/'想确认之前遇到过的谜题时，可以使用「档案」功能进行回顾。\n收集档案，可以获得限定称号等报酬，\n认真复习，尽情体验猜谜的乐趣吧。');
+INSERT INTO `arcade_description` VALUES (/*id*/5, /*arcade_id*/1012, /*type*/1, /*image_id*/100905, /*description*/'想教我学习？　真没办法呢，用谜题的形式\n快乐地以提高学习能力为目标吧！　选择我或者铃奈\n开启学习会吧。要跟铃奈挑战的话，你要好好教她哦？');
+INSERT INTO `arcade_description` VALUES (/*id*/6, /*arcade_id*/1012, /*type*/1, /*image_id*/100906, /*description*/'问题会从3种出题形式中随机选出。\n“四选一问题”和“一问多答”可以使用有次数限定的提示哦！\n在什么时候使用提示，会是提升成绩的关键呢。');
+INSERT INTO `arcade_description` VALUES (/*id*/7, /*arcade_id*/1012, /*type*/1, /*image_id*/100907, /*description*/'出现过的问题都会记录在“档案”里面！　复习也能\n通过这里很好地进行了呢。听说只要填满档案就能\n获得称号，拿出干劲，以全部填满为目标吧！');
+INSERT INTO `arcade_description` VALUES (/*id*/8, /*arcade_id*/1012, /*type*/2, /*image_id*/100908, /*description*/'满足条件就会解锁的“勤勉模式”中，可以挑战\n在规定时间内是否能答对很多问题！\n这是成长后的你展示实力的好机会！敬请加油！');
 CREATE INDEX 'arcade_description_0_arcade_id' on 'arcade_description'('arcade_id');
 CREATE INDEX 'arcade_description_0_arcade_id_1_type' on 'arcade_description'('arcade_id','type');

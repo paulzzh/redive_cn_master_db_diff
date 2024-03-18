@@ -1,7 +1,9 @@
 CREATE TABLE 'dear_setting' ('event_id' INTEGER NOT NULL, 'system_name' TEXT NOT NULL, 'tutorial_quest_id' INTEGER NOT NULL, 'tutorial_chara_index' INTEGER NOT NULL, 'tutorial_story_id' INTEGER NOT NULL, PRIMARY KEY('event_id'));
 INSERT INTO `dear_setting` VALUES (/*event_id*/10053, /*system_name*/'信赖度', /*tutorial_quest_id*/10053102, /*tutorial_chara_index*/1, /*tutorial_story_id*/6017101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10061, /*system_name*/'信赖度', /*tutorial_quest_id*/10061106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6061101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10066, /*system_name*/'信赖度', /*tutorial_quest_id*/10066108, /*tutorial_chara_index*/1, /*tutorial_story_id*/6066101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10068, /*system_name*/'信赖度', /*tutorial_quest_id*/10068103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6068101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10069, /*system_name*/'信赖度', /*tutorial_quest_id*/10069103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6042101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10071, /*system_name*/'信赖度', /*tutorial_quest_id*/10071103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6044101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10075, /*system_name*/'信赖度', /*tutorial_quest_id*/10075103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6048101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10076, /*system_name*/'信赖度', /*tutorial_quest_id*/10076105, /*tutorial_chara_index*/1, /*tutorial_story_id*/6076101);
@@ -11,9 +13,16 @@ INSERT INTO `dear_setting` VALUES (/*event_id*/10079, /*system_name*/'信赖度'
 INSERT INTO `dear_setting` VALUES (/*event_id*/10081, /*system_name*/'信赖度', /*tutorial_quest_id*/10081103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6054101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10083, /*system_name*/'信赖度', /*tutorial_quest_id*/10083103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6056101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10088, /*system_name*/'信赖度', /*tutorial_quest_id*/10088106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6088201);
-INSERT INTO `dear_setting` VALUES (/*event_id*/10089, /*system_name*/'信赖度', /*tutorial_quest_id*/10089106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6061101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10090, /*system_name*/'信赖度', /*tutorial_quest_id*/10090104, /*tutorial_chara_index*/1, /*tutorial_story_id*/6090101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/10094, /*system_name*/'信赖度', /*tutorial_quest_id*/10094102, /*tutorial_chara_index*/1, /*tutorial_story_id*/6094101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10102, /*system_name*/'信頼度', /*tutorial_quest_id*/10102106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6102101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10104, /*system_name*/'信頼度', /*tutorial_quest_id*/10104114, /*tutorial_chara_index*/1, /*tutorial_story_id*/6104101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10114, /*system_name*/'信頼度', /*tutorial_quest_id*/10114107, /*tutorial_chara_index*/1, /*tutorial_story_id*/6114101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10115, /*system_name*/'信頼度', /*tutorial_quest_id*/10115106, /*tutorial_chara_index*/1, /*tutorial_story_id*/6088201);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10117, /*system_name*/'信頼度', /*tutorial_quest_id*/10117104, /*tutorial_chara_index*/1, /*tutorial_story_id*/6090101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10121, /*system_name*/'信頼度', /*tutorial_quest_id*/10121102, /*tutorial_chara_index*/1, /*tutorial_story_id*/6094101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10124, /*system_name*/'信頼度', /*tutorial_quest_id*/10124110, /*tutorial_chara_index*/1, /*tutorial_story_id*/6124101);
+INSERT INTO `dear_setting` VALUES (/*event_id*/10127, /*system_name*/'信頼度', /*tutorial_quest_id*/10127103, /*tutorial_chara_index*/1, /*tutorial_story_id*/6100101);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20015, /*system_name*/'信赖度', /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20017, /*system_name*/'信赖度', /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20018, /*system_name*/'信赖度', /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
@@ -22,4 +31,3 @@ INSERT INTO `dear_setting` VALUES (/*event_id*/20020, /*system_name*/'信赖度'
 INSERT INTO `dear_setting` VALUES (/*event_id*/20022, /*system_name*/'信赖度', /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20023, /*system_name*/'信赖度', /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
 INSERT INTO `dear_setting` VALUES (/*event_id*/20024, /*system_name*/'信赖度', /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);
-INSERT INTO `dear_setting` VALUES (/*event_id*/20025, /*system_name*/'信赖度', /*tutorial_quest_id*/0, /*tutorial_chara_index*/1, /*tutorial_story_id*/0);

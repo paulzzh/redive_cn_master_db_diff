@@ -29,3 +29,6 @@ INSERT INTO `chara_fortune_scenario` VALUES (/*scenario_id*/27, /*rail_1*/1077, 
 INSERT INTO `chara_fortune_scenario` VALUES (/*scenario_id*/28, /*rail_1*/1071, /*rail_2*/1070, /*rail_3*/1068, /*rail_4*/1069);
 INSERT INTO `chara_fortune_scenario` VALUES (/*scenario_id*/29, /*rail_1*/1088, /*rail_2*/1089, /*rail_3*/1090, /*rail_4*/1091);
 INSERT INTO `chara_fortune_scenario` VALUES (/*scenario_id*/30, /*rail_1*/1037, /*rail_2*/1025, /*rail_3*/1045, /*rail_4*/1048);
+INSERT INTO `chara_fortune_scenario` VALUES (/*scenario_id*/31, /*rail_1*/1097, /*rail_2*/1098, /*rail_3*/1099, /*rail_4*/1100);
+INSERT INTO `chara_fortune_scenario` VALUES (/*scenario_id*/32, /*rail_1*/1101, /*rail_2*/1102, /*rail_3*/1103, /*rail_4*/1104);
+INSERT INTO `chara_fortune_scenario` VALUES (/*scenario_id*/33, /*rail_1*/1105, /*rail_2*/1106, /*rail_3*/1107, /*rail_4*/1108);

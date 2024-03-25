@@ -1400,7 +1400,7 @@ a/bdl_viewsecretdungeontop.unity3d,b6bfb9ceab781137f2678890b8bf2d30,tutorial1,19
 a/bdl_viewsekairanking.unity3d,e29e27798884c0ea529a2878e4b00e0e,tutorial1,78009,
 a/bdl_viewshareditemlist.unity3d,21bbb94efd43c2768e999595b83e01a6,tutorial1,67887,
 a/bdl_viewshiorieventselect.unity3d,99073f953b75022e01b7fbecacf8ab9c,tutorial1,10872,
-a/bdl_viewshop.unity3d,ab6c5656c77821fd06bc4553617514e5,tutorial1,53627,
+a/bdl_viewshop.unity3d,b7a11db90d646b7940110c8702a2a58d,tutorial1,53626,
 a/bdl_viewslidein_l.unity3d,79d7302fc3290517827628449e29da88,tutorial0,4389,
 a/bdl_viewslidein_r.unity3d,019bffe1142fcb4a4be96e3c6dcb3dd2,tutorial0,4396,
 a/bdl_viewspacebattletop.unity3d,6fbeed9a87cc276dc3826472ea7bac8b,tutorial1,8038,

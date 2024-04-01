@@ -229,7 +229,7 @@ a/all_atlasminigamepct.unity3d,72153e13c535aae89360eb925626d2f0,tutorial1,460448
 a/all_atlasminigamepkb.unity3d,ab911f8f41eae5297416b180e29380ae,tutorial1,533846,
 a/all_atlasminigamepkbcharaselect.unity3d,959659da1f08a90a746fe5545068e12d,tutorial1,664154,
 a/all_atlasminigamepkbcommon.unity3d,0d7298dd1ffcd1c926a8c34679a08a43,tutorial1,51489,
-a/all_atlasminigamepkbcutin.unity3d,9f931d3cc493d200cdd534ec6fa27ad9,tutorial1,395603,
+a/all_atlasminigamepkbcutin.unity3d,61878dd151b823a8ca0675ab23845c1d,tutorial1,395286,
 a/all_atlasminigamepkbmsg.unity3d,4ad84180735f91cd733e6ae885d19345,tutorial1,423511,
 a/all_atlasminigamepkbplayerdirectory.unity3d,b507f98a226378225fb160a6330a5341,tutorial1,1007090,
 a/all_atlasminigamepkbresult.unity3d,befbd1f7a5b53379f5e222169b9f8c9e,tutorial1,328310,

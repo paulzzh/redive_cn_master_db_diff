@@ -1376,7 +1376,7 @@ a/bdl_viewminigamettkbattle.unity3d,fec28a3ee3ffd2521fce6c9bc261ae53,tutorial1,1
 a/bdl_viewminigamettkrecord.unity3d,55309f056e9e065e197a066cfcfb45fc,tutorial1,8241,
 a/bdl_viewminigamettktop.unity3d,13c792d5da35fad4825600a5aea1ca5a,tutorial1,13006,
 a/bdl_viewmission.unity3d,14b8f34bbb34b25155dfa7752789d6ca,tutorial1,20576,
-a/bdl_viewmyprofilecard.unity3d,68ad05f192a16d62fdf81798b51542c5,tutorial1,53584,
+a/bdl_viewmyprofilecard.unity3d,068833876fa1f835c66749c9f4a3f9b9,tutorial1,53639,
 a/bdl_viewnewcharacterintroduction.unity3d,4e4011689c4457464b223a43037b161e,tutorial1,72056,
 a/bdl_viewnormalarenaresult.unity3d,d5ee8d98d6f268dcd58ae2f8ff65c622,tutorial1,391726,
 a/bdl_viewnormalarenatop.unity3d,25991d8e0e45018fef985a2fb068d6a5,tutorial1,20056,

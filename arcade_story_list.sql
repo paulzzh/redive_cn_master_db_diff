@@ -15,5 +15,15 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040703, /*arcade_id*/1005, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5040704, /*arcade_id*/1005, /*sub_title*/'劳动会一直持续下去');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5080700, /*arcade_id*/1008, /*sub_title*/'通往究极的道路');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5080701, /*arcade_id*/1008, /*sub_title*/'布丁永存');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5096700, /*arcade_id*/1010, /*sub_title*/'假日不会结束');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5096701, /*arcade_id*/1010, /*sub_title*/'竞争，彼此理解的情谊');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126700, /*arcade_id*/1012, /*sub_title*/'教教我吧凯露老师');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126701, /*arcade_id*/1012, /*sub_title*/'酸酸甜甜是谁的错？');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126702, /*arcade_id*/1012, /*sub_title*/'最讨厌学习了？');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126703, /*arcade_id*/1012, /*sub_title*/'100根铅笔分量的青春');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126710, /*arcade_id*/1012, /*sub_title*/'擅长学习的女子！');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126711, /*arcade_id*/1012, /*sub_title*/'效果太强劲笑不活');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126712, /*arcade_id*/1012, /*sub_title*/'因为喜欢才会擅长？');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126713, /*arcade_id*/1012, /*sub_title*/'不可解的不可思议');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/9004201, /*arcade_id*/1009, /*sub_title*/'以正确答案为目标团结一致！');
 CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');

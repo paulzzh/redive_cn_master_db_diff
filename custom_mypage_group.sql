@@ -11,5 +11,8 @@ INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20001, /*group_name*/'公�
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20002, /*group_name*/'官方插画 第3卷 发售纪念道具');
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20003, /*group_name*/'公主连结！Re:Dive 3.5周年纪念');
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20004, /*group_name*/'公主连结！Re:Dive 4周年纪念');
-INSERT INTO `custom_mypage_group` VALUES (/*group_id*/30001, /*group_name*/'小游戏');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20005, /*group_name*/'公主连结！Re:Dive 4.5周年纪念');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/20006, /*group_name*/'公主连结！Re:Dive 5周年纪念');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/30001, /*group_name*/'小游戏·迷你内容');
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40001, /*group_name*/'大家的日历');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40002, /*group_name*/'罗森联动纪念');

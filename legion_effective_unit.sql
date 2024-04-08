@@ -75,6 +75,4 @@ INSERT INTO `legion_effective_unit` VALUES (/*legion_boss_id*/1008, /*unit_id*/1
 INSERT INTO `legion_effective_unit` VALUES (/*legion_boss_id*/1008, /*unit_id*/114501, /*effect_id*/100, /*support_effect_id*/200);
 INSERT INTO `legion_effective_unit` VALUES (/*legion_boss_id*/1008, /*unit_id*/180101, /*effect_id*/100, /*support_effect_id*/200);
 INSERT INTO `legion_effective_unit` VALUES (/*legion_boss_id*/1008, /*unit_id*/180601, /*effect_id*/100, /*support_effect_id*/200);
-INSERT INTO `legion_effective_unit` VALUES (/*legion_boss_id*/1005, /*unit_id*/170101, /*effect_id*/100, /*support_effect_id*/200);
-INSERT INTO `legion_effective_unit` VALUES (/*legion_boss_id*/1005, /*unit_id*/170201, /*effect_id*/100, /*support_effect_id*/200);
 CREATE INDEX 'legion_effective_unit_0_legion_boss_id' on 'legion_effective_unit'('legion_boss_id');

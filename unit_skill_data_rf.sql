@@ -69,7 +69,7 @@ INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1211001, /*skill_id*/1211001, /*r
 INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1211002, /*skill_id*/1211002, /*rf_skill_id*/1211202, /*min_lv*/261, /*max_lv*/-1);
 INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1213002, /*skill_id*/1213002, /*rf_skill_id*/1213202, /*min_lv*/261, /*max_lv*/-1);
 INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1215003, /*skill_id*/1215003, /*rf_skill_id*/1215203, /*min_lv*/261, /*max_lv*/-1);
-INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1701003, /*skill_id*/1701003, /*rf_skill_id*/1701203, /*min_lv*/261, /*max_lv*/-1);
+INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1703003, /*skill_id*/1703003, /*rf_skill_id*/1703203, /*min_lv*/261, /*max_lv*/-1);
 INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1802002, /*skill_id*/1802002, /*rf_skill_id*/1802202, /*min_lv*/261, /*max_lv*/-1);
 INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1802012, /*skill_id*/1802012, /*rf_skill_id*/1802212, /*min_lv*/261, /*max_lv*/-1);
 INSERT INTO `unit_skill_data_rf` VALUES (/*id*/1807002, /*skill_id*/1807002, /*rf_skill_id*/1807202, /*min_lv*/261, /*max_lv*/-1);

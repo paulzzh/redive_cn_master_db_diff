@@ -1,1 +1,1 @@
-a/dailytask_dailytask.unity3d,4c78099337a459e91b3455df87d32e90,common,989782,
+a/dailytask_dailytask.unity3d,d4ba5df7f3d437554f8cd5ffcc6fb2e9,common,988496,

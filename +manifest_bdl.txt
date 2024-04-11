@@ -62,7 +62,7 @@ a/bdl_dialogstorybadchoiceannouce.unity3d,d1809ae2d60a640ac4bcc4121827e247,tutor
 a/bdl_dialogstoryendtouch.unity3d,409dbbeef11b560ec6e4d0bd71550073,tutorial1,7496,
 a/bdl_dialogstoryseasonalreward.unity3d,c9834230f5cf2ad535309ccb2a6b1fc4,tutorial1,68480,
 a/bdl_dialogstorystarttouch.unity3d,f07850e823bd80ac94517f53a9def48d,tutorial1,6930,
-a/bdl_dialogtowerexresult.unity3d,8f0708ef8bf5e5bb9a0de32ecbe6b4be,tutorial1,22659,
+a/bdl_dialogtowerexresult.unity3d,276f591148007e6ec159ac2f569abc78,tutorial1,24347,
 a/bdl_dialogtraveldrama.unity3d,fbfd142779d3efad82318b85f349bada,tutorial1,5741,
 a/bdl_dialogtravelexeventstillviewer.unity3d,c81789e71577f8e082ba9e6fca29a8c1,tutorial1,78712,
 a/bdl_dialogtraveltopmenu.unity3d,1356dd5e5d3944b1e3943119c76a9acf,tutorial1,12207,

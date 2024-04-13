@@ -4045,7 +4045,7 @@ a/all_materialpartsdialogclanbattlefinalday.unity3d,dedd40d2f0f78d93c9fc71389a8d
 a/all_materialpartsgachaicon.unity3d,22ddea69388e767e02c87dac6d76f4a0,tutorial1,445660,
 a/all_materialpartsheader.unity3d,eea523be0639a025f0bbbd560f0c52e7,tutorial0,5381,
 a/all_materialpromotionbonusdetailbutton.unity3d,2ee60bca2fd49ce411fe1c53fae9254f,tutorial1,11787,
-a/all_materialquestdetail.unity3d,bf2bf06c9659707abbce5c8595494327,tutorial1,381131,
+a/all_materialquestdetail.unity3d,af9eb9f1b7bee34c23b5d74f7ed0e5bd,tutorial1,709348,
 a/all_materialquestresult.unity3d,c361da98e90b208dd6ecf649e1884837,tutorial1,12502,
 a/all_materialrace.unity3d,f61d4e25a7df11fe7dd3b920a6a7a393,tutorial1,1141584,
 a/all_materialredeemunit.unity3d,8764d00c0e3be0a7f3331c3794b7d6f2,tutorial1,185993,

@@ -105,6 +105,7 @@ INSERT INTO `tips` VALUES (/*id*/4121301, /*value*/121301, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4121401, /*value*/121401, /*tips_index*/1, /*title*/'展示性感魅力');
 INSERT INTO `tips` VALUES (/*id*/4121501, /*value*/121501, /*tips_index*/1, /*title*/'对手出现？');
 INSERT INTO `tips` VALUES (/*id*/4121601, /*value*/121601, /*tips_index*/1, /*title*/'不安的种子');
+INSERT INTO `tips` VALUES (/*id*/4122001, /*value*/122001, /*tips_index*/1, /*title*/'看得清楚');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
 INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');
 INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/'猜拳时间！');
@@ -115,3 +116,4 @@ INSERT INTO `tips` VALUES (/*id*/4180501, /*value*/180501, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4180601, /*value*/180601, /*tips_index*/1, /*title*/'助威声');
 INSERT INTO `tips` VALUES (/*id*/4180701, /*value*/180701, /*tips_index*/1, /*title*/'我的色彩');
 INSERT INTO `tips` VALUES (/*id*/4180801, /*value*/180801, /*tips_index*/1, /*title*/'总是三个人');
+INSERT INTO `tips` VALUES (/*id*/4180901, /*value*/180901, /*tips_index*/1, /*title*/'两个人一起的话');

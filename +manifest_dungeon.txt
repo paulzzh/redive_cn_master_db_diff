@@ -1,5 +1,5 @@
 a/dungeon_dungeondetaildialogeffect.unity3d,f1f1b9a364f116fc11e25cd787275ba7,common,148302,
-a/dungeon_spdungeon_logo.unity3d,6f7a37985ab930459d9022038d5460d1,common,28948,
+a/dungeon_spdungeon_logo.unity3d,1af29466169a0b77f53f44c4faf8d826,common,27709,
 a/dungeon_thumb_sp_dungeon_battle_log_06.unity3d,d8f0782a59a7b49c5f2e43480028ae11,common,36658,
 a/dungeon_thumb_sp_dungeon_battle_log_07.unity3d,390a12ba88e925cc4e3c717a2d3db12f,common,37057,
 a/dungeon_thumb_sp_dungeon_battle_log_08.unity3d,9f5d03175d042fbe5699c79554dccc10,common,37393,

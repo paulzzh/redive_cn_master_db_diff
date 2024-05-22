@@ -52,5 +52,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5085, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5088, /*story_type*/5, /*value*/10088, /*title*/'Sweet tiny stage！　\n新人女演员与小小淑女', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2024/2/26 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5090, /*story_type*/5, /*value*/10090, /*title*/'交出宝物！　神出鬼没的怪盗', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2024/3/24 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5092, /*story_type*/5, /*value*/10092, /*title*/'海盗逸话　\n海盗岛被诅咒的遗宝', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2024/4/26 15:00:00', /*end_time*/'2099/12/31 23:59:59');
-INSERT INTO `event_story_data` VALUES (/*story_group_id*/5094, /*story_type*/5, /*value*/10094, /*title*/'Enjoy&Refresh！　\n风波四起的女子露营', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2024/5/24 15:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5094, /*story_type*/5, /*value*/10094, /*title*/'Enjoy&Refresh！　\n性格迥异的女子露营', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2024/5/24 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

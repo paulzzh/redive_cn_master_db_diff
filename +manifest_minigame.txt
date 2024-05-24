@@ -248,7 +248,7 @@ a/minigame_gimmickanimation_1010_3.unity3d,ef717af771b3e892df4fbecb27b44242,comm
 a/minigame_goodslistbg.unity3d,a0dd48178c465620c48c07d59ee94551,common,319487,
 a/minigame_minigame_1001.unity3d,604e6b7378aba45b6b715dc96422d00f,common,402550,
 a/minigame_minigame_1002.unity3d,13d9f44563ff02d126ca712957b67c80,common,1665688,
-a/minigame_minigame_1002_fx.unity3d,89266d64d070e83b71480dc824e6a42e,common,2022581,
+a/minigame_minigame_1002_fx.unity3d,32261b2cb43c0f6b00e0385fe0576441,common,2021168,
 a/minigame_minigame_1002_texture.unity3d,14bd746a20aaf792ea24270cad643501,common,3310357,
 a/minigame_minigame_1003.unity3d,4040e6955dcd8215c24718fbf4b02459,common,1568157,
 a/minigame_minigame_1003_fx.unity3d,007b4a056c3fcbb522a1e7db1a9ce684,common,544533,

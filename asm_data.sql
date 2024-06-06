@@ -1047,7 +1047,7 @@ INSERT INTO `asm_data` VALUES (/*asm_id*/2131001, /*genre_id*/1, /*difficulty*/3
 INSERT INTO `asm_data` VALUES (/*asm_id*/2131002, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'「盟约外典术式第666章」的正确读音是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2131003, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'璃乃在角色剧情第３话中说「在这里遇见就别想逃了！」，她把「别想逃」误说成了什么？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2131004, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动名「点赞！喜爱！大集合！　至高无上的庆典与少女隐藏的○○」○中填入的是？', /*category*/2);
-INSERT INTO `asm_data` VALUES (/*asm_id*/2131005, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动名「Enjoy&Refresh！　风波四起的女子○○」○中填入的是？', /*category*/2);
+INSERT INTO `asm_data` VALUES (/*asm_id*/2131005, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动名「Enjoy&Refresh！　性格迥异的女子○○」○中填入的是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2210001, /*genre_id*/2, /*difficulty*/1, /*asm_type*/2, /*image_id*/0, /*detail*/'青蛙的孩子是什么？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2210003, /*genre_id*/2, /*difficulty*/1, /*asm_type*/2, /*image_id*/0, /*detail*/'独角兽比普通的马多了什么？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2210004, /*genre_id*/2, /*difficulty*/1, /*asm_type*/2, /*image_id*/0, /*detail*/'下列选项中，蝗虫的同类是？', /*category*/2);

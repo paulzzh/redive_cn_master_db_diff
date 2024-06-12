@@ -47,7 +47,7 @@ INSERT INTO `asm_data` VALUES (/*asm_id*/1110060, /*genre_id*/1, /*difficulty*/1
 INSERT INTO `asm_data` VALUES (/*asm_id*/1111001, /*genre_id*/1, /*difficulty*/1, /*asm_type*/1, /*image_id*/0, /*detail*/'兽人族的发音是「shourenzhu」', /*category*/1);
 INSERT INTO `asm_data` VALUES (/*asm_id*/1111002, /*genre_id*/1, /*difficulty*/1, /*asm_type*/1, /*image_id*/0, /*detail*/'由佩可莉姆担任公会会长的【美食殿堂】读音为「meisidiantan」', /*category*/1);
 INSERT INTO `asm_data` VALUES (/*asm_id*/1111003, /*genre_id*/1, /*difficulty*/1, /*asm_type*/1, /*image_id*/0, /*detail*/'七冠的读音是「qiguan」', /*category*/1);
-INSERT INTO `asm_data` VALUES (/*asm_id*/1111004, /*genre_id*/1, /*difficulty*/1, /*asm_type*/1, /*image_id*/0, /*detail*/'活动名「little summer memories 在海边发现的点滴幸福」中的「little summer memories」翻译出来的意思是「小小的夏日回忆」', /*category*/1);
+INSERT INTO `asm_data` VALUES (/*asm_id*/1111004, /*genre_id*/1, /*difficulty*/1, /*asm_type*/1, /*image_id*/0, /*detail*/'活动名「little summer memories 在海边发现的小小幸福」中的「little summer memories」翻译出来的意思是「点滴夏日回忆」', /*category*/1);
 INSERT INTO `asm_data` VALUES (/*asm_id*/1111005, /*genre_id*/1, /*difficulty*/1, /*asm_type*/1, /*image_id*/0, /*detail*/'princess翻译出来的意思是「女王」', /*category*/1);
 INSERT INTO `asm_data` VALUES (/*asm_id*/1120003, /*genre_id*/1, /*difficulty*/2, /*asm_type*/2, /*image_id*/0, /*detail*/'二字熟语中，第一个字音读，第二个字训读的读法叫做「前音后训」', /*category*/1);
 INSERT INTO `asm_data` VALUES (/*asm_id*/1120004, /*genre_id*/1, /*difficulty*/2, /*asm_type*/2, /*image_id*/0, /*detail*/'「利用职务之便中饱私服」这段话中没有用错的熟语', /*category*/1);
@@ -1046,7 +1046,7 @@ INSERT INTO `asm_data` VALUES (/*asm_id*/2130061, /*genre_id*/1, /*difficulty*/3
 INSERT INTO `asm_data` VALUES (/*asm_id*/2131001, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'「深渊悠久=翠翔裂空斩」的正确读音是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2131002, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'「盟约外典术式第666章」的正确读音是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2131003, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'璃乃在角色剧情第３话中说「在这里遇见就别想逃了！」，她把「别想逃」误说成了什么？', /*category*/2);
-INSERT INTO `asm_data` VALUES (/*asm_id*/2131004, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动名「点赞！喜爱！大集合！　至高无上的庆典与少女隐藏的○○」○中填入的是？', /*category*/2);
+INSERT INTO `asm_data` VALUES (/*asm_id*/2131004, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动名「点赞！收藏！大集合！　至高无上的庆典与少女隐藏的○○」○中填入的是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2131005, /*genre_id*/1, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动名「Enjoy&Refresh！　性格迥异的女子○○」○中填入的是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2210001, /*genre_id*/2, /*difficulty*/1, /*asm_type*/2, /*image_id*/0, /*detail*/'青蛙的孩子是什么？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2210003, /*genre_id*/2, /*difficulty*/1, /*asm_type*/2, /*image_id*/0, /*detail*/'独角兽比普通的马多了什么？', /*category*/2);

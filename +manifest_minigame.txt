@@ -372,7 +372,7 @@ a/minigame_sjrcharacterselect.unity3d,477668fb9500ed4311033962ac248622,common,31
 a/minigame_sjrdefinedata.unity3d,7614b6ed3285ce66ea074c32855c7afb,common,7118,
 a/minigame_sjreffectgoal.unity3d,b5f75af40bbc4b5dab9c1fe5e8a17354,common,29715,
 a/minigame_sjreffectjumpcontrol.unity3d,794c83f9516390b4b832b2bb76c04326,common,28964,
-a/minigame_sjrfinalresult.unity3d,bba5ca52f762955ead52ab560d24aa32,common,975215,
+a/minigame_sjrfinalresult.unity3d,b6b786f2379a49c4a3fc939ba9eb377d,common,975221,
 a/minigame_sjrgamemain.unity3d,11c159245065d16aa367cfdab3b46843,common,8676,
 a/minigame_sjrgimmick_00001.unity3d,e9eb5c6c151310f19e7ea68c000e44c7,common,28573,
 a/minigame_sjrgimmick_00002.unity3d,1b49b2ef68035632189c4c4f3e79ca3e,common,22809,

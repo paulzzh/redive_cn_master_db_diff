@@ -352,7 +352,7 @@ a/minigame_psy_pudding_still_163.unity3d,6b4c03d4c471eb965e8022b367555a41,common
 a/minigame_psy_pudding_still_164.unity3d,80583d028858e88d3b7690cf4efc655c,common,11151,
 a/minigame_psy_pudding_still_165.unity3d,c897a7714278f76a3fb2b82321f43ea6,common,10109,
 a/minigame_psy_pudding_still_999.unity3d,3328f5dbc1edb207b285e11a2d981c14,common,7646,
-a/minigame_roundscoreboardorg.unity3d,50c5cab4e272581a8c49f6d8a026220e,common,715044,
+a/minigame_roundscoreboardorg.unity3d,aa1a6c532f1f919f8c7f2f39b5ead21c,common,715042,
 a/minigame_sjr_bg_0001.unity3d,43cd8f7e3a3008010d55a962a732dd68,common,206256,
 a/minigame_sjr_outgame_bg.unity3d,9713a1f26981fd8245f5192b527a5270,common,358442,
 a/minigame_sjr_rail.unity3d,cf9381a95c4c7a086c6768bafe5fd7f4,common,3472,

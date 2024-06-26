@@ -42,7 +42,7 @@ INSERT INTO `sjr_name_later` VALUES (/*id*/40, /*name*/'海豚', /*name_group*/1
 INSERT INTO `sjr_name_later` VALUES (/*id*/41, /*name*/'工匠', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/42, /*name*/'赛车手', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/43, /*name*/'吞拿鱼', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
-INSERT INTO `sjr_name_later` VALUES (/*id*/44, /*name*/'中游的中游', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
+INSERT INTO `sjr_name_later` VALUES (/*id*/44, /*name*/'中游', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/45, /*name*/'知名人士', /*name_group*/2, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/46, /*name*/'异才', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/47, /*name*/'精英', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);

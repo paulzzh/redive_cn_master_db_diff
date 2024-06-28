@@ -180,3 +180,4 @@ INSERT INTO `bg_data` VALUES (/*view_name*/'COLOSSEUM_TOP', /*bg_id*/531300, /*e
 INSERT INTO `bg_data` VALUES (/*view_name*/'COLOSSEUM_SELECT_PARTY', /*bg_id*/531400, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/'COLOSSEUM_BATTLE_RESULT', /*bg_id*/0, /*event_id*/0);
 INSERT INTO `bg_data` VALUES (/*view_name*/'SEASONPASS', /*bg_id*/980001, /*event_id*/0);
+INSERT INTO `bg_data` VALUES (/*view_name*/'MONTHLY_GACHA', /*bg_id*/530030, /*event_id*/0);

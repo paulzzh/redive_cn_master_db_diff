@@ -1,6 +1,6 @@
 CREATE TABLE 'sjr_name_later' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'name_group' INTEGER NOT NULL, 'score_from' INTEGER NOT NULL, 'score_to' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `sjr_name_later` VALUES (/*id*/1, /*name*/'雏鸟', /*name_group*/1, /*score_from*/0, /*score_to*/26999);
-INSERT INTO `sjr_name_later` VALUES (/*id*/2, /*name*/'不成熟的', /*name_group*/1, /*score_from*/0, /*score_to*/26999);
+INSERT INTO `sjr_name_later` VALUES (/*id*/2, /*name*/'生手', /*name_group*/1, /*score_from*/0, /*score_to*/26999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/3, /*name*/'幼鱼', /*name_group*/1, /*score_from*/0, /*score_to*/26999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/4, /*name*/'新手跑者', /*name_group*/3, /*score_from*/0, /*score_to*/26999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/5, /*name*/'婴儿', /*name_group*/1, /*score_from*/0, /*score_to*/26999);
@@ -13,7 +13,7 @@ INSERT INTO `sjr_name_later` VALUES (/*id*/11, /*name*/'新手', /*name_group*/1
 INSERT INTO `sjr_name_later` VALUES (/*id*/12, /*name*/'享受跑者', /*name_group*/3, /*score_from*/27000, /*score_to*/33999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/13, /*name*/'年轻人', /*name_group*/1, /*score_from*/27000, /*score_to*/33999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/14, /*name*/'新手', /*name_group*/1, /*score_from*/27000, /*score_to*/33999);
-INSERT INTO `sjr_name_later` VALUES (/*id*/15, /*name*/'辣妹', /*name_group*/1, /*score_from*/27000, /*score_to*/33999);
+INSERT INTO `sjr_name_later` VALUES (/*id*/15, /*name*/'少女', /*name_group*/1, /*score_from*/27000, /*score_to*/33999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/16, /*name*/'热门股', /*name_group*/1, /*score_from*/27000, /*score_to*/33999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/17, /*name*/'原石', /*name_group*/1, /*score_from*/27000, /*score_to*/33999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/18, /*name*/'新希望', /*name_group*/2, /*score_from*/27000, /*score_to*/33999);
@@ -22,11 +22,11 @@ INSERT INTO `sjr_name_later` VALUES (/*id*/20, /*name*/'暴徒', /*name_group*/1
 INSERT INTO `sjr_name_later` VALUES (/*id*/21, /*name*/'天才', /*name_group*/1, /*score_from*/34000, /*score_to*/50399);
 INSERT INTO `sjr_name_later` VALUES (/*id*/22, /*name*/'奇才', /*name_group*/1, /*score_from*/34000, /*score_to*/50399);
 INSERT INTO `sjr_name_later` VALUES (/*id*/23, /*name*/'大人物', /*name_group*/1, /*score_from*/34000, /*score_to*/50399);
-INSERT INTO `sjr_name_later` VALUES (/*id*/24, /*name*/'麒麟儿', /*name_group*/1, /*score_from*/34000, /*score_to*/50399);
+INSERT INTO `sjr_name_later` VALUES (/*id*/24, /*name*/'杰出者', /*name_group*/1, /*score_from*/34000, /*score_to*/50399);
 INSERT INTO `sjr_name_later` VALUES (/*id*/25, /*name*/'希望', /*name_group*/1, /*score_from*/34000, /*score_to*/50399);
 INSERT INTO `sjr_name_later` VALUES (/*id*/26, /*name*/'新星', /*name_group*/1, /*score_from*/34000, /*score_to*/50399);
 INSERT INTO `sjr_name_later` VALUES (/*id*/27, /*name*/'人才', /*name_group*/1, /*score_from*/34000, /*score_to*/50399);
-INSERT INTO `sjr_name_later` VALUES (/*id*/28, /*name*/'美人鱼', /*name_group*/1, /*score_from*/50400, /*score_to*/59999);
+INSERT INTO `sjr_name_later` VALUES (/*id*/28, /*name*/'人鱼', /*name_group*/1, /*score_from*/50400, /*score_to*/59999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/29, /*name*/'前辈', /*name_group*/1, /*score_from*/50400, /*score_to*/59999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/30, /*name*/'中级者', /*name_group*/1, /*score_from*/50400, /*score_to*/59999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/31, /*name*/'沙滩突击手', /*name_group*/3, /*score_from*/50400, /*score_to*/59999);
@@ -44,7 +44,7 @@ INSERT INTO `sjr_name_later` VALUES (/*id*/42, /*name*/'赛车手', /*name_group
 INSERT INTO `sjr_name_later` VALUES (/*id*/43, /*name*/'吞拿鱼', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/44, /*name*/'中游', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/45, /*name*/'知名人士', /*name_group*/2, /*score_from*/60000, /*score_to*/69999);
-INSERT INTO `sjr_name_later` VALUES (/*id*/46, /*name*/'异才', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
+INSERT INTO `sjr_name_later` VALUES (/*id*/46, /*name*/'鬼才', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/47, /*name*/'精英', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/48, /*name*/'工作人员', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/49, /*name*/'专业人员', /*name_group*/1, /*score_from*/60000, /*score_to*/69999);
@@ -55,7 +55,7 @@ INSERT INTO `sjr_name_later` VALUES (/*id*/53, /*name*/'师傅', /*name_group*/1
 INSERT INTO `sjr_name_later` VALUES (/*id*/54, /*name*/'潜水艇', /*name_group*/1, /*score_from*/70000, /*score_to*/83999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/55, /*name*/'短跑运动员', /*name_group*/2, /*score_from*/70000, /*score_to*/83999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/56, /*name*/'高手', /*name_group*/1, /*score_from*/70000, /*score_to*/83999);
-INSERT INTO `sjr_name_later` VALUES (/*id*/57, /*name*/'全能跑者', /*name_group*/2, /*score_from*/70000, /*score_to*/83999);
+INSERT INTO `sjr_name_later` VALUES (/*id*/57, /*name*/'马拉松跑者', /*name_group*/2, /*score_from*/70000, /*score_to*/83999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/58, /*name*/'职业级', /*name_group*/1, /*score_from*/70000, /*score_to*/83999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/59, /*name*/'招牌选手', /*name_group*/1, /*score_from*/70000, /*score_to*/83999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/60, /*name*/'第一人', /*name_group*/1, /*score_from*/70000, /*score_to*/83999);

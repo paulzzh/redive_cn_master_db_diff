@@ -919,7 +919,7 @@ a/event_list_ex_boss_thumbnail_72500710.unity3d,dfb84cd6abb697151744ac258d1b5cfc
 a/event_list_ex_boss_thumbnail_72510720.unity3d,6f07bb62151f9eb29c6bf71c5d3af2a1,common,17548,
 a/event_list_ex_boss_thumbnail_mask00.unity3d,8be312880903abd706bf25bb7d176367,common,6493,
 a/event_list_ex_boss_thumbnail_material.unity3d,cb997eca642c059cdb9132aa8524db9f,common,2422,
-a/event_lsv.unity3d,db58231458d8ab5277d025d0ee07c01b,common,6687549,
+a/event_lsv.unity3d,776c3d14f0f458ed8990541b6ea61a51,common,6687556,
 a/event_lto.unity3d,886b17d05a9788944d4314e95f70d414,common,752703,
 a/event_mapevent_010008_001.unity3d,cb017d810b414465263d735c96b5912e,common,2157,
 a/event_mapevent_010008_002.unity3d,35a5a87488b3e72223be403613c3a30c,common,2147,

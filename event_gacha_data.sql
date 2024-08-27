@@ -97,5 +97,6 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10096, /*event_id*/10096, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10097, /*event_id*/10097, /*gacha_name*/'无限夏日计划　两人独占的盛夏乐园', /*item_type*/2, /*item_id*/60962, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10098, /*event_id*/10098, /*gacha_name*/'点滴夏日回忆　在海边发现的小小幸福', /*item_type*/2, /*item_id*/60972, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10099, /*event_id*/10099, /*gacha_name*/'慈乐之音的夏日演唱会　转瞬即逝的时光！ ', /*item_type*/2, /*item_id*/60982, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10100, /*event_id*/10100, /*gacha_name*/'真步真步奇妙之旅！　旅行的少女与世界尽头的大树', /*item_type*/2, /*item_id*/60992, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

@@ -8056,6 +8056,7 @@ a/storydata_movie_211400502.unity3d,11b143c14bd987714aa4fdd9651811be,common,2293
 a/storydata_movie_211400601.unity3d,e2864dc88fce003853ad1aad878c309b,common,2280,
 a/storydata_movie_211409901.unity3d,50f870363bd010fa776631ff38c6555c,common,2076,
 a/storydata_movie_211409981.unity3d,ca48f4e29beea85205b40ebe6d411758,common,2265,
+a/storydata_movie_211500001.unity3d,d5d99da6ce7c7c215b6119e206c43fe0,common,1966,
 a/storydata_movie_211500201.unity3d,44a4ae19b2d9967e0abb8eac6168e639,common,2522,
 a/storydata_movie_211500501.unity3d,f5e12735f3623d5ca376f39b21ef0697,common,2322,
 a/storydata_movie_211500801.unity3d,83c6dc1df9376a726d6ae17dc668f975,common,2644,

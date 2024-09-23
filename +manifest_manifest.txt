@@ -1,4 +1,4 @@
-manifest/all_assetmanifest,dd14611ce5c22a802ed24721b26a7151,every,387178,
+manifest/all_assetmanifest,b2bf2d6564aa2c9aa7ace8ae153825a7,every,387178,
 manifest/animation_assetmanifest,0b573d62046d965975e694afb71f6054,every,25348,
 manifest/arcade_assetmanifest,900de14e8363fee1e466304c327ac2e4,every,1126,
 manifest/banner_assetmanifest,bc74abc4e9a823e34a8742c48819cfd9,every,39728,

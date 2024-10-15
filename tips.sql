@@ -114,6 +114,7 @@ INSERT INTO `tips` VALUES (/*id*/4123001, /*value*/123001, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4123101, /*value*/123101, /*tips_index*/1, /*title*/'轻飘飘咕噜灵');
 INSERT INTO `tips` VALUES (/*id*/4123201, /*value*/123201, /*tips_index*/1, /*title*/'野餐的心情');
 INSERT INTO `tips` VALUES (/*id*/4123301, /*value*/123301, /*tips_index*/1, /*title*/'养眼');
+INSERT INTO `tips` VALUES (/*id*/4123801, /*value*/123801, /*tips_index*/1, /*title*/'毫不留情');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
 INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');
 INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/'猜拳时间！');

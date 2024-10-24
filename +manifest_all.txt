@@ -418,7 +418,7 @@ a/all_atlastravelanimation.unity3d,1c99313501594e5fcd794a19ea3654f3,tutorial1,79
 a/all_atlastravelexdrama.unity3d,e83c3441fa06021bfb36bae48ba2367c,tutorial1,105870,
 a/all_atlastravelresult.unity3d,ca24b25a3d3e97d5c37c2f11419515ad,tutorial1,157103,
 a/all_atlastravelrounddrama.unity3d,2e8878a064ceeb4988754744a0034f0e,tutorial1,767737,
-a/all_atlastraveltopdrama.unity3d,8eaa246dd0a2ef2ab283280071a013c3,tutorial1,189455,
+a/all_atlastraveltopdrama.unity3d,979369fc40ea211189aa2f9f20810408,tutorial1,189237,
 a/all_atlastreasurechest.unity3d,505913449b77a5df167823ea7776b11a,tutorial1,674461,
 a/all_atlastrialbattle.unity3d,35aa2dbdfd81373c86fc9846ad25a11e,tutorial1,49603,
 a/all_atlasttkrecord01.unity3d,a203dd66a8427e5c79114798ae4c7501,tutorial1,258645,

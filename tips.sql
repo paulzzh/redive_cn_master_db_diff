@@ -60,6 +60,7 @@ INSERT INTO `tips` VALUES (/*id*/4106401, /*value*/106401, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4106601, /*value*/106601, /*tips_index*/1, /*title*/'造反');
 INSERT INTO `tips` VALUES (/*id*/4106701, /*value*/106701, /*tips_index*/1, /*title*/'秘密作者');
 INSERT INTO `tips` VALUES (/*id*/4106801, /*value*/106801, /*tips_index*/1, /*title*/'能力');
+INSERT INTO `tips` VALUES (/*id*/4106901, /*value*/106901, /*tips_index*/1, /*title*/'捏捏');
 INSERT INTO `tips` VALUES (/*id*/4107001, /*value*/107001, /*tips_index*/1, /*title*/'整蛊大成功');
 INSERT INTO `tips` VALUES (/*id*/4107101, /*value*/107101, /*tips_index*/1, /*title*/'好无聊……');
 INSERT INTO `tips` VALUES (/*id*/4109201, /*value*/109201, /*tips_index*/1, /*title*/'兴致勃勃');
@@ -115,6 +116,7 @@ INSERT INTO `tips` VALUES (/*id*/4123101, /*value*/123101, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4123201, /*value*/123201, /*tips_index*/1, /*title*/'野餐的心情');
 INSERT INTO `tips` VALUES (/*id*/4123301, /*value*/123301, /*tips_index*/1, /*title*/'养眼');
 INSERT INTO `tips` VALUES (/*id*/4123801, /*value*/123801, /*tips_index*/1, /*title*/'毫不留情');
+INSERT INTO `tips` VALUES (/*id*/4123901, /*value*/123901, /*tips_index*/1, /*title*/'●秘密图鉴● ①小茉莉');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
 INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');
 INSERT INTO `tips` VALUES (/*id*/4180101, /*value*/180101, /*tips_index*/1, /*title*/'猜拳时间！');

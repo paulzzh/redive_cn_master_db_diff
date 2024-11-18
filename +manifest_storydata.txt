@@ -7353,6 +7353,7 @@ a/storydata_icon_unit_104911.unity3d,7a017c730f1a09d64daa6a583b8a6f4e,common,106
 a/storydata_icon_unit_104912.unity3d,c7c7d644fc78dca96d2c2d91a9b02753,everytmp,10764,
 a/storydata_icon_unit_104913.unity3d,e97e80578e3851a01a285cecafe53391,common,10713,
 a/storydata_icon_unit_104914.unity3d,e123e7bfc9477d3c8d54a6727451afba,common,10739,
+a/storydata_icon_unit_104915.unity3d,a268f619c4888f3f6c6feb6c275f9ed9,common,10589,
 a/storydata_icon_unit_104931.unity3d,dedf7fa04cbf24181516ce140af3a537,everytmp,10020,
 a/storydata_icon_unit_104932.unity3d,8aef24c2d3c3fafbda952f7bf78642a8,everytmp,10010,
 a/storydata_icon_unit_105011.unity3d,44f990f9d0ed6671424264384259d13e,common,10166,

@@ -1559,6 +1559,7 @@ a/icon_icon_emblem_11401002.unity3d,1c744ca00d29a8ef1afe47f0e21e53ad,tutorial1,1
 a/icon_icon_emblem_11601001.unity3d,624627c1fca7715c926ee1808b41bff8,tutorial1,12112,
 a/icon_icon_emblem_11601002.unity3d,2bd9958780a390fd1dab40f815cf9962,tutorial1,12470,
 a/icon_icon_emblem_11601003.unity3d,76934a1671d8a958d642ad999d0e877d,tutorial1,13137,
+a/icon_icon_emblem_20000001.unity3d,47519121642776aed613222a631e1329,tutorial1,11665,
 a/icon_icon_equipment_101011.unity3d,667b4cde45b69214473d90480d187ee8,tutorial1,8337,
 a/icon_icon_equipment_101071.unity3d,fa1b1a3171e53561442b4a21347e9660,tutorial1,7973,
 a/icon_icon_equipment_101101.unity3d,b270e0aebb09da1f81e7aa12cf233955,tutorial1,9028,

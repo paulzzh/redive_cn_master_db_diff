@@ -344,7 +344,7 @@ a/event_burst_img_boss_3006.unity3d,af9093c82279670e6555cd036fc1757f,common,7395
 a/event_burst_img_boss_3007.unity3d,85d6108b794de4aa368b9464292954e6,common,75752,
 a/event_completeeffect_001.unity3d,cac438537e8acdf81601760934ff5045,common,301724,
 a/event_dmf.unity3d,3526bf9c497abb2c5e730b51afe694a7,common,844641,
-a/event_dsb.unity3d,f8c2d16057d9794fab5e96637c2984e8,common,5274025,
+a/event_dsb.unity3d,b41fb7280a44ea7a7c282e17994137aa,common,5274037,
 a/event_dvs.unity3d,00ba76afa0b46272f7a570609a606c87,common,1886564,
 a/event_ekiden.unity3d,6de25b6b9f72ce3da9491681791fa86d,common,1199850,
 a/event_ekidentexture.unity3d,7604f54d082f8ed31c5e3ff898cbb6b5,common,4567210,

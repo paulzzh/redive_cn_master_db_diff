@@ -9,6 +9,10 @@ INSERT INTO `mission_category_icon` VALUES (/*id*/107, /*icon_name*/'pink', /*co
 INSERT INTO `mission_category_icon` VALUES (/*id*/108, /*icon_name*/'pink', /*color*/'#E24E7F');
 INSERT INTO `mission_category_icon` VALUES (/*id*/109, /*icon_name*/'pink', /*color*/'#E24E7F');
 INSERT INTO `mission_category_icon` VALUES (/*id*/110, /*icon_name*/'pink', /*color*/'#E24E7F');
+INSERT INTO `mission_category_icon` VALUES (/*id*/191, /*icon_name*/'pink', /*color*/'#E24E7F');
+INSERT INTO `mission_category_icon` VALUES (/*id*/192, /*icon_name*/'pink', /*color*/'#E24E7F');
+INSERT INTO `mission_category_icon` VALUES (/*id*/193, /*icon_name*/'pink', /*color*/'#E24E7F');
+INSERT INTO `mission_category_icon` VALUES (/*id*/194, /*icon_name*/'pink', /*color*/'#E24E7F');
 INSERT INTO `mission_category_icon` VALUES (/*id*/200, /*icon_name*/'lightblue', /*color*/'#3290D4');
 INSERT INTO `mission_category_icon` VALUES (/*id*/201, /*icon_name*/'lightblue', /*color*/'#3290D4');
 INSERT INTO `mission_category_icon` VALUES (/*id*/202, /*icon_name*/'lightblue', /*color*/'#3290D4');

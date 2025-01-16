@@ -4556,7 +4556,7 @@ a/icon_icon_jewelshop_50013.unity3d,db978853cf47406981218f20fcaa4dcc,tutorial1,3
 a/icon_icon_jewelshop_50014.unity3d,17052d952d0721a609eb90b68ac035ce,tutorial1,30329,
 a/icon_icon_jewelshop_50015.unity3d,2e927957123f5a6d5843a371c608ce68,tutorial1,29928,
 a/icon_icon_jewelshop_990001.unity3d,6cb46721ba1a5ddf15e8ebd138c3e525,tutorial1,100036,
-a/icon_icon_jewelshop_990002.unity3d,abd7d79b8f48734db37e92c26a212315,tutorial1,114067,
+a/icon_icon_jewelshop_990002.unity3d,9e8ce7e7a0fe40eef283b189c5b612c6,tutorial1,114313,
 a/icon_icon_map_100010.unity3d,0ec59e65f622d26785767f48ddc3aa23,tutorial1,7685,
 a/icon_icon_map_100020.unity3d,ed3b83f12a1cc77db0ea2203384973b0,tutorial1,8773,
 a/icon_icon_map_100030.unity3d,22fbc9516b49e3e0fb2f1a7778a6b8d5,tutorial1,5787,

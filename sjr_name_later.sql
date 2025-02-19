@@ -77,7 +77,7 @@ INSERT INTO `sjr_name_later` VALUES (/*id*/75, /*name*/'冠军', /*name_group*/2
 INSERT INTO `sjr_name_later` VALUES (/*id*/76, /*name*/'天才跑者', /*name_group*/2, /*score_from*/100000, /*score_to*/119999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/77, /*name*/'纪录保持者', /*name_group*/3, /*score_from*/100000, /*score_to*/119999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/78, /*name*/'极致', /*name_group*/1, /*score_from*/100000, /*score_to*/119999);
-INSERT INTO `sjr_name_later` VALUES (/*id*/79, /*name*/'海蛞蝓', /*name_group*/2, /*score_from*/100000, /*score_to*/119999);
+INSERT INTO `sjr_name_later` VALUES (/*id*/79, /*name*/'海王蛞蝓', /*name_group*/2, /*score_from*/100000, /*score_to*/119999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/80, /*name*/'海龙', /*name_group*/2, /*score_from*/100000, /*score_to*/119999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/81, /*name*/'女杰', /*name_group*/1, /*score_from*/100000, /*score_to*/119999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/82, /*name*/'革命家', /*name_group*/1, /*score_from*/100000, /*score_to*/119999);

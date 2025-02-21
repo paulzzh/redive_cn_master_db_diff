@@ -10,3 +10,5 @@ INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000007, /*title*/'迷途
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000008, /*title*/'“心急吃不上臭豆腐”对吧！', /*disp_order*/9);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000009, /*title*/'精灵们的热闹大冒险', /*disp_order*/10);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000010, /*title*/'前途多难的冒险讲座？', /*disp_order*/11);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000011, /*title*/'海滨之夜', /*disp_order*/12);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000012, /*title*/'冒险之旅跌宕起伏', /*disp_order*/13);

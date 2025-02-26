@@ -103,6 +103,7 @@ INSERT INTO `tips` VALUES (/*id*/4118201, /*value*/118201, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4118501, /*value*/118501, /*tips_index*/1, /*title*/'优秀的同伴');
 INSERT INTO `tips` VALUES (/*id*/4119001, /*value*/119001, /*tips_index*/1, /*title*/'暗黑授课');
 INSERT INTO `tips` VALUES (/*id*/4119101, /*value*/119101, /*tips_index*/1, /*title*/'进步');
+INSERT INTO `tips` VALUES (/*id*/4120001, /*value*/120001, /*tips_index*/1, /*title*/'守护和平的姐姐');
 INSERT INTO `tips` VALUES (/*id*/4121301, /*value*/121301, /*tips_index*/1, /*title*/'开演之前');
 INSERT INTO `tips` VALUES (/*id*/4121401, /*value*/121401, /*tips_index*/1, /*title*/'展示性感魅力');
 INSERT INTO `tips` VALUES (/*id*/4121501, /*value*/121501, /*tips_index*/1, /*title*/'对手出现？');

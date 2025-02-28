@@ -3346,7 +3346,7 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/3587, /*unit_id*/111501, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/3588, /*unit_id*/111501, /*trigger*/2, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/'你叫我？\n如果是无聊的事\n你得做好心理准备', /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3589, /*unit_id*/111501, /*trigger*/2, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/'怎么了？\n要挑战我吗？\n好，我接受了♪', /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3590, /*unit_id*/111501, /*trigger*/2, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/'嘿，打不中的\n我的乱数圣域\n是无敌的♪', /*insert_word_type*/0);
-INSERT INTO `room_unit_comments` VALUES (/*id*/3591, /*unit_id*/111501, /*trigger*/2, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/'怎么，你也\n很闲吗？\n真巧啊，我也是。', /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/3591, /*unit_id*/111501, /*trigger*/2, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/'怎么了，你也\n很闲吗？\n真巧啊，我也是', /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3592, /*unit_id*/111501, /*trigger*/2, /*voice_id*/101, /*beloved_step*/4, /*time*/0, /*face_id*/1, /*description*/'做点什么\n有趣的事吧\n那么，要做什么呢？', /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3593, /*unit_id*/111501, /*trigger*/2, /*voice_id*/102, /*beloved_step*/8, /*time*/0, /*face_id*/1, /*description*/'会像这样\n随便地碰触我\n还真是你的风格♪', /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/3594, /*unit_id*/111501, /*trigger*/2, /*voice_id*/1, /*beloved_step*/1, /*time*/1, /*face_id*/1, /*description*/'和是不是早晨没有关系！\n来吧，愉快又猛烈地\n大闹一场吧♪', /*insert_word_type*/0);

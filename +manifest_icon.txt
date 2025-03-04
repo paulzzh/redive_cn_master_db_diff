@@ -1178,7 +1178,7 @@ a/icon_icon_emblem_10201724.unity3d,985920c7506371402128e83c7bfb8bfe,tutorial1,8
 a/icon_icon_emblem_10201725.unity3d,a35e2be41fc5ba4a4a987a04ee132b16,tutorial1,12316,
 a/icon_icon_emblem_10201726.unity3d,9c52440888d5c1914469048b66764f57,tutorial1,7023,
 a/icon_icon_emblem_10201727.unity3d,fd8074c4f63649d4587d86f55d9b15a8,tutorial1,8297,
-a/icon_icon_emblem_10201728.unity3d,ebf40672b6aeaa66564bcc228b60a95e,tutorial1,12455,
+a/icon_icon_emblem_10201728.unity3d,9ce325d5135fe0f2df95b881e49f6d77,tutorial1,12285,
 a/icon_icon_emblem_10201729.unity3d,fcf4d471fa1aa26f40a6482801fcf0f4,tutorial1,7247,
 a/icon_icon_emblem_10201730.unity3d,c4bfd22f5bf265b7a1332c3f6cd704e9,tutorial1,8184,
 a/icon_icon_emblem_10201731.unity3d,067b65c8603fceb2d3adc74a591d359e,tutorial1,12271,

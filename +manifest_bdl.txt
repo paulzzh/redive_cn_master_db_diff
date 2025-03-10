@@ -1290,7 +1290,7 @@ a/bdl_viewfriendmanagement.unity3d,2a740b1aad5342a1c417e0d24dfa9671,tutorial1,19
 a/bdl_viewfriendtop.unity3d,c7a66cdd65c51c374919b280cba939e3,tutorial1,10535,
 a/bdl_viewgachaanimation.unity3d,cbc8cfad943e81d3acd4838e344360a5,tutorial1,5880,
 a/bdl_viewgacharesult 1.unity3d,7b4e72466d70c3b0df798e88e6e193af,tutorial1,33032,
-a/bdl_viewgacharesult.unity3d,403250ca2f426ebbfce47e6173499794,tutorial1,47264,
+a/bdl_viewgacharesult.unity3d,6ff497f086f46e17dca79b14cd900ae4,tutorial1,47266,
 a/bdl_viewgachatop.unity3d,656dd0446f396bd77a88b2473c4ce129,tutorial1,51829,
 a/bdl_viewglossary.unity3d,b66067f75ec62049abf7f7c63c364f88,tutorial1,14597,
 a/bdl_viewgrandarenaresult.unity3d,7d174816aa606fc398d6fb7b31570c87,tutorial1,394785,

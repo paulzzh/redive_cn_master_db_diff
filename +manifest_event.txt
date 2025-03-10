@@ -2404,7 +2404,7 @@ a/event_tutorialimage_shiori_20044.unity3d,1f03482b42ae5f05b867a4c473ca4fff,comm
 a/event_tutorialimage_shiori_201.unity3d,94102177b05269bec4eca2b637d3d0a6,common,216749,
 a/event_uek.unity3d,e3b8a13700126d5f36d1b7b5dfa39d18,common,2103213,
 a/event_uektexture.unity3d,6cfbc1d9c99db1b64dc803adc556c34e,common,956475,
-a/event_won.unity3d,a66250d39629883f0c5f54f50f6aa950,common,3895919,
+a/event_won.unity3d,60cdc722f2e483554cc1b1659454cea3,common,3895930,
 a/event_wts.unity3d,fa7ab8678583acd4e7f63486ac5e3bf1,common,29170,
 a/event_xeh.unity3d,d108461b14167125c85e5a37e1e3336d,common,449307,
 a/event_ybm.unity3d,fef825df121b8cacaab9103fd37cc987,common,2099431,

@@ -16,4 +16,5 @@ INSERT INTO `pkb_pitcher_ball_type` VALUES (/*pitcher_id*/4, /*ball_type*/13, /*
 INSERT INTO `pkb_pitcher_ball_type` VALUES (/*pitcher_id*/4, /*ball_type*/14, /*ball_type_name*/'沉球');
 INSERT INTO `pkb_pitcher_ball_type` VALUES (/*pitcher_id*/4, /*ball_type*/17, /*ball_type_name*/'龙族终结球');
 INSERT INTO `pkb_pitcher_ball_type` VALUES (/*pitcher_id*/4, /*ball_type*/18, /*ball_type_name*/'龙族长尾');
+CREATE UNIQUE INDEX 'pkb_pitcher_ball_type_0_pitcher_id_1_ball_type' on 'pkb_pitcher_ball_type'('pitcher_id','ball_type');
 CREATE INDEX 'pkb_pitcher_ball_type_0_pitcher_id' on 'pkb_pitcher_ball_type'('pitcher_id');

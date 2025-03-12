@@ -4,3 +4,4 @@ INSERT INTO `ex_equipment_rankup_data` VALUES (/*rarity*/3, /*rankup_level*/1, /
 INSERT INTO `ex_equipment_rankup_data` VALUES (/*rarity*/3, /*rankup_level*/2, /*consume_gold*/200000, /*item_id*/0);
 INSERT INTO `ex_equipment_rankup_data` VALUES (/*rarity*/4, /*rankup_level*/1, /*consume_gold*/200000, /*item_id*/0);
 INSERT INTO `ex_equipment_rankup_data` VALUES (/*rarity*/4, /*rankup_level*/2, /*consume_gold*/400000, /*item_id*/0);
+CREATE UNIQUE INDEX 'ex_equipment_rankup_data_0_rarity_1_rankup_level' on 'ex_equipment_rankup_data'('rarity','rankup_level');

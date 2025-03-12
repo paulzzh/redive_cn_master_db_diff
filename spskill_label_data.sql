@@ -14,6 +14,8 @@ INSERT INTO `spskill_label_data` VALUES (/*unit_id*/122701, /*normal_label_text*
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/123001, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/125001, /*normal_label_text*/'平时', /*sp_label_text*/'共斗中');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/125801, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126001, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126101, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126201, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126401, /*normal_label_text*/'平时', /*sp_label_text*/'【完全充能】中');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126501, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');

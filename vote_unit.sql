@@ -54,3 +54,4 @@ INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/104401, /*unit_rarity*/
 INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/103701, /*unit_rarity*/3);
 INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/105601, /*unit_rarity*/3);
 INSERT INTO `vote_unit` VALUES (/*vote_id*/1, /*unit_id*/107101, /*unit_rarity*/3);
+CREATE UNIQUE INDEX 'vote_unit_0_vote_id_1_unit_id' on 'vote_unit'('vote_id','unit_id');

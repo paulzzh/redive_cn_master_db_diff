@@ -7719,4 +7719,5 @@ INSERT INTO `unit_promotion` VALUES (/*unit_id*/170201, /*promotion_level*/25, /
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/170201, /*promotion_level*/26, /*equip_slot_1*/108164, /*equip_slot_2*/108163, /*equip_slot_3*/108283, /*equip_slot_4*/108492, /*equip_slot_5*/108583, /*equip_slot_6*/108582);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/170201, /*promotion_level*/27, /*equip_slot_1*/109161, /*equip_slot_2*/108164, /*equip_slot_3*/108314, /*equip_slot_4*/108283, /*equip_slot_5*/108584, /*equip_slot_6*/108583);
 INSERT INTO `unit_promotion` VALUES (/*unit_id*/170201, /*promotion_level*/28, /*equip_slot_1*/999999, /*equip_slot_2*/109161, /*equip_slot_3*/999999, /*equip_slot_4*/108314, /*equip_slot_5*/109581, /*equip_slot_6*/108584);
+CREATE UNIQUE INDEX 'unit_promotion_0_unit_id_1_promotion_level' on 'unit_promotion'('unit_id','promotion_level');
 CREATE INDEX 'unit_promotion_0_unit_id' on 'unit_promotion'('unit_id');

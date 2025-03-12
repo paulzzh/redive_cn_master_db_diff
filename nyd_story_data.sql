@@ -1,0 +1,11 @@
+CREATE TABLE 'nyd_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'is_first' INTEGER NOT NULL, 'nyd_story_type' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134061, /*original_event_id*/10134, /*title*/'初音的初梦', /*is_first*/1, /*nyd_story_type*/2, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/40);
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134062, /*original_event_id*/10134, /*title*/'祈梨的初梦', /*is_first*/0, /*nyd_story_type*/2, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/40);
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134063, /*original_event_id*/10134, /*title*/'香澄的初梦', /*is_first*/0, /*nyd_story_type*/2, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/40);
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134064, /*original_event_id*/10134, /*title*/'铃的初梦', /*is_first*/0, /*nyd_story_type*/2, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/40);
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134065, /*original_event_id*/10134, /*title*/'栞的初梦', /*is_first*/0, /*nyd_story_type*/2, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/40);
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134066, /*original_event_id*/10134, /*title*/'深月的初梦', /*is_first*/0, /*nyd_story_type*/2, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/40);
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134067, /*original_event_id*/10134, /*title*/'惠理子的初梦', /*is_first*/0, /*nyd_story_type*/2, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/40);
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134601, /*original_event_id*/10134, /*title*/'序章', /*is_first*/1, /*nyd_story_type*/1, /*reward_type*/0, /*reward_id*/0, /*reward_count*/0);
+INSERT INTO `nyd_story_data` VALUES (/*sub_story_id*/5134602, /*original_event_id*/10134, /*title*/'终章', /*is_first*/0, /*nyd_story_type*/3, /*reward_type*/0, /*reward_id*/0, /*reward_count*/0);
+CREATE INDEX 'nyd_story_data_0_original_event_id' on 'nyd_story_data'('original_event_id');

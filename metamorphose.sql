@@ -3,4 +3,5 @@ INSERT INTO `metamorphose` VALUES (/*type_id*/208700, /*condition_value*/2, /*pr
 INSERT INTO `metamorphose` VALUES (/*type_id*/210100, /*condition_value*/2, /*prefab_id*/210101);
 INSERT INTO `metamorphose` VALUES (/*type_id*/208700, /*condition_value*/3, /*prefab_id*/208702);
 INSERT INTO `metamorphose` VALUES (/*type_id*/210100, /*condition_value*/3, /*prefab_id*/210102);
+CREATE UNIQUE INDEX 'metamorphose_0_type_id_1_condition_value' on 'metamorphose'('type_id','condition_value');
 CREATE INDEX 'metamorphose_0_type_id' on 'metamorphose'('type_id');

@@ -34,3 +34,14 @@ INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floo
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floor_num*/8, /*enemy_name*/'陆生树懒');
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floor_num*/9, /*enemy_name*/'赤剑毒蛇');
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32007, /*floor_num*/10, /*enemy_name*/'究极守护者');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32008, /*floor_num*/6, /*enemy_name*/'长耳猴首领');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32008, /*floor_num*/7, /*enemy_name*/'诅咒·奥拉姆');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32008, /*floor_num*/8, /*enemy_name*/'骑兵哥布林');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32008, /*floor_num*/9, /*enemy_name*/'雷电');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32008, /*floor_num*/10, /*enemy_name*/'究极守护者');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floor_num*/6, /*enemy_name*/'巨型蜥蜴');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floor_num*/7, /*enemy_name*/'红极鸟');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floor_num*/8, /*enemy_name*/'双足飞龙');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floor_num*/9, /*enemy_name*/'三战士图腾');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floor_num*/10, /*enemy_name*/'究极守护者');
+CREATE UNIQUE INDEX 'secret_dungeon_enemy_info_0_dungeon_area_id_1_floor_num' on 'secret_dungeon_enemy_info'('dungeon_area_id','floor_num');

@@ -14,3 +14,4 @@ INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/3511, /*
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/3791, /*still_id*/9000224);
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/4091, /*still_id*/9000226);
 INSERT INTO `wac_present_still_data` VALUES (/*wac_id*/2816, /*date_id*/4092, /*still_id*/9000228);
+CREATE UNIQUE INDEX 'wac_present_still_data_0_wac_id_1_date_id' on 'wac_present_still_data'('wac_id','date_id');

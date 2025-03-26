@@ -20,3 +20,4 @@ INSERT INTO `sre_quest_difficulty_data` VALUES (/*sre_boss_id*/3006, /*difficult
 INSERT INTO `sre_quest_difficulty_data` VALUES (/*sre_boss_id*/3007, /*difficulty*/1, /*sre_id*/3, /*wave_group_id*/803100219, /*icon_id*/0);
 INSERT INTO `sre_quest_difficulty_data` VALUES (/*sre_boss_id*/3007, /*difficulty*/2, /*sre_id*/3, /*wave_group_id*/803100220, /*icon_id*/0);
 INSERT INTO `sre_quest_difficulty_data` VALUES (/*sre_boss_id*/3007, /*difficulty*/3, /*sre_id*/3, /*wave_group_id*/803100221, /*icon_id*/0);
+CREATE UNIQUE INDEX 'sre_quest_difficulty_data_0_sre_boss_id_1_difficulty' on 'sre_quest_difficulty_data'('sre_boss_id','difficulty');

@@ -23,5 +23,6 @@ INSERT INTO `asm_memory_gauge` VALUES (/*gauge_id*/2, /*trigger_score*/22500, /*
 INSERT INTO `asm_memory_gauge` VALUES (/*gauge_id*/2, /*trigger_score*/25000, /*completion_detail*/'获得25000pt累积分数吧', /*unlock_story_id*/0, /*reward_type*/12, /*reward_id*/94002, /*reward_count*/100000);
 INSERT INTO `asm_memory_gauge` VALUES (/*gauge_id*/2, /*trigger_score*/27500, /*completion_detail*/'获得27500pt累积分数吧', /*unlock_story_id*/0, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/100);
 INSERT INTO `asm_memory_gauge` VALUES (/*gauge_id*/2, /*trigger_score*/30000, /*completion_detail*/'获得30000pt累积分数吧', /*unlock_story_id*/5126713, /*reward_type*/15, /*reward_id*/11001263, /*reward_count*/1);
+CREATE UNIQUE INDEX 'asm_memory_gauge_0_gauge_id_1_trigger_score' on 'asm_memory_gauge'('gauge_id','trigger_score');
 CREATE INDEX 'asm_memory_gauge_0_gauge_id' on 'asm_memory_gauge'('gauge_id');
 CREATE INDEX 'asm_memory_gauge_0_unlock_story_id' on 'asm_memory_gauge'('unlock_story_id');

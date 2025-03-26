@@ -113,5 +113,7 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10112, /*event_id*/10112, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10113, /*event_id*/10113, /*gacha_name*/'Re:member　我的愿望所编织的未来', /*item_type*/2, /*item_id*/61122, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10114, /*event_id*/10114, /*gacha_name*/'猫与粗点心咖啡厅　欢迎来到甜食党咖啡店', /*item_type*/2, /*item_id*/61132, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10115, /*event_id*/10115, /*gacha_name*/'Sweet tiny stage！　新人女演员与小小淑女', /*item_type*/2, /*item_id*/61142, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10116, /*event_id*/10116, /*gacha_name*/'亲爱的 欢迎回来与我回来了的约定', /*item_type*/2, /*item_id*/61152, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10117, /*event_id*/10117, /*gacha_name*/'交出宝物！　神出鬼没的怪盗', /*item_type*/2, /*item_id*/61162, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

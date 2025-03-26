@@ -42,4 +42,5 @@ INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50278, /*rarity*/8, /*disp_
 INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50278, /*rarity*/9, /*disp_rarity*/4);
 INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50278, /*rarity*/10, /*disp_rarity*/5);
 INSERT INTO `prizegacha_sp_data` VALUES (/*gacha_id*/50278, /*rarity*/11, /*disp_rarity*/6);
+CREATE UNIQUE INDEX 'prizegacha_sp_data_0_gacha_id_1_rarity' on 'prizegacha_sp_data'('gacha_id','rarity');
 CREATE INDEX 'prizegacha_sp_data_0_gacha_id' on 'prizegacha_sp_data'('gacha_id');

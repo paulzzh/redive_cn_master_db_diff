@@ -26,6 +26,7 @@ INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1012011, /*ub_auto_id_1*/1, /*u
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1013001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1013011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1014001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1014011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1015001, /*ub_auto_id_1*/14002, /*ub_auto_id_2*/11002, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1015011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1016001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
@@ -67,6 +68,7 @@ INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1036011, /*ub_auto_id_1*/1, /*u
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1037001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1037011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1038001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1038011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1040001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1040011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1042001, /*ub_auto_id_1*/14002, /*ub_auto_id_2*/11002, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
@@ -112,7 +114,9 @@ INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1063011, /*ub_auto_id_1*/1, /*u
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1064001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1064011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1065001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1065011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1066001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1066011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1067001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1068001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1069001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
@@ -277,6 +281,8 @@ INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1255001, /*ub_auto_id_1*/1, /*u
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1256001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1257001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1258001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1260001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1261001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1262001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1263001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1264001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
@@ -289,6 +295,15 @@ INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1270001, /*ub_auto_id_1*/1, /*u
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1271001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1272001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1273001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1275001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1276001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1279001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1280001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1283001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1284001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1285001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1288001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1289001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1701001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1702001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1703011, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
@@ -302,5 +317,6 @@ INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1807001, /*ub_auto_id_1*/1, /*u
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1808001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1809001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1810001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
+INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1811001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/1913001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);
 INSERT INTO `ub_auto_define` VALUES (/*skill_id*/4181001, /*ub_auto_id_1*/1, /*ub_auto_id_2*/0, /*ub_auto_id_3*/0, /*ub_auto_id_4*/0, /*ub_auto_id_5*/0);

@@ -8,3 +8,4 @@ INSERT INTO `sjr_score` VALUES (/*round*/3, /*type*/2, /*first_score*/8000, /*se
 INSERT INTO `sjr_score` VALUES (/*round*/1, /*type*/3, /*first_score*/8000, /*second_score*/7500, /*third_score*/7000, /*time_score*/140, /*action_score*/110, /*normal_bonus*/1.2, /*hard_bonus*/2.4, /*extra_bonus*/4.0);
 INSERT INTO `sjr_score` VALUES (/*round*/2, /*type*/3, /*first_score*/8000, /*second_score*/7500, /*third_score*/7000, /*time_score*/140, /*action_score*/110, /*normal_bonus*/1.2, /*hard_bonus*/2.4, /*extra_bonus*/4.0);
 INSERT INTO `sjr_score` VALUES (/*round*/3, /*type*/3, /*first_score*/8000, /*second_score*/7500, /*third_score*/7000, /*time_score*/140, /*action_score*/110, /*normal_bonus*/1.2, /*hard_bonus*/2.4, /*extra_bonus*/4.0);
+CREATE UNIQUE INDEX 'sjr_score_0_round_1_type' on 'sjr_score'('round','type');

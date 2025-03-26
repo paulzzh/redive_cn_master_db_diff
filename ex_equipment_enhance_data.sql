@@ -16,4 +16,5 @@ INSERT INTO `ex_equipment_enhance_data` VALUES (/*rarity*/4, /*enhance_level*/2,
 INSERT INTO `ex_equipment_enhance_data` VALUES (/*rarity*/4, /*enhance_level*/3, /*needed_mana*/40, /*needed_point*/1200, /*total_point*/3000, /*rankup_level*/0);
 INSERT INTO `ex_equipment_enhance_data` VALUES (/*rarity*/4, /*enhance_level*/4, /*needed_mana*/40, /*needed_point*/1400, /*total_point*/4400, /*rankup_level*/1);
 INSERT INTO `ex_equipment_enhance_data` VALUES (/*rarity*/4, /*enhance_level*/5, /*needed_mana*/40, /*needed_point*/1600, /*total_point*/6000, /*rankup_level*/2);
+CREATE UNIQUE INDEX 'ex_equipment_enhance_data_0_rarity_1_enhance_level' on 'ex_equipment_enhance_data'('rarity','enhance_level');
 CREATE INDEX 'ex_equipment_enhance_data_0_rarity' on 'ex_equipment_enhance_data'('rarity');

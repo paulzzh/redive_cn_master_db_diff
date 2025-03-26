@@ -208,4 +208,5 @@ INSERT INTO `sre_effective_unit` VALUES (/*sre_boss_id*/3007, /*sre_id*/3, /*uni
 INSERT INTO `sre_effective_unit` VALUES (/*sre_boss_id*/3007, /*sre_id*/3, /*unit_id*/122101, /*effect_id*/100, /*support_effect_id*/200);
 INSERT INTO `sre_effective_unit` VALUES (/*sre_boss_id*/3007, /*sre_id*/3, /*unit_id*/122201, /*effect_id*/100, /*support_effect_id*/200);
 INSERT INTO `sre_effective_unit` VALUES (/*sre_boss_id*/3007, /*sre_id*/3, /*unit_id*/180901, /*effect_id*/100, /*support_effect_id*/200);
+CREATE UNIQUE INDEX 'sre_effective_unit_0_sre_boss_id_1_unit_id' on 'sre_effective_unit'('sre_boss_id','unit_id');
 CREATE INDEX 'sre_effective_unit_0_sre_boss_id_1_sre_id' on 'sre_effective_unit'('sre_boss_id','sre_id');

@@ -2,3 +2,5 @@ CREATE TABLE 'hatsune_series_gacha_reference' ('event_id' INTEGER NOT NULL, 'ref
 INSERT INTO `hatsune_series_gacha_reference` VALUES (/*event_id*/10085, /*reference_key_event_id_flag*/1);
 INSERT INTO `hatsune_series_gacha_reference` VALUES (/*event_id*/10111, /*reference_key_event_id_flag*/1);
 INSERT INTO `hatsune_series_gacha_reference` VALUES (/*event_id*/10113, /*reference_key_event_id_flag*/1);
+INSERT INTO `hatsune_series_gacha_reference` VALUES (/*event_id*/10137, /*reference_key_event_id_flag*/1);
+INSERT INTO `hatsune_series_gacha_reference` VALUES (/*event_id*/10139, /*reference_key_event_id_flag*/1);

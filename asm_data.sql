@@ -1497,7 +1497,7 @@ INSERT INTO `asm_data` VALUES (/*asm_id*/2431001, /*genre_id*/4, /*difficulty*/3
 INSERT INTO `asm_data` VALUES (/*asm_id*/2431002, /*genre_id*/4, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动「吸血鬼传闻　夜与美的盛宴」中，雪描述公主们的『美丽』的迷你活动叫做什么？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2431003, /*genre_id*/4, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'能够获得公会之家家具「绝世鸡蛋和成堆的饭」的地下城是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2431004, /*genre_id*/4, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动「解放伊甸园　在终将再会的未来」中，回顾矛依未回忆的迷你活动叫做什么？', /*category*/2);
-INSERT INTO `asm_data` VALUES (/*asm_id*/2431005, /*genre_id*/4, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动「亲爱的 欢迎回来与我回来了的约定」的片尾曲是？', /*category*/2);
+INSERT INTO `asm_data` VALUES (/*asm_id*/2431005, /*genre_id*/4, /*difficulty*/3, /*asm_type*/1, /*image_id*/0, /*detail*/'活动「Dears　欢迎回来与我回来了的约定」的片尾曲是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2510003, /*genre_id*/5, /*difficulty*/1, /*asm_type*/2, /*image_id*/0, /*detail*/'音乐的强弱符号中的“f”怎么读？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2510004, /*genre_id*/5, /*difficulty*/1, /*asm_type*/2, /*image_id*/0, /*detail*/'下列选项中，音色最低的是？', /*category*/2);
 INSERT INTO `asm_data` VALUES (/*asm_id*/2510005, /*genre_id*/5, /*difficulty*/1, /*asm_type*/2, /*image_id*/0, /*detail*/'小提琴的腔体中的空洞和什么字母相似？', /*category*/2);

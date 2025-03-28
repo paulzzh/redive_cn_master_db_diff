@@ -63,6 +63,6 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5108, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5110, /*story_type*/5, /*value*/10110, /*title*/'解放伊甸园　\n在终将再会的未来', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/01/24 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5111, /*story_type*/5, /*value*/10111, /*title*/'解放伊甸园　\n在终将再会的未来', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/01/24 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5114, /*story_type*/5, /*value*/10114, /*title*/'猫与粗点心咖啡厅　\n欢迎来到甜食党咖啡店', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/02/21 15:00:00', /*end_time*/'2099/12/31 23:59:59');
-INSERT INTO `event_story_data` VALUES (/*story_group_id*/5116, /*story_type*/5, /*value*/10116, /*title*/'亲爱的　\n欢迎回来与我回来了的约定', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/03/27 15:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5116, /*story_type*/5, /*value*/10116, /*title*/'Dears　\n欢迎回来与我回来了的约定', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/03/27 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5118, /*story_type*/5, /*value*/10118, /*title*/'连结碧蓝　\n直至少女到达天际', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/04/11 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

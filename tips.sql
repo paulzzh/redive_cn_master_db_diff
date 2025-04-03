@@ -123,6 +123,9 @@ INSERT INTO `tips` VALUES (/*id*/4125101, /*value*/125101, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4125201, /*value*/125201, /*tips_index*/1, /*title*/'被点心包围着');
 INSERT INTO `tips` VALUES (/*id*/4125301, /*value*/125301, /*tips_index*/1, /*title*/'和主人一起');
 INSERT INTO `tips` VALUES (/*id*/4125401, /*value*/125401, /*tips_index*/1, /*title*/'做梦');
+INSERT INTO `tips` VALUES (/*id*/4125501, /*value*/125501, /*tips_index*/1, /*title*/'用魔法稍作加工');
+INSERT INTO `tips` VALUES (/*id*/4125601, /*value*/125601, /*tips_index*/1, /*title*/'理想的我');
+INSERT INTO `tips` VALUES (/*id*/4125701, /*value*/125701, /*tips_index*/1, /*title*/'不可思议的包');
 INSERT INTO `tips` VALUES (/*id*/4125801, /*value*/125801, /*tips_index*/1, /*title*/'不愧是兄长大人');
 INSERT INTO `tips` VALUES (/*id*/4170101, /*value*/170101, /*tips_index*/1, /*title*/'闪亮登场');
 INSERT INTO `tips` VALUES (/*id*/4170201, /*value*/170201, /*tips_index*/1, /*title*/'努力打年糕');

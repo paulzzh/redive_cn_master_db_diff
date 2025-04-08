@@ -223,7 +223,7 @@ INSERT INTO `unit_background` VALUES (/*unit_id*/126101, /*unit_name*/'普雷西
 INSERT INTO `unit_background` VALUES (/*unit_id*/126201, /*unit_name*/'伊莉亚（礼服）', /*bg_id*/501372, /*bg_name*/'瀑布潭_夜', /*position*/0.0, /*face_type*/20);
 INSERT INTO `unit_background` VALUES (/*unit_id*/126301, /*unit_name*/'雪（礼服）', /*bg_id*/500040, /*bg_name*/'兰德索尔 公会之家', /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/126401, /*unit_name*/'克萝茜', /*bg_id*/501660, /*bg_name*/'吉奥·特尔哥尼亚_平原_昼', /*position*/0.0, /*face_type*/4);
-INSERT INTO `unit_background` VALUES (/*unit_id*/126501, /*unit_name*/'莱拉耶尔', /*bg_id*/501720, /*bg_name*/'吉奥·特尔哥尼亚_巴尔菲城堡_谒见大厅_昼', /*position*/0.0, /*face_type*/4);
+INSERT INTO `unit_background` VALUES (/*unit_id*/126501, /*unit_name*/'莱拉耶尔', /*bg_id*/501720, /*bg_name*/'吉奥·特尔哥尼亚_芭菲城堡_谒见大厅_昼', /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/126601, /*unit_name*/'似似花（夏日）', /*bg_id*/500692, /*bg_name*/'海边的店_夜', /*position*/0.0, /*face_type*/2);
 INSERT INTO `unit_background` VALUES (/*unit_id*/126701, /*unit_name*/'秋乃（夏日）', /*bg_id*/501030, /*bg_name*/'心愿海滩', /*position*/0.0, /*face_type*/4);
 INSERT INTO `unit_background` VALUES (/*unit_id*/126801, /*unit_name*/'由加莉（夏日）', /*bg_id*/500280, /*bg_name*/'无人岛', /*position*/0.0, /*face_type*/4);

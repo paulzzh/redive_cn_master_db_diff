@@ -1813,7 +1813,7 @@ INSERT INTO `notif_data` VALUES (/*unit_id*/125701, /*notif_type*/7, /*comment*/
 INSERT INTO `notif_data` VALUES (/*unit_id*/125701, /*notif_type*/8, /*comment*/'探险中设置的自动循环出发已经结束了?我还带了报酬回来，请别忘了确认哦。');
 INSERT INTO `notif_data` VALUES (/*unit_id*/125601, /*notif_type*/1, /*comment*/'体、体力已经完全恢复了……我是派不上用场的人，冒险时就由我守着家里吧……诶，不行吗？');
 INSERT INTO `notif_data` VALUES (/*unit_id*/125601, /*notif_type*/2, /*comment*/'那个……公会之家的扫荡券已经攒满了……用这个的话，或许就可以在不与人交流的情况下行动了？');
-INSERT INTO `notif_data` VALUES (/*unit_id*/125601, /*notif_type*/3, /*comment*/'嗨?公会之家的体力已经攒满了哦！要不要和碧奇一起来场快乐开心的冒险呢！');
+INSERT INTO `notif_data` VALUES (/*unit_id*/125601, /*notif_type*/3, /*comment*/'嗨?公会之家的体力已经攒满了哦！要不要和毗奇一起来场快乐开心的冒险呢！');
 INSERT INTO `notif_data` VALUES (/*unit_id*/125601, /*notif_type*/4, /*comment*/'公、公会之家的经验药剂已经攒满了……喝、喝了这些的话，我也能变成阳光少女吗……');
 INSERT INTO `notif_data` VALUES (/*unit_id*/125601, /*notif_type*/5, /*comment*/'嗨嗨嗨！公会之家的玛那已经攒满了哦！有这么多的话，应该能做很多只鼠鼠耳朵吧！');
 INSERT INTO `notif_data` VALUES (/*unit_id*/125601, /*notif_type*/6, /*comment*/'哈哈！可以在公会之家领取的道具已经堆满了哦！有好多的献礼呀，不胜感激！');

@@ -3,5 +3,4 @@ INSERT INTO `mypage_frame` VALUES (/*frame_id*/2100941, /*group_id*/1, /*frame_n
 INSERT INTO `mypage_frame` VALUES (/*frame_id*/2100961, /*group_id*/2, /*frame_name*/'破晓之星夏日游戏　闪耀于夏天海边的三份思念', /*description*/'完成剧情活动「破晓之星夏日游戏　闪耀于夏天海边的三份思念」的\n任务「打倒1只海将海马指挥官吧（困难限定）」即可确认。', /*start_time*/'2024/6/28 11:00:00');
 INSERT INTO `mypage_frame` VALUES (/*frame_id*/2100981, /*group_id*/3, /*frame_name*/'点滴夏日回忆　在海边发现的小小幸福', /*description*/'完成剧情活动「点滴夏日回忆　在海边发现的小小幸福」的\n任务「打倒1只月光之门吧（困难限定）」即可确认。', /*start_time*/'2024/7/31 11:00:00');
 INSERT INTO `mypage_frame` VALUES (/*frame_id*/2101001, /*group_id*/4, /*frame_name*/'真步真步奇妙之旅！　旅行的少女与世界尽头的大树', /*description*/'完成剧情活动「真步真步奇妙之旅！　旅行的少女与世界尽头的大树」的\n任务「打倒1只哀执的植物羊吧（困难限定）」即可确认。', /*start_time*/'2024/8/30 11:00:00');
-INSERT INTO `mypage_frame` VALUES (/*frame_id*/2101181, /*group_id*/5, /*frame_name*/'浮岛与飞空艇边框', /*description*/'查看剧情活动「连结・这片・碧蓝　直至少女到达天际」的\n迷你内容「兰德索尔一期一会」的「受欢迎者姗姗来迟」即可确认。', /*start_time*/'2025/4/15 11:00:00');
 CREATE INDEX 'mypage_frame_0_group_id' on 'mypage_frame'('group_id');

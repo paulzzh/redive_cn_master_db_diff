@@ -239,4 +239,5 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000237, /*group_id*/40004, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000238, /*group_id*/40004, /*still_group_id*/0, /*still_name*/'2024年情人节纪念自定义我的主页　凯露', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000239, /*group_id*/40004, /*still_group_id*/0, /*still_name*/'2024年情人节纪念自定义我的主页　雪菲', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000240, /*group_id*/30001, /*still_group_id*/0, /*still_name*/'另一个愿望·记录 自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9990225, /*group_id*/29906, /*still_group_id*/0, /*still_name*/'公主连结！Re:Dive 简中服5周年特别纪念 自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 CREATE INDEX 'custom_mypage_0_still_group_id' on 'custom_mypage'('still_group_id');

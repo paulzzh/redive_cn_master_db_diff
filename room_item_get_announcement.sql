@@ -11,3 +11,7 @@ INSERT INTO `room_item_get_announcement` VALUES (/*id*/10, /*room_item_id*/2816,
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/11, /*room_item_id*/2818, /*start_date*/'2024/02/29 11:00:00', /*end_date*/'2099/12/31 23:59:59', /*get_date*/'', /*room_announcement_name*/'');
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/15, /*room_item_id*/2830, /*start_date*/'2025/03/12 11:00:00', /*end_date*/'2099/12/31 23:59:59', /*get_date*/'', /*room_announcement_name*/'');
 INSERT INTO `room_item_get_announcement` VALUES (/*id*/16, /*room_item_id*/2833, /*start_date*/'2025/02/26 11:00:00', /*end_date*/'2099/12/31 23:59:59', /*get_date*/'', /*room_announcement_name*/'');
+INSERT INTO `room_item_get_announcement` VALUES (/*id*/17, /*room_item_id*/2834, /*start_date*/'2025/04/15 11:00:00', /*end_date*/'2099/12/31 23:59:59', /*get_date*/'', /*room_announcement_name*/'');
+INSERT INTO `room_item_get_announcement` VALUES (/*id*/18, /*room_item_id*/2835, /*start_date*/'2025/04/15 11:00:00', /*end_date*/'2099/12/31 23:59:59', /*get_date*/'', /*room_announcement_name*/'');
+INSERT INTO `room_item_get_announcement` VALUES (/*id*/19, /*room_item_id*/2836, /*start_date*/'2025/04/15 11:00:00', /*end_date*/'2099/12/31 23:59:59', /*get_date*/'', /*room_announcement_name*/'');
+INSERT INTO `room_item_get_announcement` VALUES (/*id*/20, /*room_item_id*/2837, /*start_date*/'2025/04/15 11:00:00', /*end_date*/'2099/12/31 23:59:59', /*get_date*/'', /*room_announcement_name*/'');

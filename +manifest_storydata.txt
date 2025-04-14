@@ -13576,7 +13576,7 @@ a/storydata_still_9000223.unity3d,efdf3ea44eaf415e96e4273f4d815c65,everytmp,1395
 a/storydata_still_9000224.unity3d,ab80555efcb1c8a72fafc370041e8927,everytmp,229130,
 a/storydata_still_9000225.unity3d,bc94a1097863eb38697220df1af9af47,everytmp,123112,
 a/storydata_still_9000226.unity3d,ab0509eb8a595ce5bdb8d021f6379ad6,everytmp,229248,
-a/storydata_still_9000227.unity3d,090ece7c3e76d0fbda8c6019d606cd16,everytmp,239509,
+a/storydata_still_9000227.unity3d,d1bc1e38a6b152da16a643cfd1f8455f,everytmp,243644,
 a/storydata_still_9000229.unity3d,62bcddcf5ba18a5f0ffcb5cfcb14132f,everytmp,92040,
 a/storydata_still_9000230.unity3d,1642f66ed47d97af443e9609e7f7d502,everytmp,252023,
 a/storydata_still_9000231.unity3d,79f715e177224a19a119bc62f079cffd,everytmp,213666,
@@ -13615,3 +13615,4 @@ a/storydata_still_900650009.unity3d,2295e8573286d053d3ac14227179459d,common,2595
 a/storydata_still_900650010.unity3d,5304c39a1feddb895b5e10ba2344c726,common,209601,
 a/storydata_still_900650011.unity3d,b9afc0db730ce9bd982b251a24617c69,common,226348,
 a/storydata_still_9123456.unity3d,55a1f91a454a80dcf60d0f038e511cd8,everytmp,165755,
+a/storydata_still_9990225.unity3d,052aaccf15adc81716b23ceb18e9c61b,everytmp,229250,

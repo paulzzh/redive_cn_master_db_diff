@@ -13615,3 +13615,4 @@ a/storydata_still_900650009.unity3d,2295e8573286d053d3ac14227179459d,common,2595
 a/storydata_still_900650010.unity3d,5304c39a1feddb895b5e10ba2344c726,common,209601,
 a/storydata_still_900650011.unity3d,b9afc0db730ce9bd982b251a24617c69,common,226348,
 a/storydata_still_9123456.unity3d,55a1f91a454a80dcf60d0f038e511cd8,everytmp,165755,
+a/storydata_still_9990225.unity3d,052aaccf15adc81716b23ceb18e9c61b,everytmp,229250,

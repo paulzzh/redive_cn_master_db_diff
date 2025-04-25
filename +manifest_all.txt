@@ -56,7 +56,7 @@ a/all_atlascaravanrivalcheckpoint010001.unity3d,acca5f39ad9f266c0537837d24feab81
 a/all_atlascaravanrivalnumbertexture010001.unity3d,ed1975e0ea464162005967ac2e7b0527,tutorial1,43298,
 a/all_atlascaravanselectdirection.unity3d,f1a42dd3c17923d0d4d2bfec2172c6f4,tutorial1,16615,
 a/all_atlascaravanstage.unity3d,d52861ca009912b2ecd756e8810f5f4f,tutorial1,481377,
-a/all_atlascaravanturnstart.unity3d,6b21e3fd70f0d38008082ebdc293548c,tutorial1,112092,
+a/all_atlascaravanturnstart.unity3d,f0534e6fabf1325c48aad1053b3d467a,tutorial1,106902,
 a/all_atlascgg.unity3d,900426e07ca6e404f9872b8b2d423d40,tutorial1,153134,
 a/all_atlascgganimation.unity3d,205e21c72c82194c059c024d5101a1c0,tutorial1,182842,
 a/all_atlascharaeticket.unity3d,c1bca09e739a70305445899fd84f28a0,tutorial1,119888,

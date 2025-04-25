@@ -6,3 +6,6 @@ INSERT INTO `caravan_event_effect` VALUES (/*event_id*/4, /*description*/'跳过
 INSERT INTO `caravan_event_effect` VALUES (/*event_id*/5, /*description*/'里程+100%', /*effect_type*/4, /*effect_value*/100, /*effect_turn*/0, /*effect_times*/1, /*category*/2);
 INSERT INTO `caravan_event_effect` VALUES (/*event_id*/6, /*description*/'小游戏里程+100%', /*effect_type*/5, /*effect_value*/100, /*effect_turn*/0, /*effect_times*/1, /*category*/2);
 INSERT INTO `caravan_event_effect` VALUES (/*event_id*/7, /*description*/'商店打折事件', /*effect_type*/6, /*effect_value*/300, /*effect_turn*/0, /*effect_times*/1, /*category*/3);
+INSERT INTO `caravan_event_effect` VALUES (/*event_id*/98001, /*description*/'跳过回合计数1', /*effect_type*/3, /*effect_value*/0, /*effect_turn*/2, /*effect_times*/0, /*category*/3);
+INSERT INTO `caravan_event_effect` VALUES (/*event_id*/98011, /*description*/'跳过回合计数1', /*effect_type*/3, /*effect_value*/0, /*effect_turn*/1, /*effect_times*/0, /*category*/3);
+INSERT INTO `caravan_event_effect` VALUES (/*event_id*/98012, /*description*/'跳过回合计数2', /*effect_type*/3, /*effect_value*/0, /*effect_turn*/2, /*effect_times*/0, /*category*/3);

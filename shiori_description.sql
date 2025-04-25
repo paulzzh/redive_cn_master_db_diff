@@ -24,7 +24,6 @@ INSERT INTO `shiori_description` VALUES (/*id*/20033, /*type*/22, /*description*
 INSERT INTO `shiori_description` VALUES (/*id*/20035, /*type*/23, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 INSERT INTO `shiori_description` VALUES (/*id*/20038, /*type*/24, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 INSERT INTO `shiori_description` VALUES (/*id*/20040, /*type*/25, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
-INSERT INTO `shiori_description` VALUES (/*id*/20042, /*type*/26, /*description*/'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 INSERT INTO `shiori_description` VALUES (/*id*/2003201, /*type*/2003201, /*description*/'在高难难度下可获得一正大人的支援。\n可以通过具有强大眩晕效果的连结爆发来进行支援哦。\n趁着首领无法行动，一口气击倒它吧。');
 INSERT INTO `shiori_description` VALUES (/*id*/2003901, /*type*/2003901, /*description*/'主人似乎在努力做作业呢。\n只要在作业完成之前撑过怪物的攻击就能获得胜利。\n可以从屏幕上的进度槽确认作业进展情况。');
 CREATE INDEX 'shiori_description_0_type' on 'shiori_description'('type');

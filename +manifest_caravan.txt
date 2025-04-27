@@ -222,4 +222,4 @@ a/caravan_spine_anime_caravan_buddy.cysp.unity3d,cabc4057b9f74bebdcde9bc69393ff8
 a/caravan_spine_anime_caravan_drama.cysp.unity3d,f424922f7281d20dd8da9ee5d1de7481,common,52536,
 a/caravan_treasure.unity3d,82a1a4cdb1fd440b1bb62197a292bdd3,common,71507,
 a/caravan_turnlottery.unity3d,6694a888e518dc5d2a175d8d970dbcb1,common,12408,
-a/caravan_turnstart.unity3d,883abe6617ba239a656eb147f6f7141a,common,362395,
+a/caravan_turnstart.unity3d,0aa95e95eb607252c9045a8cb4fdf84a,common,356991,

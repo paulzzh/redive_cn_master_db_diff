@@ -422,7 +422,7 @@ a/all_atlastitlecustomize1001.unity3d,85cc8996d3c87cab4e5cf65ee2342a57,tutorial1
 a/all_atlastitlecustomize1002.unity3d,ec98f2b6414ec180317dcaa2582b1788,tutorial1,61563,
 a/all_atlastitlecustomize1003.unity3d,d293ae2b0056b5fbb332ddd1dfedbd85,tutorial1,54344,
 a/all_atlastitlecustomize1004.unity3d,3bfd53645ec27c02c7ddc2f6ce8e53a0,tutorial1,75195,
-a/all_atlastitlecustomize1005.unity3d,57f10e2333a9c67aaab3781a45e07528,tutorial1,80166,
+a/all_atlastitlecustomize1005.unity3d,ae749f61c93a7cff646342784d9e18e9,tutorial1,30348,
 a/all_atlastower.unity3d,bdc3022e9b579eb59c67233083f0490e,tutorial1,305107,
 a/all_atlastowerbanner.unity3d,a46dc7a6e5dc3d4e7211d2b0d6119943,tutorial1,47249,
 a/all_atlastowerbossfloorarrive.unity3d,e2a4028f4ad38618676ec70fd9675fcf,tutorial1,218779,

@@ -1,13 +1,13 @@
 CREATE TABLE 'caravan_buff_disp' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'effect_id' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'count_from' INTEGER NOT NULL, 'count_to' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/1, /*type*/1, /*effect_id*/52001, /*category*/1, /*icon_id*/1, /*description*/'【料理】骰子增加至两个', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/2, /*type*/1, /*effect_id*/52002, /*category*/1, /*icon_id*/1, /*description*/'【料理】投掷骰子的结果必定是“1”', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/3, /*type*/1, /*effect_id*/52002, /*category*/3, /*icon_id*/2, /*description*/'【料理】跳过下一个回合的计数', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/3, /*type*/1, /*effect_id*/52002, /*category*/3, /*icon_id*/2, /*description*/'【料理】跳过本次的回合计数', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/4, /*type*/1, /*effect_id*/52004, /*category*/1, /*icon_id*/1, /*description*/'【料理】投掷骰子的结果必定是“4”', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/5, /*type*/1, /*effect_id*/52006, /*category*/1, /*icon_id*/1, /*description*/'【料理】投掷骰子的结果\n会是“4、5、6”其中的一个', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/6, /*type*/1, /*effect_id*/52007, /*category*/1, /*icon_id*/1, /*description*/'【料理】第一次投掷骰子的结果必定是“3”，第二次必定是“6”', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/7, /*type*/1, /*effect_id*/52003, /*category*/1, /*icon_id*/1, /*description*/'【料理】投掷骰子的结果必定是“5”', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/8, /*type*/1, /*effect_id*/52008, /*category*/2, /*icon_id*/7, /*description*/'【料理】里程格子获得的里程提升200%', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/9, /*type*/2, /*effect_id*/4, /*category*/3, /*icon_id*/2, /*description*/'【事件】跳过下一个回合的计数', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/9, /*type*/2, /*effect_id*/4, /*category*/3, /*icon_id*/2, /*description*/'【事件】跳过本次的回合计数', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/10, /*type*/2, /*effect_id*/5, /*category*/2, /*icon_id*/3, /*description*/'【事件】里程格子获得的里程提升100%', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/11, /*type*/2, /*effect_id*/6, /*category*/2, /*icon_id*/5, /*description*/'【事件】小游戏获得的里程提升100%', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/12, /*type*/2, /*effect_id*/7, /*category*/3, /*icon_id*/4, /*description*/'【事件】里程商店里所有商品享有20%以上的折扣', /*count_from*/0, /*count_to*/0);

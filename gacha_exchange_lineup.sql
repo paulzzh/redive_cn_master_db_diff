@@ -612,10 +612,6 @@ INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/617, /*exchange_id*/271, /*uni
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/618, /*exchange_id*/271, /*unit_id*/107801, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/'2025/05/23 11:00:00', /*end_time*/'2025/05/29 10:59:59');
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/619, /*exchange_id*/271, /*unit_id*/110301, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/'2025/05/23 11:00:00', /*end_time*/'2025/05/29 10:59:59');
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/620, /*exchange_id*/271, /*unit_id*/110001, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/'2025/05/23 11:00:00', /*end_time*/'2025/05/29 10:59:59');
-INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/621, /*exchange_id*/272, /*unit_id*/126901, /*rarity*/3, /*gacha_bonus_id*/1119, /*start_time*/'2025/05/30 11:00:00', /*end_time*/'2025/06/08 10:59:59');
-INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/622, /*exchange_id*/273, /*unit_id*/122901, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/'2025/06/08 11:00:00', /*end_time*/'2025/06/11 10:59:59');
-INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/623, /*exchange_id*/274, /*unit_id*/124801, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/'2025/06/11 11:00:00', /*end_time*/'2025/06/14 10:59:59');
-INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/624, /*exchange_id*/274, /*unit_id*/125001, /*rarity*/3, /*gacha_bonus_id*/0, /*start_time*/'2025/06/11 11:00:00', /*end_time*/'2025/06/14 10:59:59');
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/8658, /*exchange_id*/100000, /*unit_id*/100901, /*rarity*/3, /*gacha_bonus_id*/100001, /*start_time*/'2023/8/31 11:00:00', /*end_time*/'2099/1/1 23:59:59');
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/8659, /*exchange_id*/100000, /*unit_id*/101001, /*rarity*/3, /*gacha_bonus_id*/100001, /*start_time*/'2023/8/31 11:00:00', /*end_time*/'2099/1/1 23:59:59');
 INSERT INTO `gacha_exchange_lineup` VALUES (/*id*/8660, /*exchange_id*/100000, /*unit_id*/101101, /*rarity*/3, /*gacha_bonus_id*/100001, /*start_time*/'2023/8/31 11:00:00', /*end_time*/'2099/1/1 23:59:59');

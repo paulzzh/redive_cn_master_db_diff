@@ -18,5 +18,3 @@ INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000015, /*title*/'翱翔
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000016, /*title*/'慈乐之音☆亲近自然演唱会！', /*disp_order*/17);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000017, /*title*/'旅途中的故事', /*disp_order*/18);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000018, /*title*/'唱起摇篮曲', /*disp_order*/19);
-INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000019, /*title*/'比坐办公室更辛苦的工作', /*disp_order*/20);
-INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000020, /*title*/'向导们的照片', /*disp_order*/21);

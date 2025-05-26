@@ -169,7 +169,7 @@ a/loginbonus_partsspecialloginbonusitemtable_15.unity3d,9309e25053492db05a3f9c89
 a/loginbonus_photobook.unity3d,25b0642c4daab6fb31122f7bccfcb929,common,11144397,
 a/loginbonus_race.unity3d,50b981cb6c0d5b9c06a46e12a2528019,common,573432,
 a/loginbonus_race_bg.unity3d,c4721282a7279fe49c8e9a15b563b6f0,common,407729,
-a/loginbonus_race_login_logo.unity3d,5fd315b32b863afc56bab1e4c1a5b56a,common,329671,
+a/loginbonus_race_login_logo.unity3d,589cecbf874ada0a5cc317024212dc3c,common,242570,
 a/loginbonus_race_logo_white.unity3d,2864d48479f22661b3f97e4d8fa2adfc,common,80498,
 a/loginbonus_race_rail_mask.unity3d,d6a8f59a34c064898a64586e7a24d70b,common,6421,
 a/loginbonus_race_sky_bg.unity3d,4e50c6d848eb353edc5c90b7f5e98b14,common,93809,

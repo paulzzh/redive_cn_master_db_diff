@@ -16,9 +16,4 @@ INSERT INTO `caravan_buff_disp` VALUES (/*id*/14, /*type*/1, /*effect_id*/52010,
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/15, /*type*/1, /*effect_id*/52011, /*category*/1, /*icon_id*/1, /*description*/'【料理】第一次投掷骰子的结果必定是“2”，第二次必定是“7”', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/16, /*type*/1, /*effect_id*/52012, /*category*/1, /*icon_id*/1, /*description*/'【料理】投掷骰子的结果\n会是“1、2、3”其中的一个', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/17, /*type*/1, /*effect_id*/52012, /*category*/3, /*icon_id*/2, /*description*/'【料理】跳过本次的回合计数', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/18, /*type*/1, /*effect_id*/52014, /*category*/1, /*icon_id*/8, /*description*/'【料理】移动时会跳过里程格子。', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/19, /*type*/1, /*effect_id*/52005, /*category*/1, /*icon_id*/1, /*description*/'【料理】下次移动时会多走一个格子。', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/20, /*type*/1, /*effect_id*/52014, /*category*/1, /*icon_id*/1, /*description*/'【料理】下次移动时会多走一个格子。', /*count_from*/2, /*count_to*/2);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/21, /*type*/1, /*effect_id*/52015, /*category*/1, /*icon_id*/1, /*description*/'【料理】骰子增加至两个', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/22, /*type*/1, /*effect_id*/52015, /*category*/1, /*icon_id*/1, /*description*/'【料理】下次移动时会多走一个格子。', /*count_from*/0, /*count_to*/0);
 CREATE INDEX 'caravan_buff_disp_0_type_1_effect_id' on 'caravan_buff_disp'('type','effect_id');

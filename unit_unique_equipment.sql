@@ -196,5 +196,10 @@ INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/122601, /*equip_slot*/1, 
 INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/122701, /*equip_slot*/1, /*equip_id*/132271);
 INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/122801, /*equip_slot*/1, /*equip_id*/132281);
 INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/122901, /*equip_slot*/1, /*equip_id*/132291);
+INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/123101, /*equip_slot*/1, /*equip_id*/132311);
+INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/123201, /*equip_slot*/1, /*equip_id*/132321);
+INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/123301, /*equip_slot*/1, /*equip_id*/132331);
+INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/101601, /*equip_slot*/2, /*equip_id*/130162);
+INSERT INTO `unit_unique_equipment` VALUES (/*unit_id*/106001, /*equip_slot*/2, /*equip_id*/130602);
 CREATE UNIQUE INDEX 'unit_unique_equipment_0_unit_id_1_equip_slot' on 'unit_unique_equipment'('unit_id','equip_slot');
 CREATE INDEX 'unit_unique_equipment_0_unit_id' on 'unit_unique_equipment'('unit_id');

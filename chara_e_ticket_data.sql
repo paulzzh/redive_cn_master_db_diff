@@ -8,4 +8,5 @@ INSERT INTO `chara_e_ticket_data` VALUES (/*ticket_id*/27006, /*start_time*/'202
 INSERT INTO `chara_e_ticket_data` VALUES (/*ticket_id*/27007, /*start_time*/'2024/12/31 11:00:00', /*end_time*/'2025/01/21 23:59:59', /*jewel_store_id*/81, /*icon_id*/27001);
 INSERT INTO `chara_e_ticket_data` VALUES (/*ticket_id*/27008, /*start_time*/'2025/02/13 11:00:00', /*end_time*/'2025/03/03 23:59:59', /*jewel_store_id*/82, /*icon_id*/27005);
 INSERT INTO `chara_e_ticket_data` VALUES (/*ticket_id*/27009, /*start_time*/'2025/04/15 11:00:00', /*end_time*/'2025/05/10 23:59:59', /*jewel_store_id*/85, /*icon_id*/27009);
+INSERT INTO `chara_e_ticket_data` VALUES (/*ticket_id*/27010, /*start_time*/'2025/06/14 11:00:00', /*end_time*/'2025/07/06 23:59:59', /*jewel_store_id*/113, /*icon_id*/27001);
 CREATE UNIQUE INDEX 'chara_e_ticket_data_0_jewel_store_id' on 'chara_e_ticket_data'('jewel_store_id');

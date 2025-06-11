@@ -14,4 +14,6 @@ INSERT INTO `caravan_buff_disp` VALUES (/*id*/12, /*type*/2, /*effect_id*/7, /*c
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/13, /*type*/1, /*effect_id*/52009, /*category*/1, /*icon_id*/1, /*description*/'【料理】第一次投掷骰子的结果必定是“8”，第二次必定是“1”', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/14, /*type*/1, /*effect_id*/52010, /*category*/2, /*icon_id*/6, /*description*/'【料理】“里程格子”、“宝\n藏格子”、“商店格子”上升一个品级', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/15, /*type*/1, /*effect_id*/52011, /*category*/1, /*icon_id*/1, /*description*/'【料理】第一次投掷骰子的结果必定是“2”，第二次必定是“7”', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/16, /*type*/1, /*effect_id*/52012, /*category*/1, /*icon_id*/1, /*description*/'【料理】投掷骰子的结果\n会是“1、2、3”其中的一个', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/17, /*type*/1, /*effect_id*/52012, /*category*/3, /*icon_id*/2, /*description*/'【料理】跳过本次的回合计数', /*count_from*/0, /*count_to*/0);
 CREATE INDEX 'caravan_buff_disp_0_type_1_effect_id' on 'caravan_buff_disp'('type','effect_id');

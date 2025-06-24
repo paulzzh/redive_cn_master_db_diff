@@ -1,4 +1,4 @@
-a/colosseum_colosseum_logo.unity3d,023393192fdde1ca8477df22e36d3eae,common,27309,
+a/colosseum_colosseum_logo.unity3d,07a466ce3a20777987468e15872e189d,common,25945,
 a/colosseum_colosseum_reward_icon_25001.unity3d,ea5203e0675541decff9cbed8ba5a879,common,2908,
 a/colosseum_colosseum_reward_icon_41000.unity3d,46153b803ea94c0eaa939fb9b5f6a625,common,2999,
 a/colosseum_colosseum_reward_icon_90008.unity3d,78248971f712caaeaf19774c6ba3ece2,common,2817,

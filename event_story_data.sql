@@ -70,4 +70,5 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5122, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5124, /*story_type*/5, /*value*/10124, /*title*/'战栗幽奇海岸　\n～夏日度假村惊悚怪谈～', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/05/26 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5126, /*story_type*/5, /*value*/10126, /*title*/'魔法师的青春日常　魔法学院与奇迹之钟', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/06/26 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5128, /*story_type*/5, /*value*/10128, /*title*/'浪漫萨拉萨利亚　\n～沙漠的新娘和不可思议的神灯～', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/07/12 15:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5130, /*story_type*/5, /*value*/10130, /*title*/'Criminal Rookie　\n天使们的悖论', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/07/27 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

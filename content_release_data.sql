@@ -3,7 +3,7 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/101, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/102, /*team_level*/1, /*story_id*/0, /*quest_id*/11002008, /*dialog*/'通关主线战斗2-8（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/103, /*team_level*/1, /*story_id*/0, /*quest_id*/11002005, /*dialog*/'通关主线战斗\n2-5（普通难度）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/104, /*team_level*/1, /*story_id*/0, /*quest_id*/11002012, /*dialog*/'通关主线战斗\n2-12（普通难度）\n后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/107, /*team_level*/1, /*story_id*/0, /*quest_id*/11003001, /*dialog*/'通关主线关卡\n3-1（普通难度）\n后解锁');
+INSERT INTO `content_release_data` VALUES (/*system_id*/107, /*team_level*/1, /*story_id*/0, /*quest_id*/11003001, /*dialog*/'通关主线战斗3-1（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/108, /*team_level*/1, /*story_id*/0, /*quest_id*/11009001, /*dialog*/'通关主线关卡9-1（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/109, /*team_level*/1, /*story_id*/0, /*quest_id*/11009002, /*dialog*/'通关主线关卡9-2（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/110, /*team_level*/1, /*story_id*/0, /*quest_id*/11001005, /*dialog*/'通关主线关卡1-5（普通难度）后解锁');
@@ -16,7 +16,7 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/118, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/119, /*team_level*/1, /*story_id*/0, /*quest_id*/11009003, /*dialog*/'通关主线关卡9-3（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/124, /*team_level*/1, /*story_id*/0, /*quest_id*/11003001, /*dialog*/'主线关卡3-1（普通）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/125, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'阅读露娜之塔序章剧情后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/127, /*team_level*/1, /*story_id*/0, /*quest_id*/11010001, /*dialog*/'通关主线关卡10-1（普通难度）\n后解锁');
+INSERT INTO `content_release_data` VALUES (/*system_id*/127, /*team_level*/1, /*story_id*/0, /*quest_id*/11010001, /*dialog*/'主线关卡10-1（普通）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/201, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');
 INSERT INTO `content_release_data` VALUES (/*system_id*/202, /*team_level*/1, /*story_id*/0, /*quest_id*/11004006, /*dialog*/'通关主线战斗4-6（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/203, /*team_level*/1, /*story_id*/0, /*quest_id*/11008015, /*dialog*/'通关主线战斗8-15（普通难度）后解锁');
@@ -29,8 +29,8 @@ INSERT INTO `content_release_data` VALUES (/*system_id*/212, /*team_level*/1, /*
 INSERT INTO `content_release_data` VALUES (/*system_id*/213, /*team_level*/1, /*story_id*/0, /*quest_id*/11018001, /*dialog*/'主线关卡18-1（普通）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/214, /*team_level*/1, /*story_id*/0, /*quest_id*/11018001, /*dialog*/'主线关卡18-1（普通）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/215, /*team_level*/1, /*story_id*/0, /*quest_id*/11018001, /*dialog*/'主线关卡18-1（普通）后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/401, /*team_level*/1, /*story_id*/0, /*quest_id*/11004006, /*dialog*/'通关主线关卡4-6\n（普通难度）后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/402, /*team_level*/1, /*story_id*/0, /*quest_id*/11008015, /*dialog*/'通关主线关卡8-15\n（普通难度）后解锁');
+INSERT INTO `content_release_data` VALUES (/*system_id*/401, /*team_level*/1, /*story_id*/0, /*quest_id*/11004006, /*dialog*/'通关主线战斗4-6（普通难度）\n后解锁');
+INSERT INTO `content_release_data` VALUES (/*system_id*/402, /*team_level*/1, /*story_id*/0, /*quest_id*/11008015, /*dialog*/'通关主线战斗8-15（普通难度）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/503, /*team_level*/1, /*story_id*/0, /*quest_id*/11002002, /*dialog*/'通关主线战斗2-2（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/506, /*team_level*/1, /*story_id*/0, /*quest_id*/11003005, /*dialog*/'通关主线战斗3-5（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/509, /*team_level*/1, /*story_id*/0, /*quest_id*/11002003, /*dialog*/'通关主线关卡2-3（普通难度）后解锁');

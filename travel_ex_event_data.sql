@@ -22,3 +22,4 @@ INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000019, /*title*/'比坐
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000020, /*title*/'向导们的照片', /*disp_order*/21);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000021, /*title*/'新朋友们', /*disp_order*/22);
 INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000022, /*title*/'心怀胜利的信念！', /*disp_order*/23);
+INSERT INTO `travel_ex_event_data` VALUES (/*still_id*/8000023, /*title*/'突击！捕获！？密林少女！！', /*disp_order*/24);

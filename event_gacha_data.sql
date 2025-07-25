@@ -14,7 +14,7 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10013, /*event_id*/10013, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10014, /*event_id*/10014, /*gacha_name*/'复刻初音的礼物大作战', /*item_type*/2, /*item_id*/60132, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10015, /*event_id*/10015, /*gacha_name*/'将军道中记　白翼的武士', /*item_type*/2, /*item_id*/60142, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10016, /*event_id*/10016, /*gacha_name*/'复刻小小甜心冒险家', /*item_type*/2, /*item_id*/60152, /*cost*/1, /*repeat_step*/5);
-INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10017, /*event_id*/10017, /*gacha_name*/'Re: 从零开始收集的异世界餐桌', /*item_type*/2, /*item_id*/60162, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10017, /*event_id*/10017, /*gacha_name*/'Re: 从零开始的收集异世界餐桌', /*item_type*/2, /*item_id*/60162, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10018, /*event_id*/10018, /*gacha_name*/'复刻吸血鬼猎人with伊莉亚', /*item_type*/2, /*item_id*/60172, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10019, /*event_id*/10019, /*gacha_name*/'铃奈的RAINBOW STAGE！', /*item_type*/2, /*item_id*/60182, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10020, /*event_id*/10020, /*gacha_name*/'复刻危险假日！海边的美食家公主', /*item_type*/2, /*item_id*/60192, /*cost*/1, /*repeat_step*/5);
@@ -50,7 +50,7 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10049, /*event_id*/10049, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10050, /*event_id*/10050, /*gacha_name*/'尖叫！连连！万圣鬼怪狂欢节', /*item_type*/2, /*item_id*/60492, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10051, /*event_id*/10051, /*gacha_name*/'龙之探索者', /*item_type*/2, /*item_id*/60502, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10052, /*event_id*/10052, /*gacha_name*/'魔法提督Lovely★莫妮卡 Let''s Go！魔法的四重奏！', /*item_type*/2, /*item_id*/60512, /*cost*/1, /*repeat_step*/5);
-INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10053, /*event_id*/10053, /*gacha_name*/'Re:从零开始收集的异世界餐桌', /*item_type*/2, /*item_id*/60522, /*cost*/1, /*repeat_step*/5);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10053, /*event_id*/10053, /*gacha_name*/'Re: 从零开始的收集异世界餐桌', /*item_type*/2, /*item_id*/60522, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10054, /*event_id*/10054, /*gacha_name*/'初次登场·香格里拉　圣夜的爱情游戏', /*item_type*/2, /*item_id*/60532, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10055, /*event_id*/10055, /*gacha_name*/'礼物大恐慌！　兰德索尔的圣诞老人们', /*item_type*/2, /*item_id*/60542, /*cost*/1, /*repeat_step*/5);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10056, /*event_id*/10056, /*gacha_name*/'新春美食公主！　孤注一掷的少女们', /*item_type*/2, /*item_id*/60552, /*cost*/1, /*repeat_step*/6);
@@ -127,5 +127,7 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10126, /*event_id*/10126, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10127, /*event_id*/10127, /*gacha_name*/'真步真步奇妙之旅！　旅行的少女与世界尽头的大树', /*item_type*/2, /*item_id*/61262, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10128, /*event_id*/10128, /*gacha_name*/'浪漫萨拉萨利亚　～沙漠的新娘与不可思议的神灯～', /*item_type*/2, /*item_id*/61272, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10129, /*event_id*/10129, /*gacha_name*/'点赞！收藏！大集合！　至高的庆典与少女隐藏的爱好', /*item_type*/2, /*item_id*/61282, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10130, /*event_id*/10130, /*gacha_name*/'Criminal Rookie　天使们的悖论', /*item_type*/2, /*item_id*/61292, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10131, /*event_id*/10131, /*gacha_name*/'部落精神　高举之剑与荣耀之桥', /*item_type*/2, /*item_id*/61302, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

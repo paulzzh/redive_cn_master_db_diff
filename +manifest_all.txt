@@ -3493,7 +3493,7 @@ a/all_fx_bg_prefab_81008202.unity3d,12bbe692ab4b28348a001f21ef576289,tutorial1,3
 a/all_fx_bg_prefab_81008501.unity3d,1b6db0372503cbbafd313be21d6bbf31,tutorial1,33572,
 a/all_fx_bg_prefab_81008502.unity3d,0d61c686acdccd31d9dc1aebee5edbb4,tutorial1,35731,
 a/all_fx_bg_prefab_81008503.unity3d,8dec4d953c41392fbc659a675fdee1db,tutorial1,34205,
-a/all_fx_bg_prefab_81008504.unity3d,5b9b4067ef7dbdf9c1f3a5cf8e1ac40e,tutorial1,36356,
+a/all_fx_bg_prefab_81008504.unity3d,c3a5b83b5de57947e9651b11e2bf3b01,tutorial1,37575,
 a/all_fx_bg_prefab_81008505.unity3d,48d237db0bbf2292a5174273f942569d,tutorial1,36050,
 a/all_fx_bg_prefab_81008506.unity3d,8b8b2f64afa2e3256d99147404f5bcc1,tutorial1,34199,
 a/all_fx_bg_prefab_81008507.unity3d,17421f5f1ad8269540d5bc7dcf17ead8,tutorial1,35008,

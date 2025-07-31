@@ -108,7 +108,7 @@ a/all_atlasekidencommon.unity3d,7cd9e8c7a1b6e1610d42f55d4600195c,tutorial1,49156
 a/all_atlasekidenface.unity3d,ee0014936c9b328938bc0e30bb515890,tutorial1,359041,
 a/all_atlasemblem.unity3d,83d3ef9a693b4b5cee69bd04e9d2fcb2,tutorial1,7750,
 a/all_atlasepilogue.unity3d,c9b1b0104964e0d9a2d4636d1f269feb,tutorial1,1139886,
-a/all_atlasevent.unity3d,e1af37c8de7187c0da03a2db04252696,tutorial1,290142,
+a/all_atlasevent.unity3d,777268b2b14f75bb3aaba8a3ccbd1b71,tutorial1,290149,
 a/all_atlasevent10026.unity3d,f835fd4b327b9378ef66ff385928a6b9,tutorial1,205204,
 a/all_atlaseventais.unity3d,3da644051a3eb2d37146981c0cd7e2b4,tutorial1,824892,
 a/all_atlaseventasb.unity3d,4bd0ffa5555080c9593708fadf310cba,tutorial1,1013963,

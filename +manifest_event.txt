@@ -78,7 +78,7 @@ a/event_apa_dialog_image_end.unity3d,0f9a87eda0bc3650739439f812589512,common,444
 a/event_apa_dialog_image_open.unity3d,23dafed987fc66c4b38b05dd21575908,common,444490,
 a/event_aprilfool_banner.unity3d,ee9f9a2d54ab8fcceca52c2f15057670,common,24022,
 a/event_aprilfool_ribbon.unity3d,a48c06bd5eafb37d9d66e21487f5d4cd,common,8974,
-a/event_asb.unity3d,801e73169e05cf572c2a2b0febe774bb,common,4842868,
+a/event_asb.unity3d,64d2839fb8caa608439818fbf0d8a874,common,4840107,
 a/event_battle_bonus_dialog_frame_s.unity3d,c0e65a7580b42929f1878a6e78d32394,common,30297,
 a/event_bmy.unity3d,acb0f4bdd050146bf86bd69d5755c646,common,79591,
 a/event_broadcast_onair_dialog_image_2022081420.unity3d,e88eb8a76d253924df59601387b8cbe9,common,386999,

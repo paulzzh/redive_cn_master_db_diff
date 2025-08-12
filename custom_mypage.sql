@@ -231,7 +231,7 @@ INSERT INTO `custom_mypage` VALUES (/*still_id*/9000229, /*group_id*/40003, /*st
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000230, /*group_id*/30001, /*still_group_id*/0, /*still_name*/'降临日历 自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000231, /*group_id*/10009, /*still_group_id*/0, /*still_name*/'音乐第6卷 购买特典自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000232, /*group_id*/10009, /*still_group_id*/0, /*still_name*/'角色歌专辑第5卷 购买特典自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
-INSERT INTO `custom_mypage` VALUES (/*still_id*/9000233, /*group_id*/20007, /*still_group_id*/0, /*still_name*/'“许下愿望　紧握双手”主视觉图 自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
+INSERT INTO `custom_mypage` VALUES (/*still_id*/9000233, /*group_id*/20007, /*still_group_id*/0, /*still_name*/'“I Wish　紧紧握住这双手”主视觉图 自定义我的主页', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000234, /*group_id*/20007, /*still_group_id*/0, /*still_name*/'6周年纪念自定义我的主页　有Logo', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000235, /*group_id*/20007, /*still_group_id*/0, /*still_name*/'6周年纪念自定义我的主页　无Logo', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);
 INSERT INTO `custom_mypage` VALUES (/*still_id*/9000236, /*group_id*/40004, /*still_group_id*/0, /*still_name*/'2024年情人节纪念自定义我的主页　佩可莉姆', /*vertical_still_flg*/0, /*scroll_direction*/0, /*mypage_type*/1);

@@ -129,5 +129,7 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10128, /*event_id*/10128, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10129, /*event_id*/10129, /*gacha_name*/'点赞！收藏！大集合！　至高的庆典与少女隐藏的爱好', /*item_type*/2, /*item_id*/61282, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10130, /*event_id*/10130, /*gacha_name*/'Criminal Rookie　天使们的悖论', /*item_type*/2, /*item_id*/61292, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10131, /*event_id*/10131, /*gacha_name*/'部落精神　高举之剑与荣耀之桥', /*item_type*/2, /*item_id*/61302, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10132, /*event_id*/10132, /*gacha_name*/'Cry・Baby・Christmas　为谁存在的幸福之日', /*item_type*/2, /*item_id*/61312, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10133, /*event_id*/10133, /*gacha_name*/'快乐进行时　幸福的双子天使与圣诞夜礼物', /*item_type*/2, /*item_id*/61322, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

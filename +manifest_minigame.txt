@@ -32,7 +32,7 @@ a/minigame_cccgimmick_00200.unity3d,418ceb50151c7dab40ac90cb93d5e823,common,2921
 a/minigame_cccgimmick_00300.unity3d,d2641fa391c391ee24af0b6f4f62e769,common,291895,
 a/minigame_cccgimmick_00400.unity3d,3d4d8c247049a40500d3cea038b1024d,common,263720,
 a/minigame_cccgimmick_00500.unity3d,34f1e5f014b5019cdbafd064bd28de99,common,266846,
-a/minigame_cccrival_010001.unity3d,94d25de8f5febeb71c1037dff3be2725,common,2416826,
+a/minigame_cccrival_010001.unity3d,7a42bfe0e5466af85162be35f486574c,common,2418334,
 a/minigame_cccrunner.unity3d,a1c3f20f3bbb35f79f1e66b8aaf98551,common,4707,
 a/minigame_cccrunnereffect.unity3d,06f1a22aefa0bdc92d9069201f8819ad,common,52733,
 a/minigame_cccseason_0002.unity3d,63d3146c16b307f3b8dc7374f8fcaa12,common,304411,

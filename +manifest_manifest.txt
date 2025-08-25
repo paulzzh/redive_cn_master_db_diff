@@ -1,7 +1,7 @@
 manifest/all_assetmanifest,6ce076bc5deae09b0e8e4d7bab373a22,every,398929,
 manifest/animation_assetmanifest,503f4171251c2ef7fd506e6e93fce384,every,24660,
 manifest/arcade_assetmanifest,b0fd68ed008c0c1b421a3b648fbdf4a3,every,1126,
-manifest/banner_assetmanifest,82ef28650ab26f0e1417ef861fc81f7f,every,47222,
+manifest/banner_assetmanifest,7ee69a420a1bb74954b7ed570db1f392,every,47222,
 manifest/bdl_assetmanifest,7a37539a3e07db36bb34d2c0d826689b,every,133015,
 manifest/bg_assetmanifest,d129ad0a289d531e63aa0bdc04edc24c,every,436963,
 manifest/caravan_assetmanifest,86ddc9599ba5138d5c27c1c6a0f7be11,every,19627,

@@ -133,5 +133,9 @@ INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10132, /*event_id*/10132, /*g
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10133, /*event_id*/10133, /*gacha_name*/'快乐进行时　幸福的双子天使与圣诞夜礼物', /*item_type*/2, /*item_id*/61322, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10134, /*event_id*/10134, /*gacha_name*/'迎春梦想家们！　新年陨石碎碎平安！？', /*item_type*/2, /*item_id*/61332, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10135, /*event_id*/10135, /*gacha_name*/'温泉忘年奇谭　为新年的日出干杯​', /*item_type*/2, /*item_id*/61342, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10136, /*event_id*/10136, /*gacha_name*/'I Wish　紧紧握住这双手', /*item_type*/2, /*item_id*/61352, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10137, /*event_id*/10137, /*gacha_name*/'I Wish　紧紧握住这双手', /*item_type*/2, /*item_id*/61362, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10138, /*event_id*/10138, /*gacha_name*/'解放伊甸园　在终将再会的未来', /*item_type*/2, /*item_id*/61372, /*cost*/1, /*repeat_step*/6);
+INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/10139, /*event_id*/10139, /*gacha_name*/'解放伊甸园　在终将再会的未来', /*item_type*/2, /*item_id*/61382, /*cost*/1, /*repeat_step*/6);
 INSERT INTO `event_gacha_data` VALUES (/*gacha_id*/19003, /*event_id*/10003, /*gacha_name*/'吸血鬼猎人with伊莉亚讨伐证交换', /*item_type*/2, /*item_id*/60022, /*cost*/1, /*repeat_step*/5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');

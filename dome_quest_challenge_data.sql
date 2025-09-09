@@ -1,0 +1,17 @@
+CREATE TABLE 'dome_quest_challenge_data' ('challenge_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'challenge_condition' INTEGER NOT NULL, 'condition_value' INTEGER NOT NULL, PRIMARY KEY('challenge_id'));
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100101, /*description*/'在无法战斗的角色为0人的情况下获胜', /*challenge_condition*/1001, /*condition_value*/0);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100102, /*description*/'在无法战斗的角色为1人以下的情况下获胜', /*challenge_condition*/1001, /*condition_value*/1);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100103, /*description*/'在无法战斗的角色为2人以下的情况下获胜', /*challenge_condition*/1001, /*condition_value*/2);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100201, /*description*/'在战斗剩余时间为1:15以上的情况下获胜', /*challenge_condition*/1002, /*condition_value*/74001);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100202, /*description*/'在战斗剩余时间为1:10以上的情况下获胜', /*challenge_condition*/1002, /*condition_value*/69001);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100203, /*description*/'在战斗剩余时间为1:00以上的情况下获胜', /*challenge_condition*/1002, /*condition_value*/59001);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100204, /*description*/'在战斗剩余时间为0:50以上的情况下获胜', /*challenge_condition*/1002, /*condition_value*/49001);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100205, /*description*/'在战斗剩余时间为0:45以上的情况下获胜', /*challenge_condition*/1002, /*condition_value*/44001);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100206, /*description*/'在战斗剩余时间为0:40以上的情况下获胜', /*challenge_condition*/1002, /*condition_value*/39001);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100207, /*description*/'在战斗剩余时间为0:30以上的情况下获胜', /*challenge_condition*/1002, /*condition_value*/29001);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100301, /*description*/'在我方总生命值为100%以上的情况下获胜', /*challenge_condition*/1003, /*condition_value*/1000);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100302, /*description*/'在我方总生命值为90%以上的情况下获胜', /*challenge_condition*/1003, /*condition_value*/900);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100303, /*description*/'在我方总生命值为80%以上的情况下获胜', /*challenge_condition*/1003, /*condition_value*/800);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100304, /*description*/'在我方总生命值为70%以上的情况下获胜', /*challenge_condition*/1003, /*condition_value*/700);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100305, /*description*/'在我方总生命值为60%以上的情况下获胜', /*challenge_condition*/1003, /*condition_value*/600);
+INSERT INTO `dome_quest_challenge_data` VALUES (/*challenge_id*/100306, /*description*/'在我方总生命值为50%以上的情况下获胜', /*challenge_condition*/1003, /*condition_value*/500);

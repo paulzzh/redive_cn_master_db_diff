@@ -41,3 +41,12 @@ INSERT INTO `mission_category_icon` VALUES (/*id*/602, /*icon_name*/'green', /*c
 INSERT INTO `mission_category_icon` VALUES (/*id*/603, /*icon_name*/'green', /*color*/'#339910');
 INSERT INTO `mission_category_icon` VALUES (/*id*/1000, /*icon_name*/'darkgreen', /*color*/'#0F8B5E');
 INSERT INTO `mission_category_icon` VALUES (/*id*/1001, /*icon_name*/'orange', /*color*/'#E5681E');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1002, /*icon_name*/'green', /*color*/'#339910');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1003, /*icon_name*/'pink', /*color*/'#E24E7F');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1004, /*icon_name*/'lightblue', /*color*/'#3290D4');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1005, /*icon_name*/'yellow', /*color*/'#C09825');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1006, /*icon_name*/'yellow', /*color*/'#C09825');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1007, /*icon_name*/'yellow', /*color*/'#C09825');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1008, /*icon_name*/'yellow', /*color*/'#C09825');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1009, /*icon_name*/'yellow', /*color*/'#C09825');
+INSERT INTO `mission_category_icon` VALUES (/*id*/1010, /*icon_name*/'yellow', /*color*/'#C09825');

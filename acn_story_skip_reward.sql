@@ -1,0 +1,11 @@
+CREATE TABLE 'acn_story_skip_reward' ('id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_count' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/1, /*reward_type*/2, /*reward_id*/25011, /*reward_count*/9000);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/2, /*reward_type*/2, /*reward_id*/25012, /*reward_count*/9000);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/3, /*reward_type*/2, /*reward_id*/25013, /*reward_count*/9000);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/4, /*reward_type*/2, /*reward_id*/25014, /*reward_count*/9000);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/5, /*reward_type*/2, /*reward_id*/25015, /*reward_count*/9000);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/6, /*reward_type*/2, /*reward_id*/25021, /*reward_count*/7000);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/7, /*reward_type*/2, /*reward_id*/21953, /*reward_count*/2);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/8, /*reward_type*/4, /*reward_id*/140001, /*reward_count*/100);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/9, /*reward_type*/18, /*reward_id*/4104402, /*reward_count*/1);
+INSERT INTO `acn_story_skip_reward` VALUES (/*id*/10, /*reward_type*/8, /*reward_id*/91002, /*reward_count*/1000);

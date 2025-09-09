@@ -16,6 +16,7 @@ INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1158203, /*sp_skill_id*/
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1164001, /*sp_skill_id*/1164101, /*base_skill_id*/1164001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1182001, /*sp_skill_id*/1182101, /*base_skill_id*/1182001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1185001, /*sp_skill_id*/1185101, /*base_skill_id*/1185001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1186001, /*sp_skill_id*/1186101, /*base_skill_id*/1186001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1208002, /*sp_skill_id*/1208101, /*base_skill_id*/1208001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1208012, /*sp_skill_id*/1208111, /*base_skill_id*/1208001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1220001, /*sp_skill_id*/1220101, /*base_skill_id*/1220001, /*skill_category*/2);
@@ -35,4 +36,16 @@ INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1264001, /*sp_skill_id*/
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1264002, /*sp_skill_id*/1264101, /*base_skill_id*/1264001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1264003, /*sp_skill_id*/1264102, /*base_skill_id*/1264001, /*skill_category*/2);
 INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1265001, /*sp_skill_id*/1265101, /*base_skill_id*/1265001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1290001, /*sp_skill_id*/1290101, /*base_skill_id*/1290001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1293001, /*sp_skill_id*/1293101, /*base_skill_id*/1293001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1294001, /*sp_skill_id*/1294101, /*base_skill_id*/1294001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1296001, /*sp_skill_id*/1296101, /*base_skill_id*/1296001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1297001, /*sp_skill_id*/1297101, /*base_skill_id*/1297001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1312001, /*sp_skill_id*/1312101, /*base_skill_id*/1312001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1318001, /*sp_skill_id*/1318101, /*base_skill_id*/1318001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1321001, /*sp_skill_id*/1321100, /*base_skill_id*/1321001, /*skill_category*/1);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1321002, /*sp_skill_id*/1321101, /*base_skill_id*/1321001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1321003, /*sp_skill_id*/1321102, /*base_skill_id*/1321001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/1812001, /*sp_skill_id*/1812101, /*base_skill_id*/1812001, /*skill_category*/2);
+INSERT INTO `define_spskill` VALUES (/*link_skill_slot*/4319012, /*sp_skill_id*/4319101, /*base_skill_id*/4319012, /*skill_category*/2);
 CREATE INDEX 'define_spskill_0_sp_skill_id' on 'define_spskill'('sp_skill_id');

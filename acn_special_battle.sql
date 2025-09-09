@@ -1,0 +1,4 @@
+CREATE TABLE 'acn_special_battle' ('quest_id' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'purpose_type' INTEGER NOT NULL, 'purpose_count' INTEGER NOT NULL, 'trigger_hp' INTEGER NOT NULL, 'wave_group_id' INTEGER NOT NULL, 'unnecessary_defeat_chara' INTEGER NOT NULL, 'action_start_second' REAL NOT NULL, PRIMARY KEY('quest_id','mode'));
+INSERT INTO `acn_special_battle` VALUES (/*quest_id*/1004, /*mode*/1, /*purpose_type*/4, /*purpose_count*/200, /*trigger_hp*/0, /*wave_group_id*/804100401, /*unnecessary_defeat_chara*/0, /*action_start_second*/5.0);
+INSERT INTO `acn_special_battle` VALUES (/*quest_id*/1004, /*mode*/2, /*purpose_type*/1, /*purpose_count*/0, /*trigger_hp*/0, /*wave_group_id*/804100402, /*unnecessary_defeat_chara*/0, /*action_start_second*/5.0);
+CREATE UNIQUE INDEX 'acn_special_battle_0_quest_id_1_mode' on 'acn_special_battle'('quest_id','mode');

@@ -44,4 +44,9 @@ INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floo
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floor_num*/8, /*enemy_name*/'双足飞龙');
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floor_num*/9, /*enemy_name*/'三战士图腾');
 INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32009, /*floor_num*/10, /*enemy_name*/'究极守护者');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32010, /*floor_num*/6, /*enemy_name*/'长耳猴首领');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32010, /*floor_num*/7, /*enemy_name*/'专家哥布林');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32010, /*floor_num*/8, /*enemy_name*/'冰霜魔狼');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32010, /*floor_num*/9, /*enemy_name*/'天空女武神');
+INSERT INTO `secret_dungeon_enemy_info` VALUES (/*dungeon_area_id*/32010, /*floor_num*/10, /*enemy_name*/'领主哥布林');
 CREATE UNIQUE INDEX 'secret_dungeon_enemy_info_0_dungeon_area_id_1_floor_num' on 'secret_dungeon_enemy_info'('dungeon_area_id','floor_num');

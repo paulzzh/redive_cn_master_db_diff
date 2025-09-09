@@ -1,3 +1,3 @@
-a/font_df-hanzipen-w5.unity3d,f4ad9186bee1d62a8dade875015baba1,common,5499334,
-a/font_dfgtera3.unity3d,7159d30a080b8525ea10fafcdf42992c,common,5499651,
-a/font_fot-udmarugo_largepro-b.unity3d,c76aca4ff9a15fd6819f4dffc7ed7a84,common,2511248,
+a/font_df-hanzipen-w5.unity3d,ec3b93e62b1ad26673c96bea6288d8f3,7b3fa572317b48a3,common,5499313,
+a/font_dfgtera3.unity3d,97996aa608b591b10b8028a9ee7a434c,aba04907ff8359ea,common,5499663,
+a/font_fot-udmarugo_largepro-b.unity3d,9a965fabb716744f91d516ac34e356b0,f330a469557bfae3,common,2511225,

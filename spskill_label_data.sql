@@ -7,6 +7,7 @@ INSERT INTO `spskill_label_data` VALUES (/*unit_id*/115801, /*normal_label_text*
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/116401, /*normal_label_text*/'通常时', /*sp_label_text*/'特殊技能');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/118201, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/118501, /*normal_label_text*/'通常时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/118601, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/120801, /*normal_label_text*/'平时', /*sp_label_text*/'初次发动时');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/122001, /*normal_label_text*/'通常时', /*sp_label_text*/'特殊技能');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/122301, /*normal_label_text*/'平时', /*sp_label_text*/'共斗中');
@@ -19,3 +20,12 @@ INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126101, /*normal_label_text*
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126201, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126401, /*normal_label_text*/'平时', /*sp_label_text*/'【完全充能】中');
 INSERT INTO `spskill_label_data` VALUES (/*unit_id*/126501, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/129001, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/129301, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/129401, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/129601, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/129701, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/131201, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/131801, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/132101, /*normal_label_text*/'平时', /*sp_label_text*/'鬼化中');
+INSERT INTO `spskill_label_data` VALUES (/*unit_id*/181201, /*normal_label_text*/'平时', /*sp_label_text*/'特殊技能');

@@ -47,3 +47,7 @@ INSERT INTO `ailment_data` VALUES (/*ailment_id*/45, /*ailment_action*/99, /*ail
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/46, /*ailment_action*/49, /*ailment_detail_1*/20, /*ailment_name*/'消除增益（指定）');
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/47, /*ailment_action*/101, /*ailment_detail_1*/5, /*ailment_name*/'殴打印记（攻击命中）');
 INSERT INTO `ailment_data` VALUES (/*ailment_id*/48, /*ailment_action*/79, /*ailment_detail_1*/10, /*ailment_name*/'行动时雷霆圣界伤害');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/49, /*ailment_action*/112, /*ailment_detail_1*/9, /*ailment_name*/'延长异常状态时间');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/50, /*ailment_action*/116, /*ailment_detail_1*/1, /*ailment_name*/'执着状态');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/51, /*ailment_action*/117, /*ailment_detail_1*/15, /*ailment_name*/'阿拉克涅拘束');
+INSERT INTO `ailment_data` VALUES (/*ailment_id*/52, /*ailment_action*/11, /*ailment_detail_1*/3, /*ailment_name*/'提线');

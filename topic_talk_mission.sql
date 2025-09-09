@@ -1,0 +1,3 @@
+CREATE TABLE 'topic_talk_mission' ('topic_mission_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_type' INTEGER NOT NULL, 'condition_num' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_num_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_num_2' INTEGER NOT NULL, PRIMARY KEY('topic_mission_id'));
+CREATE INDEX 'topic_talk_mission_0_original_event_id' on 'topic_talk_mission'('original_event_id');
+CREATE INDEX 'topic_talk_mission_0_original_event_id_1_mission_type' on 'topic_talk_mission'('original_event_id','mission_type');

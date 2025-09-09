@@ -25,5 +25,8 @@ INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126710, /*arcade_id*/1012, 
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126711, /*arcade_id*/1012, /*sub_title*/'笑死，效果太惊人了');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126712, /*arcade_id*/1012, /*sub_title*/'喜爱成就熟练？');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/5126713, /*arcade_id*/1012, /*sub_title*/'解答不出的奇妙现象');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5142700, /*arcade_id*/1013, /*sub_title*/'朝着更高的目标努力');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5142701, /*arcade_id*/1013, /*sub_title*/'挑战极限');
+INSERT INTO `arcade_story_list` VALUES (/*story_id*/5142702, /*arcade_id*/1013, /*sub_title*/'美好的友情');
 INSERT INTO `arcade_story_list` VALUES (/*story_id*/9004201, /*arcade_id*/1009, /*sub_title*/'以正确答案为目标团结一致！');
 CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');

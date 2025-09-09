@@ -21,3 +21,5 @@ INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40001, /*group_name*/'大�
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40002, /*group_name*/'罗森联动纪念');
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40003, /*group_name*/'百利达联动纪念');
 INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40004, /*group_name*/'2024年情人节纪念');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40005, /*group_name*/'银DAKOHighball酒馆联动纪念');
+INSERT INTO `custom_mypage_group` VALUES (/*group_id*/40006, /*group_name*/'炼狱的反抗');

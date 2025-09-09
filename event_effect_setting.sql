@@ -183,4 +183,12 @@ INSERT INTO `event_effect_setting` VALUES (/*event_id*/10135, /*type*/2, /*value
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10135, /*type*/3, /*value*/91201);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/20049, /*type*/4, /*value*/80002);
 INSERT INTO `event_effect_setting` VALUES (/*event_id*/10138, /*type*/4, /*value*/80002);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10141, /*type*/4, /*value*/10074);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10145, /*type*/1, /*value*/90004);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10145, /*type*/2, /*value*/90004);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10145, /*type*/3, /*value*/90004);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/20052, /*type*/4, /*value*/10072);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10152, /*type*/1, /*value*/10152);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10152, /*type*/2, /*value*/10152);
+INSERT INTO `event_effect_setting` VALUES (/*event_id*/10152, /*type*/3, /*value*/10152);
 CREATE UNIQUE INDEX 'event_effect_setting_0_event_id_1_type' on 'event_effect_setting'('event_id','type');

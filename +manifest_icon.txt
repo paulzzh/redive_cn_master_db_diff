@@ -6335,7 +6335,7 @@ a/icon_teaser_27009.unity3d,2baf1466d1a8f99ba7373625685fa708,9aee89d6c2a0520b,tu
 a/icon_teaser_27010.unity3d,f976c7384b08baee6cc9d013b49a401e,20bb136fc71888a0,tutorial1,153037,
 a/icon_teaser_27011.unity3d,6d7dd4db96b824ff106447c59e41a86a,1c8907afcbf2886b,tutorial1,156871,
 a/icon_teaser_27012.unity3d,35c49dbdf592dd965ae369cda2488ae2,043b65c7bd2864df,tutorial1,152860,
-a/icon_teaser_27013.unity3d,0c01fc551984bddfdcf2b4f7b26bb007,0d3e0797732f05bf,tutorial1,166950,
+a/icon_teaser_27013.unity3d,830e77cfa7bdd58fd33e3caeef1f89f1,1626b42b75efa9db,tutorial1,155817,
 a/icon_teaser_27014.unity3d,56460770da7d1923e2f066a9e5de9ab4,0ea98f29bc138a54,tutorial1,162550,
 a/icon_teaser_27015.unity3d,deff63dbaa84e135d301afa040c65f07,30e79b57ffc1fc0d,tutorial1,164762,
 a/icon_teaser_980001.unity3d,e599363eeb1330f6ac437dfa0a9dfc93,0651a2f4db30bd48,tutorial1,141392,

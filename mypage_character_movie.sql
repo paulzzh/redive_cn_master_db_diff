@@ -24,7 +24,7 @@ INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/106431, /*seek_time*/2.0
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/106531, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/106631, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/106731, /*seek_time*/2.0);
-INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/106831, /*seek_time*/2.6);
+INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/106831, /*seek_time*/2.7);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/107031, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/107131, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/107531, /*seek_time*/0.0);
@@ -67,7 +67,7 @@ INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/112731, /*seek_time*/2.0
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/112831, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/112931, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/113131, /*seek_time*/2.0);
-INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/113331, /*seek_time*/2.0);
+INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/113331, /*seek_time*/2.1);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/113431, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/113631, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/113731, /*seek_time*/2.0);
@@ -108,8 +108,8 @@ INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/119931, /*seek_time*/2.0
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/120031, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/120731, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/120931, /*seek_time*/2.0);
-INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/121031, /*seek_time*/3.5);
-INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/121131, /*seek_time*/3.5);
+INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/121031, /*seek_time*/3.6);
+INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/121131, /*seek_time*/3.6);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/121331, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/121431, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/121531, /*seek_time*/2.0);
@@ -134,7 +134,7 @@ INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/124031, /*seek_time*/2.0
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/124231, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/124531, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/124631, /*seek_time*/2.0);
-INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/124831, /*seek_time*/2.0);
+INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/124831, /*seek_time*/2.1);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125031, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125131, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125231, /*seek_time*/2.0);
@@ -142,7 +142,7 @@ INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125331, /*seek_time*/2.0
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125431, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125531, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125631, /*seek_time*/2.0);
-INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125831, /*seek_time*/2.0);
+INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/125831, /*seek_time*/2.1);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/126031, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/126131, /*seek_time*/2.0);
 INSERT INTO `mypage_character_movie` VALUES (/*skin_id*/126231, /*seek_time*/2.0);

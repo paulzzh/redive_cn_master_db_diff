@@ -28,8 +28,8 @@ INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001026, /*condit
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001027, /*condition_quest_id*/81001026, /*condition_talent_skill_page*/0, /*release_quest_id*/81001028);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001028, /*condition_quest_id*/81001027, /*condition_talent_skill_page*/0, /*release_quest_id*/81001029);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001029, /*condition_quest_id*/81001028, /*condition_talent_skill_page*/0, /*release_quest_id*/81001030);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001030, /*condition_quest_id*/81001029, /*condition_talent_skill_page*/0, /*release_quest_id*/81001031);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001031, /*condition_quest_id*/81001030, /*condition_talent_skill_page*/0, /*release_quest_id*/81001032);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001030, /*condition_quest_id*/81001029, /*condition_talent_skill_page*/0, /*release_quest_id*/0);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001031, /*condition_quest_id*/0, /*condition_talent_skill_page*/0, /*release_quest_id*/81001032);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001032, /*condition_quest_id*/81001031, /*condition_talent_skill_page*/0, /*release_quest_id*/81001033);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001033, /*condition_quest_id*/81001032, /*condition_talent_skill_page*/0, /*release_quest_id*/81001034);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/81001034, /*condition_quest_id*/81001033, /*condition_talent_skill_page*/0, /*release_quest_id*/81001035);
@@ -78,8 +78,8 @@ INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001026, /*condit
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001027, /*condition_quest_id*/82001026, /*condition_talent_skill_page*/0, /*release_quest_id*/82001028);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001028, /*condition_quest_id*/82001027, /*condition_talent_skill_page*/0, /*release_quest_id*/82001029);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001029, /*condition_quest_id*/82001028, /*condition_talent_skill_page*/0, /*release_quest_id*/82001030);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001030, /*condition_quest_id*/82001029, /*condition_talent_skill_page*/0, /*release_quest_id*/82001031);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001031, /*condition_quest_id*/82001030, /*condition_talent_skill_page*/0, /*release_quest_id*/82001032);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001030, /*condition_quest_id*/82001029, /*condition_talent_skill_page*/0, /*release_quest_id*/0);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001031, /*condition_quest_id*/0, /*condition_talent_skill_page*/0, /*release_quest_id*/82001032);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001032, /*condition_quest_id*/82001031, /*condition_talent_skill_page*/0, /*release_quest_id*/82001033);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001033, /*condition_quest_id*/82001032, /*condition_talent_skill_page*/0, /*release_quest_id*/82001034);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/82001034, /*condition_quest_id*/82001033, /*condition_talent_skill_page*/0, /*release_quest_id*/82001035);
@@ -128,8 +128,8 @@ INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001026, /*condit
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001027, /*condition_quest_id*/83001026, /*condition_talent_skill_page*/0, /*release_quest_id*/83001028);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001028, /*condition_quest_id*/83001027, /*condition_talent_skill_page*/0, /*release_quest_id*/83001029);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001029, /*condition_quest_id*/83001028, /*condition_talent_skill_page*/0, /*release_quest_id*/83001030);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001030, /*condition_quest_id*/83001029, /*condition_talent_skill_page*/0, /*release_quest_id*/83001031);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001031, /*condition_quest_id*/83001030, /*condition_talent_skill_page*/0, /*release_quest_id*/83001032);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001030, /*condition_quest_id*/83001029, /*condition_talent_skill_page*/0, /*release_quest_id*/0);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001031, /*condition_quest_id*/0, /*condition_talent_skill_page*/0, /*release_quest_id*/83001032);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001032, /*condition_quest_id*/83001031, /*condition_talent_skill_page*/0, /*release_quest_id*/83001033);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001033, /*condition_quest_id*/83001032, /*condition_talent_skill_page*/0, /*release_quest_id*/83001034);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/83001034, /*condition_quest_id*/83001033, /*condition_talent_skill_page*/0, /*release_quest_id*/83001035);
@@ -178,8 +178,8 @@ INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001026, /*condit
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001027, /*condition_quest_id*/84001026, /*condition_talent_skill_page*/0, /*release_quest_id*/84001028);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001028, /*condition_quest_id*/84001027, /*condition_talent_skill_page*/0, /*release_quest_id*/84001029);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001029, /*condition_quest_id*/84001028, /*condition_talent_skill_page*/0, /*release_quest_id*/84001030);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001030, /*condition_quest_id*/84001029, /*condition_talent_skill_page*/0, /*release_quest_id*/84001031);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001031, /*condition_quest_id*/84001030, /*condition_talent_skill_page*/0, /*release_quest_id*/84001032);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001030, /*condition_quest_id*/84001029, /*condition_talent_skill_page*/0, /*release_quest_id*/0);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001031, /*condition_quest_id*/0, /*condition_talent_skill_page*/0, /*release_quest_id*/84001032);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001032, /*condition_quest_id*/84001031, /*condition_talent_skill_page*/0, /*release_quest_id*/84001033);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001033, /*condition_quest_id*/84001032, /*condition_talent_skill_page*/0, /*release_quest_id*/84001034);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/84001034, /*condition_quest_id*/84001033, /*condition_talent_skill_page*/0, /*release_quest_id*/84001035);
@@ -228,8 +228,8 @@ INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001026, /*condit
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001027, /*condition_quest_id*/85001026, /*condition_talent_skill_page*/0, /*release_quest_id*/85001028);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001028, /*condition_quest_id*/85001027, /*condition_talent_skill_page*/0, /*release_quest_id*/85001029);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001029, /*condition_quest_id*/85001028, /*condition_talent_skill_page*/0, /*release_quest_id*/85001030);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001030, /*condition_quest_id*/85001029, /*condition_talent_skill_page*/0, /*release_quest_id*/85001031);
-INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001031, /*condition_quest_id*/85001030, /*condition_talent_skill_page*/0, /*release_quest_id*/85001032);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001030, /*condition_quest_id*/85001029, /*condition_talent_skill_page*/0, /*release_quest_id*/0);
+INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001031, /*condition_quest_id*/0, /*condition_talent_skill_page*/0, /*release_quest_id*/85001032);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001032, /*condition_quest_id*/85001031, /*condition_talent_skill_page*/0, /*release_quest_id*/85001033);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001033, /*condition_quest_id*/85001032, /*condition_talent_skill_page*/0, /*release_quest_id*/85001034);
 INSERT INTO `talent_quest_condition_data` VALUES (/*quest_id*/85001034, /*condition_quest_id*/85001033, /*condition_talent_skill_page*/0, /*release_quest_id*/85001035);

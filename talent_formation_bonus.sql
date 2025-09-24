@@ -1,0 +1,6 @@
+CREATE TABLE 'talent_formation_bonus' ('formation_bonus_id' INTEGER NOT NULL, 'talent_bonus_1' INTEGER NOT NULL, 'talent_bonus_2' INTEGER NOT NULL, 'talent_bonus_3' INTEGER NOT NULL, 'talent_bonus_4' INTEGER NOT NULL, 'talent_bonus_5' INTEGER NOT NULL, PRIMARY KEY('formation_bonus_id'));
+INSERT INTO `talent_formation_bonus` VALUES (/*formation_bonus_id*/1, /*talent_bonus_1*/0, /*talent_bonus_2*/500, /*talent_bonus_3*/1000, /*talent_bonus_4*/2500, /*talent_bonus_5*/5000);
+INSERT INTO `talent_formation_bonus` VALUES (/*formation_bonus_id*/8000, /*talent_bonus_1*/0, /*talent_bonus_2*/0, /*talent_bonus_3*/0, /*talent_bonus_4*/0, /*talent_bonus_5*/0);
+INSERT INTO `talent_formation_bonus` VALUES (/*formation_bonus_id*/8010, /*talent_bonus_1*/0, /*talent_bonus_2*/500, /*talent_bonus_3*/1000, /*talent_bonus_4*/10000, /*talent_bonus_5*/30000);
+INSERT INTO `talent_formation_bonus` VALUES (/*formation_bonus_id*/8020, /*talent_bonus_1*/0, /*talent_bonus_2*/500, /*talent_bonus_3*/1000, /*talent_bonus_4*/10000, /*talent_bonus_5*/40000);
+INSERT INTO `talent_formation_bonus` VALUES (/*formation_bonus_id*/8030, /*talent_bonus_1*/0, /*talent_bonus_2*/500, /*talent_bonus_3*/1000, /*talent_bonus_4*/10000, /*talent_bonus_5*/20000);

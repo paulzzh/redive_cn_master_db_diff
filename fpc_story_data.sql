@@ -1,0 +1,2 @@
+CREATE TABLE 'fpc_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'fpc_voice_type' INTEGER NOT NULL, 'drama_id' INTEGER NOT NULL, 'period' INTEGER NOT NULL, 'unit_id_1' INTEGER NOT NULL, 'unknown_10054710_2' INTEGER NOT NULL, 'unknown_10054710_3' INTEGER NOT NULL, 'unknown_10054710_4' INTEGER NOT NULL, 'unknown_10054710_8' INTEGER NOT NULL, 'unknown_10054710_11' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE INDEX 'fpc_story_data_0_original_event_id' on 'fpc_story_data'('original_event_id');

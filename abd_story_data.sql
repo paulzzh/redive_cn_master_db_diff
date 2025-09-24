@@ -1,0 +1,2 @@
+CREATE TABLE 'abd_story_data' ('sub_story_id' INTEGER NOT NULL, 'original_event_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'unlock_condition_sub_story_id' INTEGER NOT NULL, 'condition_time' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, PRIMARY KEY('sub_story_id'));
+CREATE INDEX 'abd_story_data_0_original_event_id' on 'abd_story_data'('original_event_id');

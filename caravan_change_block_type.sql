@@ -1,0 +1,1 @@
+CREATE TABLE 'caravan_change_block_type' ('change_block_type_id' INTEGER NOT NULL, 'block_type_from' INTEGER NOT NULL, 'block_type_to' INTEGER NOT NULL, 'reference_id_to' INTEGER NOT NULL, PRIMARY KEY('change_block_type_id'));

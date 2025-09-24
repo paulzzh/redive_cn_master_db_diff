@@ -28,3 +28,4 @@ INSERT INTO `room_effect` VALUES (/*id*/26, /*reward_get*/0, /*jukebox*/0, /*neb
 INSERT INTO `room_effect` VALUES (/*id*/27, /*reward_get*/0, /*jukebox*/0, /*nebbia*/0, /*arcade*/0, /*vegetable*/0, /*poster*/10102, /*stock*/0);
 INSERT INTO `room_effect` VALUES (/*id*/28, /*reward_get*/28, /*jukebox*/0, /*nebbia*/0, /*arcade*/0, /*vegetable*/0, /*poster*/0, /*stock*/0);
 INSERT INTO `room_effect` VALUES (/*id*/29, /*reward_get*/0, /*jukebox*/0, /*nebbia*/0, /*arcade*/0, /*vegetable*/0, /*poster*/30001, /*stock*/0);
+INSERT INTO `room_effect` VALUES (/*id*/30, /*reward_get*/30, /*jukebox*/0, /*nebbia*/0, /*arcade*/0, /*vegetable*/0, /*poster*/0, /*stock*/0);

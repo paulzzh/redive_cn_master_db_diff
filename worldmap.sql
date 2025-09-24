@@ -4,5 +4,5 @@ INSERT INTO `worldmap` VALUES (/*course_id*/2, /*name*/'地下城地图', /*map_
 INSERT INTO `worldmap` VALUES (/*course_id*/3, /*name*/'活动地图', /*map_id*/1, /*map_type*/0, /*sheet_id*/'', /*que_id*/'', /*start_area_id*/7001, /*end_area_id*/7008, /*view_mode*/0, /*tutorial_adv_id*/0);
 INSERT INTO `worldmap` VALUES (/*course_id*/4, /*name*/'厄尔庇斯岛', /*map_id*/2, /*map_type*/102, /*sheet_id*/'bgm_M179', /*que_id*/'bgm_M179_00', /*start_area_id*/11018, /*end_area_id*/11062, /*view_mode*/0, /*tutorial_adv_id*/0);
 INSERT INTO `worldmap` VALUES (/*course_id*/5, /*name*/'吉奥·\n特尔哥尼亚', /*map_id*/3, /*map_type*/103, /*sheet_id*/'bgm_MC001', /*que_id*/'bgm_MC001', /*start_area_id*/11063, /*end_area_id*/11066, /*view_mode*/1, /*tutorial_adv_id*/322);
-INSERT INTO `worldmap` VALUES (/*course_id*/6, /*name*/'吉奥·\n矶汉拿', /*map_id*/4, /*map_type*/104, /*sheet_id*/'bgm_MC079', /*que_id*/'bgm_MC079', /*start_area_id*/11067, /*end_area_id*/11068, /*view_mode*/1, /*tutorial_adv_id*/324);
+INSERT INTO `worldmap` VALUES (/*course_id*/6, /*name*/'吉奥·\n矶汉拿', /*map_id*/4, /*map_type*/104, /*sheet_id*/'bgm_MC079', /*que_id*/'bgm_MC079', /*start_area_id*/11067, /*end_area_id*/11071, /*view_mode*/1, /*tutorial_adv_id*/324);
 CREATE INDEX 'worldmap_0_map_type' on 'worldmap'('map_type');

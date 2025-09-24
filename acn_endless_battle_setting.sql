@@ -1,0 +1,3 @@
+CREATE TABLE 'acn_endless_battle_setting' ('quest_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'boss_ticket_num' INTEGER NOT NULL, 'reward_gold_num' INTEGER NOT NULL, 'stamina' INTEGER NOT NULL, 'unknown_10057600_7' INTEGER NOT NULL, 'unknown_10058600_1' INTEGER NOT NULL, 'unknown_10058600_2' INTEGER NOT NULL, PRIMARY KEY('quest_id','difficulty'));
+INSERT INTO `acn_endless_battle_setting` VALUES (/*quest_id*/1001, /*difficulty*/1, /*boss_ticket_num*/10, /*reward_gold_num*/1000, /*stamina*/10, /*unknown_10057600_7*/215, /*unknown_10058600_1*/10, /*unknown_10058600_2*/10);
+CREATE UNIQUE INDEX 'acn_endless_battle_setting_0_quest_id_1_difficulty' on 'acn_endless_battle_setting'('quest_id','difficulty');

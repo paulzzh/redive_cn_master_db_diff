@@ -1,2 +1,12 @@
 CREATE TABLE 'environment_skill_detail' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'icon_type' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `environment_skill_detail` VALUES (/*id*/137, /*name*/'雷霆圣界', /*description*/'小幅提升魔法攻击的伤害，每当使用物理攻击的角色行动时，会根据该角色的最大生命值造成最大99999的比例伤害。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/146, /*name*/'百花缭乱', /*description*/'每经过一段时间，中幅回复敌方和我方全体的技能值。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/147, /*name*/'炎天烈日', /*description*/'每经过一段时间，根据敌方和我方全体的最大生命值，造成最多20万的比例伤害。此外，提升已赋予的持续伤害效果。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/148, /*name*/'秋高马肥', /*description*/'每经过一段时间，提升敌方和我方全体的物理攻击力、魔法攻击力、物理防御力和魔法防御力。此效果的提升量会随着敌我单位总数量的增加而增强。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/149, /*name*/'寒气凛冽', /*description*/'小幅降低敌方和我方全体的行动速度。此技能效果在其他行动速度变化技能使用期间仍然生效。此外，每经过一段时间，对行动速度低于初始值的角色赋予冻结状态。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/162, /*name*/'防魔尘', /*description*/'小幅降低魔法攻击的伤害。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/164, /*name*/'雷云', /*description*/'每经过一段时间，根据最大生命值，对敌方全体造成魔法比例伤害。此外，若角色的生命值不满50%，将赋予其麻痹状态。该效果造成的伤害不会回复技能值。在伤害免疫的情况下，该效果的异常状态也会生效。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/169, /*name*/'暴风', /*description*/'每经过一段时间，击退敌方全体。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/170, /*name*/'暴雨', /*description*/'每经过一段时间，小幅降低敌方全体的行动速度，直至战斗结束。此外，小幅降低物理攻击力和魔法攻击力，直至战斗结束。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/175, /*name*/'绝冰', /*description*/'小幅提升物理攻击暴击时造成的伤害。', /*icon_type*/2017);
+INSERT INTO `environment_skill_detail` VALUES (/*id*/186, /*name*/'雷云', /*description*/'每经过一段时间，根据最大生命值，对敌方全体造成魔法比例伤害。该效果造成的伤害不会回复技能值。', /*icon_type*/2017);

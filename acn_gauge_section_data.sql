@@ -1,0 +1,12 @@
+CREATE TABLE 'acn_gauge_section_data' ('gauge_mission_id' INTEGER NOT NULL, 'section' INTEGER NOT NULL, 'duration' INTEGER NOT NULL, 'rate_duration' INTEGER NOT NULL, 'superior_trigger_type' INTEGER NOT NULL, 'inferior_trigger_type' INTEGER NOT NULL, PRIMARY KEY('gauge_mission_id','section'));
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000103, /*section*/1, /*duration*/23040, /*rate_duration*/0, /*superior_trigger_type*/0, /*inferior_trigger_type*/0);
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000103, /*section*/2, /*duration*/46080, /*rate_duration*/0, /*superior_trigger_type*/14, /*inferior_trigger_type*/15);
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000103, /*section*/3, /*duration*/46080, /*rate_duration*/0, /*superior_trigger_type*/16, /*inferior_trigger_type*/17);
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000106, /*section*/1, /*duration*/14400, /*rate_duration*/0, /*superior_trigger_type*/0, /*inferior_trigger_type*/0);
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000106, /*section*/2, /*duration*/28800, /*rate_duration*/0, /*superior_trigger_type*/18, /*inferior_trigger_type*/19);
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000106, /*section*/3, /*duration*/28800, /*rate_duration*/0, /*superior_trigger_type*/20, /*inferior_trigger_type*/21);
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000109, /*section*/1, /*duration*/0, /*rate_duration*/20, /*superior_trigger_type*/0, /*inferior_trigger_type*/0);
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000109, /*section*/2, /*duration*/0, /*rate_duration*/40, /*superior_trigger_type*/22, /*inferior_trigger_type*/23);
+INSERT INTO `acn_gauge_section_data` VALUES (/*gauge_mission_id*/32000109, /*section*/3, /*duration*/0, /*rate_duration*/40, /*superior_trigger_type*/24, /*inferior_trigger_type*/25);
+CREATE UNIQUE INDEX 'acn_gauge_section_data_0_gauge_mission_id_1_section' on 'acn_gauge_section_data'('gauge_mission_id','section');
+CREATE INDEX 'acn_gauge_section_data_0_gauge_mission_id' on 'acn_gauge_section_data'('gauge_mission_id');

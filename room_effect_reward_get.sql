@@ -129,4 +129,13 @@ INSERT INTO `room_effect_reward_get` VALUES (/*id*/1, /*level*/30, /*reward_type
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/30, /*reward_type*/6, /*reward_id*/93001, /*max_count*/328, /*inc_step*/82, /*interval_second*/21600, /*stock_min_step*/'', /*stock_mid_step*/'');
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/30, /*reward_type*/2, /*reward_id*/20004, /*max_count*/20, /*inc_step*/1, /*interval_second*/4440, /*stock_min_step*/'', /*stock_mid_step*/'');
 INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/30, /*reward_type*/12, /*reward_id*/94002, /*max_count*/852000, /*inc_step*/213000, /*interval_second*/21600, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/1, /*level*/31, /*reward_type*/2, /*reward_id*/23001, /*max_count*/72, /*inc_step*/4, /*interval_second*/5040, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/1, /*level*/32, /*reward_type*/2, /*reward_id*/23001, /*max_count*/72, /*inc_step*/4, /*interval_second*/4920, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/31, /*reward_type*/6, /*reward_id*/93001, /*max_count*/336, /*inc_step*/84, /*interval_second*/21600, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/2, /*level*/32, /*reward_type*/6, /*reward_id*/93001, /*max_count*/340, /*inc_step*/85, /*interval_second*/21600, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/31, /*reward_type*/2, /*reward_id*/20004, /*max_count*/21, /*inc_step*/1, /*interval_second*/4260, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/3, /*level*/32, /*reward_type*/2, /*reward_id*/20004, /*max_count*/22, /*inc_step*/1, /*interval_second*/4080, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/31, /*reward_type*/12, /*reward_id*/94002, /*max_count*/894000, /*inc_step*/223500, /*interval_second*/21600, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/4, /*level*/32, /*reward_type*/12, /*reward_id*/94002, /*max_count*/920000, /*inc_step*/230000, /*interval_second*/21600, /*stock_min_step*/'', /*stock_mid_step*/'');
+INSERT INTO `room_effect_reward_get` VALUES (/*id*/30, /*level*/1, /*reward_type*/6, /*reward_id*/93001, /*max_count*/48, /*inc_step*/12, /*interval_second*/21600, /*stock_min_step*/'', /*stock_mid_step*/'');
 CREATE UNIQUE INDEX 'room_effect_reward_get_0_id_1_level' on 'room_effect_reward_get'('id','level');

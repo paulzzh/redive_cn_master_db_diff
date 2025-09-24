@@ -2,4 +2,10 @@ CREATE TABLE 'caravan_rival_bonus' ('id' INTEGER NOT NULL, 'season_id' INTEGER N
 INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10001, /*season_id*/3, /*level*/2, /*bonus_label*/2, /*distance_from*/15, /*distance_to*/-1, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/8, /*label_text*/'');
 INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10002, /*season_id*/3, /*level*/1, /*bonus_label*/1, /*distance_from*/1, /*distance_to*/14, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/5, /*label_text*/'');
 INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10003, /*season_id*/3, /*level*/0, /*bonus_label*/0, /*distance_from*/0, /*distance_to*/0, /*reward_type*/23, /*reward_id*/52019, /*reward_count*/2, /*label_text*/'若菜的恩惠');
+INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10004, /*season_id*/4, /*level*/2, /*bonus_label*/2, /*distance_from*/15, /*distance_to*/-1, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/8, /*label_text*/'');
+INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10005, /*season_id*/4, /*level*/1, /*bonus_label*/1, /*distance_from*/1, /*distance_to*/14, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/5, /*label_text*/'');
+INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10006, /*season_id*/4, /*level*/0, /*bonus_label*/0, /*distance_from*/0, /*distance_to*/0, /*reward_type*/23, /*reward_id*/52019, /*reward_count*/2, /*label_text*/'若菜的恩惠');
+INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10007, /*season_id*/5, /*level*/2, /*bonus_label*/2, /*distance_from*/15, /*distance_to*/-1, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/8, /*label_text*/'');
+INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10008, /*season_id*/5, /*level*/1, /*bonus_label*/1, /*distance_from*/1, /*distance_to*/14, /*reward_type*/22, /*reward_id*/53003, /*reward_count*/5, /*label_text*/'');
+INSERT INTO `caravan_rival_bonus` VALUES (/*id*/10009, /*season_id*/5, /*level*/0, /*bonus_label*/0, /*distance_from*/0, /*distance_to*/0, /*reward_type*/23, /*reward_id*/52019, /*reward_count*/2, /*label_text*/'若菜的恩惠');
 CREATE INDEX 'caravan_rival_bonus_0_season_id' on 'caravan_rival_bonus'('season_id');

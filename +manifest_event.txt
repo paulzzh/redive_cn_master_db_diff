@@ -1264,7 +1264,7 @@ a/event_teaser_50291_c.unity3d,470ec3f84f46bbe113033daaf5db9e8a,dc210092a75e2abe
 a/event_teaser_50291_p.unity3d,54d085cbb585019cd016efab0a197949,16481cf083b120d7,common,474662,
 a/event_teaser_50291_s.unity3d,5ca8967d3201b8eaf76c79d45bc50a20,3f05dca3058256c9,common,484571,
 a/event_teaser_50298_c.unity3d,c85217cc89f1a02a1dca6e094b07c5ff,b34a9a4ee366ada4,common,486339,
-a/event_teaser_50298_p.unity3d,e4e80eb5b00135b05c91972a1bd64d2a,858b415a1a242ec4,common,484467,
+a/event_teaser_50298_p.unity3d,f27066ac822dfa7d33f42a88efb040de,5432bc5d260cec11,common,487244,
 a/event_teaser_50298_s.unity3d,8d230c34e4f5fac96392a85745f82653,9a6eb957a7f42d19,common,474289,
 a/event_teaser_50309_c.unity3d,e00d7a51ccbe6dd777fa296380376785,359ecfa86e2d4961,common,489506,
 a/event_teaser_50309_p.unity3d,74f67af5606bd576f40ce5be48fa1ef7,fce9209412805d02,common,519893,

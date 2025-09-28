@@ -31,7 +31,6 @@ INSERT INTO `caravan_buff_disp` VALUES (/*id*/29, /*type*/1, /*effect_id*/52020,
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/30, /*type*/1, /*effect_id*/52020, /*category*/1, /*icon_id*/1, /*description*/'【料理】下次移动时会多走1个格子', /*count_from*/2, /*count_to*/2);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/31, /*type*/1, /*effect_id*/52021, /*category*/1, /*icon_id*/10, /*description*/'【料理】移动时可以跳过宝藏格子', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/32, /*type*/1, /*effect_id*/52022, /*category*/1, /*icon_id*/1, /*description*/'【料理】骰子掷出“5”和“6”点数的\n概率提高至3倍', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/33, /*type*/1, /*effect_id*/52023, /*category*/1, /*icon_id*/1, /*description*/'【料理】第1次投掷骰子的结果必定是“6”，第2次必定是“3”', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/1001, /*type*/3, /*effect_id*/1, /*category*/1, /*icon_id*/99, /*description*/'最多获得ｎ里程', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/1002, /*type*/3, /*effect_id*/2, /*category*/1, /*icon_id*/99, /*description*/'可重掷1次骰子', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/1003, /*type*/3, /*effect_id*/3, /*category*/1, /*icon_id*/99, /*description*/'可重掷1次骰子_有效回合2', /*count_from*/0, /*count_to*/0);
@@ -43,12 +42,4 @@ INSERT INTO `caravan_buff_disp` VALUES (/*id*/11005, /*type*/3, /*effect_id*/100
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/11006, /*type*/3, /*effect_id*/1006, /*category*/1, /*icon_id*/104301, /*description*/'【同伴】同时掷点数为4的骰子 然后可从中选择一个', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/11007, /*type*/3, /*effect_id*/1007, /*category*/1, /*icon_id*/102701, /*description*/'【同伴】同时掷点数为3的骰子 然后可从中选择一个', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/11008, /*type*/3, /*effect_id*/1008, /*category*/1, /*icon_id*/100901, /*description*/'【同伴】在点数累计达到7以上之前都能继续掷骰子', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/11009, /*type*/3, /*effect_id*/1009, /*category*/1, /*icon_id*/105101, /*description*/'【同伴】打开最多50％折扣确定的\n商店\n（1件商品100％折扣）', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/11010, /*type*/3, /*effect_id*/1010, /*category*/1, /*icon_id*/101801, /*description*/'【同伴】最多获得1000里程', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/11011, /*type*/3, /*effect_id*/1011, /*category*/1, /*icon_id*/129701, /*description*/'【同伴】可以选择应用骰子的正面或反面', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/11012, /*type*/3, /*effect_id*/1012, /*category*/1, /*icon_id*/101601, /*description*/'【同伴】可重掷1次骰子', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/11013, /*type*/3, /*effect_id*/1013, /*category*/1, /*icon_id*/105601, /*description*/'【同伴】可重掷2次骰子', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/11014, /*type*/3, /*effect_id*/1014, /*category*/1, /*icon_id*/102001, /*description*/'【同伴】同时掷点数为3的骰子，然后可从中选择一个', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/11015, /*type*/3, /*effect_id*/1015, /*category*/1, /*icon_id*/129601, /*description*/'【同伴】在点数累计达到7以上之前都能继续掷骰子', /*count_from*/0, /*count_to*/0);
-INSERT INTO `caravan_buff_disp` VALUES (/*id*/11016, /*type*/3, /*effect_id*/1016, /*category*/1, /*icon_id*/100401, /*description*/'【同伴】如果掷出的骰子点数为奇数，可以让对手休息1回合', /*count_from*/0, /*count_to*/0);
 CREATE INDEX 'caravan_buff_disp_0_type_1_effect_id' on 'caravan_buff_disp'('type','effect_id');

@@ -6,6 +6,7 @@ INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10007, /*name*/'4周�
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10008, /*name*/'夏日庆典纪念 兰德索尔杯', /*start_time*/'2024/08/15 5:00:00', /*end_time*/'2024/09/01 4:59:59');
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10009, /*name*/'5周年纪念 兰德索尔杯', /*start_time*/'2025/04/17 5:00:00', /*end_time*/'2025/05/01 4:59:59');
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10010, /*name*/'夏日庆典纪念 兰德索尔杯', /*start_time*/'2025/06/14 5:00:00', /*end_time*/'2025/07/01 4:59:59');
+INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/10011, /*name*/'5.5周年纪念 特别登录奖励', /*start_time*/'2025/10/17 5:00:00', /*end_time*/'2025/11/01 4:59:59');
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/18001, /*name*/'第1.5届 兰德索尔杯', /*start_time*/'2021/02/11 5:00', /*end_time*/'2021/02/18 4:59');
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/18002, /*name*/'1周年纪念 兰德索尔杯', /*start_time*/'2021/04/18 5:00', /*end_time*/'2021/05/02 4:59');
 INSERT INTO `chara_fortune_schedule` VALUES (/*fortune_id*/18003, /*name*/'端午节 兰德索尔杯', /*start_time*/'2021/06/11 5:00', /*end_time*/'2021/06/21 4:59');

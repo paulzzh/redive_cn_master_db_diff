@@ -144,5 +144,6 @@ INSERT INTO `gift_message` VALUES (/*id*/88889, /*discription*/'购买玛那获�
 INSERT INTO `gift_message` VALUES (/*id*/88890, /*discription*/'活动「美食嘉年华」奖励道具', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/88891, /*discription*/'「美食嘉年华」额外经验兑换玛那', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/88892, /*discription*/'「美食嘉年华」奖励', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/88893, /*discription*/'购买「公主骑士助力礼包」后获得的道具。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99001, /*discription*/'特别凭证扭蛋角色交换Pt换取的道具', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/99999, /*discription*/'抽取扭蛋时获取的玛那。', /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

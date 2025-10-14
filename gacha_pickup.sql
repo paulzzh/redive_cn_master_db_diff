@@ -384,6 +384,8 @@ INSERT INTO `gacha_pickup` VALUES (/*id*/9016, /*priority*/1, /*reward_type*/1, 
 INSERT INTO `gacha_pickup` VALUES (/*id*/9016, /*priority*/2, /*reward_type*/1, /*reward_id*/128501, /*name*/'香澄（新年）');
 INSERT INTO `gacha_pickup` VALUES (/*id*/9017, /*priority*/1, /*reward_type*/1, /*reward_id*/129301, /*name*/'优妮（冬日）');
 INSERT INTO `gacha_pickup` VALUES (/*id*/9017, /*priority*/2, /*reward_type*/1, /*reward_id*/129401, /*name*/'克罗依（冬日）');
+INSERT INTO `gacha_pickup` VALUES (/*id*/9018, /*priority*/1, /*reward_type*/1, /*reward_id*/129801, /*name*/'真琴（教官）');
+INSERT INTO `gacha_pickup` VALUES (/*id*/9018, /*priority*/2, /*reward_type*/1, /*reward_id*/129901, /*name*/'惠理子（教官）');
 CREATE UNIQUE INDEX 'gacha_pickup_0_id_1_priority' on 'gacha_pickup'('id','priority');
 CREATE INDEX 'gacha_pickup_0_id' on 'gacha_pickup'('id');
 CREATE INDEX 'gacha_pickup_0_id_1_reward_id' on 'gacha_pickup'('id','reward_id');

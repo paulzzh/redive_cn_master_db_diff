@@ -296,7 +296,7 @@ a/minigame_nbb_obstacle_lr.unity3d,9d90e757f2770c25c5542fd301978625,686c6e4c7a81
 a/minigame_nbb_tree.unity3d,bd61274f1933a35ece340b2fdca4c6de,908f1772e33563b1,common,17838,
 a/minigame_nbb_white_2.unity3d,edac92b2e8375085341cd6a0e8c9a5d9,89f11452c39d0b12,common,2127,
 a/minigame_nbbblockplate.unity3d,4bc5f1a4a9c37b6f6cd6c01fdabe9377,ddb1977fda6a2d9e,common,3510,
-a/minigame_nbbdefinedata.unity3d,27c629c9477b82a93a8db4551f364b92,4991204afd0c746c,common,6037,
+a/minigame_nbbdefinedata.unity3d,07e2883aae8624138e781a0b43c9fcad,627b0f6334328035,common,6035,
 a/minigame_nbbeffectabsorb.unity3d,72410d55e73fc7be5d3b10202c7b97fc,96e05a0be87f9b15,common,70582,
 a/minigame_nbbeffectabsorb_screen.unity3d,52a17821e52d57d0c187752c5b96dc4a,ed4f0a5a6632d454,common,8807,
 a/minigame_nbbeffectblockhit.unity3d,b0b1ada0c1a40b5b5551f7e1709eac75,cc3407b53d28da66,common,28196,

@@ -21,3 +21,4 @@ INSERT INTO `caravan_dish_drawable` VALUES (/*dish_id*/52021);
 INSERT INTO `caravan_dish_drawable` VALUES (/*dish_id*/52022);
 INSERT INTO `caravan_dish_drawable` VALUES (/*dish_id*/52023);
 INSERT INTO `caravan_dish_drawable` VALUES (/*dish_id*/52024);
+INSERT INTO `caravan_dish_drawable` VALUES (/*dish_id*/52025);

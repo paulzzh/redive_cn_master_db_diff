@@ -1,5 +1,6 @@
 CREATE TABLE 'unique_equip_craft_enhance' ('equipment_id' INTEGER NOT NULL, 'consume_group_id' INTEGER NOT NULL, PRIMARY KEY('equipment_id'));
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130112, /*consume_group_id*/16);
+INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130132, /*consume_group_id*/19);
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130162, /*consume_group_id*/4);
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130332, /*consume_group_id*/9);
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130492, /*consume_group_id*/15);
@@ -18,4 +19,5 @@ INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130902, /*consu
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130912, /*consume_group_id*/15);
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130952, /*consume_group_id*/17);
 INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/130962, /*consume_group_id*/18);
+INSERT INTO `unique_equip_craft_enhance` VALUES (/*equipment_id*/131072, /*consume_group_id*/20);
 CREATE INDEX 'unique_equip_craft_enhance_0_consume_group_id' on 'unique_equip_craft_enhance'('consume_group_id');

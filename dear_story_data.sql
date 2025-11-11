@@ -28,4 +28,5 @@ INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6102, /*story_type*/6, /
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6104, /*story_type*/6, /*value*/10131, /*title*/'部落精神　高举之剑与荣耀之桥', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2024/10/31 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6114, /*story_type*/6, /*value*/10141, /*title*/'猫与粗点心咖啡厅　欢迎来到甜食党咖啡店', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/02/26 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6124, /*story_type*/6, /*value*/10124, /*title*/'战栗幽奇海岸　～夏日度假村惊悚怪谈～', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/05/30 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
+INSERT INTO `dear_story_data` VALUES (/*story_group_id*/6144, /*story_type*/6, /*value*/10144, /*title*/'花开时节的真挚情谊', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/11/14 11:00:00', /*end_time*/'2099/12/31/ 23:59:59');
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');

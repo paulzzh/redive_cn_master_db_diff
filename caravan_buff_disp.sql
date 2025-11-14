@@ -53,4 +53,12 @@ INSERT INTO `caravan_buff_disp` VALUES (/*id*/11013, /*type*/3, /*effect_id*/101
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/11014, /*type*/3, /*effect_id*/1014, /*category*/1, /*icon_id*/102001, /*description*/'【同伴】同时掷点数为3的骰子，然后可从中选择一个', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/11015, /*type*/3, /*effect_id*/1015, /*category*/1, /*icon_id*/129601, /*description*/'【同伴】在点数累计达到7以上之前都能继续掷骰子', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/11016, /*type*/3, /*effect_id*/1016, /*category*/1, /*icon_id*/100401, /*description*/'【同伴】如果掷出的骰子点数为奇数，可以让对手休息1回合', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/11017, /*type*/3, /*effect_id*/1017, /*category*/1, /*icon_id*/127701, /*description*/'【同伴】如果掷出的骰子点数为偶数，可以额外前进{1}格', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/11018, /*type*/3, /*effect_id*/1018, /*category*/1, /*icon_id*/127801, /*description*/'【同伴】如果掷出的骰子点数为奇数，可以让对手休息1回合', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/11019, /*type*/3, /*effect_id*/1019, /*category*/1, /*icon_id*/104801, /*description*/'【同伴】打开最多50％折扣确定的\n商店\n（1件商品100％折扣）', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/11020, /*type*/3, /*effect_id*/1020, /*category*/1, /*icon_id*/104701, /*description*/'【同伴】可重掷2次骰子', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/11021, /*type*/3, /*effect_id*/1021, /*category*/1, /*icon_id*/105001, /*description*/'【同伴】在点数累计达到7以上之前都能继续掷骰子', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/11022, /*type*/3, /*effect_id*/1022, /*category*/1, /*icon_id*/103201, /*description*/'【同伴】获得最多2000里程', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/11023, /*type*/3, /*effect_id*/1023, /*category*/1, /*icon_id*/130901, /*description*/'【同伴】获得1张抽奖券', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/11024, /*type*/3, /*effect_id*/1024, /*category*/1, /*icon_id*/102501, /*description*/'【同伴】获得1份料理', /*count_from*/0, /*count_to*/0);
 CREATE INDEX 'caravan_buff_disp_0_type_1_effect_id' on 'caravan_buff_disp'('type','effect_id');

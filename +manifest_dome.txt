@@ -1,4 +1,4 @@
-a/dome_dome_logo.unity3d,eff4617fade122208d49b6912430409b,368d6438a3ca41df,common,28331,
+a/dome_dome_logo.unity3d,f05c4aef7eecd7ec85d9e62ff67ebd7c,1377ffe575c7568f,common,24521,
 a/dome_dome_reward_icon_25001.unity3d,5b2869878f65754ccf94b63aaf4c4bfc,9d0c7bc9b60a89f3,common,2886,
 a/dome_dome_reward_icon_41000.unity3d,61928aea95d230c8c310e76d572ad845,afa971212f654e72,common,2977,
 a/dome_dome_reward_icon_90008.unity3d,4b67cb5d2e0a0b7408075bca9da71e0f,6cd7a30324140d46,common,2804,

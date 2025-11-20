@@ -78,6 +78,6 @@ INSERT INTO `event_story_data` VALUES (/*story_group_id*/5137, /*story_type*/5, 
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5140, /*story_type*/5, /*value*/10140, /*title*/'寒冬的盛夏与神圣学院的问题儿童', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/10/09 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5142, /*story_type*/5, /*value*/10142, /*title*/'冷酷·火爆·新兵训练营　魔鬼教官与鞭子与……糖果？', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/10/16 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5144, /*story_type*/5, /*value*/10144, /*title*/'花开时节的真挚情谊', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/11/10 15:00:00', /*end_time*/'2099/12/31 23:59:59');
-INSERT INTO `event_story_data` VALUES (/*story_group_id*/5146, /*story_type*/5, /*value*/10146, /*title*/'奇幻梦想大游行\n宝石兔与秘密伙伴们', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/11/25 15:00:00', /*end_time*/'2099/12/31 23:59:59');
+INSERT INTO `event_story_data` VALUES (/*story_group_id*/5146, /*story_type*/5, /*value*/10146, /*title*/'奇幻梦想大游行\n宝石兔与秘密的伙伴们', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/11/25 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 INSERT INTO `event_story_data` VALUES (/*story_group_id*/5148, /*story_type*/5, /*value*/10148, /*title*/'集合吧做好事俱乐部！　\n美空的愉快暑假', /*thumbnail_id*/0, /*disp_order*/1, /*start_time*/'2025/12/11 15:00:00', /*end_time*/'2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');

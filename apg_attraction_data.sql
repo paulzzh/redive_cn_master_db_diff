@@ -1,5 +1,5 @@
 CREATE TABLE 'apg_attraction_data' ('attraction_id' INTEGER NOT NULL, 'detail_description' TEXT NOT NULL, 'unknown_10055800_3' TEXT NOT NULL, PRIMARY KEY('attraction_id'));
 INSERT INTO `apg_attraction_data` VALUES (/*attraction_id*/1, /*detail_description*/'乘坐飞来飞去的小蜜蜂，\n把蜂蜜送给正在烤松饼的宝石兔兔吧♪\n这个设施最让人为之尖叫的部分，\n就是会急速降落到游乐园的\n招牌景点——蜂蜜池！\n同时，还会提供备受好评的\n魔法照片拍摄服务哦♪', /*unknown_10055800_3*/'宏伟蜜蜂过山车');
-INSERT INTO `apg_attraction_data` VALUES (/*attraction_id*/2, /*detail_description*/'说到游乐园约会，摩天轮必定是经典之选♪\n不过，两个人单独坐的话，可能有点小紧张……\n即使是容易害羞的人也能安心，\n因为这里还隐藏着某个秘密哦♪\n要知道这个秘密，就要等坐上去之后了♪\n不管是刚开始交往的情侣\n还是独自一人的游客，都非常推荐♪', /*unknown_10055800_3*/'轻盈花朵摩天轮');
+INSERT INTO `apg_attraction_data` VALUES (/*attraction_id*/2, /*detail_description*/'说到游乐园约会，摩天轮必定是经典之选♪\n但两人一起坐的话，可能有点小紧张……\n即使是容易害羞的人也能安心，\n因为这里还隐藏着某个秘密哦♪\n要知道这个秘密，就要等坐上去之后了♪\n不管是刚开始交往的情侣\n还是独自一人的游客，都非常推荐♪', /*unknown_10055800_3*/'轻盈花朵摩天轮');
 INSERT INTO `apg_attraction_data` VALUES (/*attraction_id*/3, /*detail_description*/'甜点之后，来一杯咖啡小憩片刻吧♪\n会旋转的咖啡杯真是可爱呢♪\n转动正中间的方向盘，\n速度就会越来越快，你还可以\n比一比谁转的次数更多哦♪\n甜甜圈方向盘可以\n当成点心享用哦♪', /*unknown_10055800_3*/'甜蜜浆果咖啡杯');
 INSERT INTO `apg_attraction_data` VALUES (/*attraction_id*/4, /*detail_description*/'这是一间能带来全新体验的娱乐设施，\n通过魔法道具3D眼镜呈现立体影像♪\n平坦的座椅让任何人都可以坐得舒适，\n所以即使是体格不同的朋友们\n也能一起玩得尽兴哦♪\n好，让我们一起飞向\n广阔无垠的天空吧♪', /*unknown_10055800_3*/'跃入3D世界');

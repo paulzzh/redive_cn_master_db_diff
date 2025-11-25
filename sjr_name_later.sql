@@ -87,7 +87,7 @@ INSERT INTO `sjr_name_later` VALUES (/*id*/85, /*name*/'超级巨星', /*name_gr
 INSERT INTO `sjr_name_later` VALUES (/*id*/86, /*name*/'世界冠军', /*name_group*/3, /*score_from*/120000, /*score_to*/999999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/87, /*name*/'传奇', /*name_group*/1, /*score_from*/120000, /*score_to*/999999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/88, /*name*/'超人', /*name_group*/1, /*score_from*/120000, /*score_to*/999999);
-INSERT INTO `sjr_name_later` VALUES (/*id*/89, /*name*/'托尔佩顿', /*name_group*/1, /*score_from*/120000, /*score_to*/999999);
+INSERT INTO `sjr_name_later` VALUES (/*id*/89, /*name*/'鱼雷鱼', /*name_group*/1, /*score_from*/120000, /*score_to*/999999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/90, /*name*/'巨钳魔蟹', /*name_group*/1, /*score_from*/120000, /*score_to*/999999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/91, /*name*/'阿克艾利欧斯', /*name_group*/2, /*score_from*/120000, /*score_to*/999999);
 INSERT INTO `sjr_name_later` VALUES (/*id*/92, /*name*/'至宝', /*name_group*/1, /*score_from*/120000, /*score_to*/999999);

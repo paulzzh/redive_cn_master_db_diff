@@ -10,6 +10,6 @@ a/arcade_arcade_logo_1008.unity3d,3a36ad8495261cf728d1b3a3dce62285,320f58fa248da
 a/arcade_arcade_logo_1009.unity3d,f9761fa21d3850f389da1cb26cd72529,16d28eb2c7863a42,common,86231,
 a/arcade_arcade_logo_1010.unity3d,af9d415d02b2af48c97c94c45098e8d8,5d1ce079e9f988f0,common,90349,
 a/arcade_arcade_logo_1012.unity3d,8e14a90b4b877a9d755d408f00038ceb,721046d97e6c1ad8,common,78671,
-a/arcade_arcade_logo_1013.unity3d,dec6dbd4300604d45945eaafb491bc59,40d1389c6f8e414e,common,63723,
+a/arcade_arcade_logo_1013.unity3d,f49f772b1d4cc73b3295540fdae48c96,ca9c1b2908a60560,common,63470,
 a/arcade_bg_arcade_01.unity3d,8fb6ead6d745adad4faa8fad2af28756,f11cde2941814343,common,9046,
 a/arcade_bg_arcade_02.unity3d,bbbd40ec46b914ff888f89af927a546e,94e05812a0a14891,common,42037,

@@ -23,6 +23,9 @@ INSERT INTO `unique_equip_consume_group` VALUES (/*group_id*/19, /*index_in_grou
 INSERT INTO `unique_equip_consume_group` VALUES (/*group_id*/20, /*index_in_group*/1, /*item_id*/32040);
 INSERT INTO `unique_equip_consume_group` VALUES (/*group_id*/21, /*index_in_group*/1, /*item_id*/32018);
 INSERT INTO `unique_equip_consume_group` VALUES (/*group_id*/22, /*index_in_group*/1, /*item_id*/32028);
+INSERT INTO `unique_equip_consume_group` VALUES (/*group_id*/23, /*index_in_group*/1, /*item_id*/32043);
+INSERT INTO `unique_equip_consume_group` VALUES (/*group_id*/24, /*index_in_group*/1, /*item_id*/32017);
+INSERT INTO `unique_equip_consume_group` VALUES (/*group_id*/25, /*index_in_group*/1, /*item_id*/32010);
 CREATE UNIQUE INDEX 'unique_equip_consume_group_0_group_id_1_index_in_group' on 'unique_equip_consume_group'('group_id','index_in_group');
 CREATE INDEX 'unique_equip_consume_group_0_group_id' on 'unique_equip_consume_group'('group_id');
 CREATE UNIQUE INDEX 'unique_equip_consume_group_0_item_id' on 'unique_equip_consume_group'('item_id');

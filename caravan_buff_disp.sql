@@ -34,6 +34,7 @@ INSERT INTO `caravan_buff_disp` VALUES (/*id*/32, /*type*/1, /*effect_id*/52022,
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/33, /*type*/1, /*effect_id*/52023, /*category*/1, /*icon_id*/1, /*description*/'【料理】第1次投掷骰子的结果必定是“6”，第2次必定是“3”', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/34, /*type*/1, /*effect_id*/52024, /*category*/1, /*icon_id*/1, /*description*/'【料理】下次移动时会多走3个格子', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/35, /*type*/1, /*effect_id*/52025, /*category*/2, /*icon_id*/10, /*description*/'【料理】移动时可跳过“里程格子”和“宝藏格子”', /*count_from*/0, /*count_to*/0);
+INSERT INTO `caravan_buff_disp` VALUES (/*id*/36, /*type*/1, /*effect_id*/52027, /*category*/1, /*icon_id*/1, /*description*/'【料理】骰子必然掷出“5”', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/1001, /*type*/3, /*effect_id*/1, /*category*/1, /*icon_id*/99, /*description*/'最多获得ｎ里程', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/1002, /*type*/3, /*effect_id*/2, /*category*/1, /*icon_id*/99, /*description*/'可重掷1次骰子', /*count_from*/0, /*count_to*/0);
 INSERT INTO `caravan_buff_disp` VALUES (/*id*/1003, /*type*/3, /*effect_id*/3, /*category*/1, /*icon_id*/99, /*description*/'可重掷1次骰子_有效回合2', /*count_from*/0, /*count_to*/0);

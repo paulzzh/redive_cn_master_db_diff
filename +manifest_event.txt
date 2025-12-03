@@ -1670,7 +1670,7 @@ a/event_tma.unity3d,6c4c389c7edb1f0b83024834ac900bc8,01489a1a52c7daec,common,844
 a/event_tme_1.unity3d,86a3c4e80e8a9ffb50fefaca65d01af0,b795b507f1078317,common,2123464,
 a/event_topictalk.unity3d,7151441f26b678da5f80cc7d0e89a018,1be5877eb4827d33,common,9793,
 a/event_tower_logo.unity3d,350d41bc9b364db2b636a995658f0afb,1926d8ce655dd167,common,27318,
-a/event_tpr.unity3d,7ab6b018a7b7c952c79b2e757c4f6c5d,7c41445b02cced8c,common,640979,
+a/event_tpr.unity3d,30e51415c9178b1fd7f75aef8d69e060,ce3ebad72764b3e7,common,640962,
 a/event_tutorialimage_dear_10052_01.unity3d,d60339368be4df4983273edde1848843,de16f211e3a5493a,common,236664,
 a/event_tutorialimage_dear_10053_01.unity3d,6847e00583ad83d13fc277d9adf6d80b,3d313d8f98d1a5b2,common,222198,
 a/event_tutorialimage_dear_10115_01.unity3d,03f37e04affd54b0c23c88534d94fa33,56134a28f074f6a1,common,231004,

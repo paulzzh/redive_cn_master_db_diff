@@ -2,7 +2,7 @@ CREATE TABLE 'content_release_data' ('system_id' INTEGER NOT NULL, 'team_level' 
 INSERT INTO `content_release_data` VALUES (/*system_id*/101, /*team_level*/1, /*story_id*/0, /*quest_id*/0, /*dialog*/'');
 INSERT INTO `content_release_data` VALUES (/*system_id*/102, /*team_level*/1, /*story_id*/0, /*quest_id*/11002008, /*dialog*/'通关主线战斗2-8（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/103, /*team_level*/1, /*story_id*/0, /*quest_id*/11002005, /*dialog*/'通关主线战斗\n2-5（普通难度）\n后解锁');
-INSERT INTO `content_release_data` VALUES (/*system_id*/104, /*team_level*/1, /*story_id*/0, /*quest_id*/11002012, /*dialog*/'通关主线关卡\n2-12（普通难度）后解锁');
+INSERT INTO `content_release_data` VALUES (/*system_id*/104, /*team_level*/1, /*story_id*/0, /*quest_id*/11002012, /*dialog*/'通关主线战斗\n2-12（普通难度）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/107, /*team_level*/1, /*story_id*/0, /*quest_id*/11003001, /*dialog*/'通关主线关卡\n3-1（普通难度）\n后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/108, /*team_level*/1, /*story_id*/0, /*quest_id*/11009001, /*dialog*/'通关主线关卡9-1（普通难度）后解锁');
 INSERT INTO `content_release_data` VALUES (/*system_id*/109, /*team_level*/1, /*story_id*/0, /*quest_id*/11009002, /*dialog*/'通关主线关卡9-2（普通难度）后解锁');

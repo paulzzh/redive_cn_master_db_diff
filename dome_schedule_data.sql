@@ -1,3 +1,4 @@
 CREATE TABLE 'dome_schedule_data' ('schedule_id' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'count_start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'close_time' TEXT NOT NULL, PRIMARY KEY('schedule_id'));
 INSERT INTO `dome_schedule_data` VALUES (/*schedule_id*/1001, /*start_time*/'2025/12/02 12:00:00', /*count_start_time*/'2025/12/05 12:00:00', /*end_time*/'2025/12/06 23:59:59', /*close_time*/'2025/12/10 14:59:59');
 INSERT INTO `dome_schedule_data` VALUES (/*schedule_id*/1002, /*start_time*/'2025/12/21 12:00:00', /*count_start_time*/'2025/12/24 12:00:00', /*end_time*/'2025/12/25 23:59:59', /*close_time*/'2025/12/29 14:59:59');
+INSERT INTO `dome_schedule_data` VALUES (/*schedule_id*/1003, /*start_time*/'2026/01/09 12:00:00', /*count_start_time*/'2026/01/12 12:00:00', /*end_time*/'2026/01/13 23:59:59', /*close_time*/'2026/01/17 14:59:59');

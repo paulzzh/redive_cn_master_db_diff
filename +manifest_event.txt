@@ -1532,7 +1532,7 @@ a/event_thumb_gacha_10151.unity3d,55a5865d3fd915532e4a6179f0346d24,b4f2306f1a78c
 a/event_thumb_gacha_10152.unity3d,897dc7bb1e9e55b9cf67dc25ab4f1eb4,b80b87f3bd0c7909,common,11879,
 a/event_thumb_lss_10150.unity3d,2f3981d6be2bcf6aacc3158194f52aef,9a13a94b9f42c3ce,common,22535,
 a/event_thumb_lsv_10125.unity3d,a4dab2ae0505fcfa7df55ffc2c70ddf9,e36a9f11b7985472,common,22405,
-a/event_thumb_lsv_20053.unity3d,8cb04af0cb6378867c08e301709724a1,12ba30c8a29be19c,common,22396,
+a/event_thumb_lsv_20053.unity3d,b83cfe9cdbf165a9327d3f5ce5662db6,d2e8cede03782d62,common,23167,
 a/event_thumb_lto_20028.unity3d,ca88712468349f4a752cd486547602ed,34a0d0fe835e7bf7,common,12786,
 a/event_thumb_mhp_20041.unity3d,8df59b464b1a612d232502192630c170,0a448fbc746ff52d,common,19840,
 a/event_thumb_minigame_10126.unity3d,026705d0eba580fea7c284bdfee92294,168e728b8853d298,common,20859,

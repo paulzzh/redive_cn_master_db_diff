@@ -101,6 +101,7 @@ INSERT INTO `tips` VALUES (/*id*/4117701, /*value*/118001, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4118101, /*value*/118101, /*tips_index*/1, /*title*/'时间到');
 INSERT INTO `tips` VALUES (/*id*/4118201, /*value*/118201, /*tips_index*/1, /*title*/'机枪扫射');
 INSERT INTO `tips` VALUES (/*id*/4118501, /*value*/118501, /*tips_index*/1, /*title*/'优秀的同伴');
+INSERT INTO `tips` VALUES (/*id*/4118601, /*value*/118601, /*tips_index*/1, /*title*/'涅比亚参上！');
 INSERT INTO `tips` VALUES (/*id*/4119001, /*value*/119001, /*tips_index*/1, /*title*/'暗黑授课');
 INSERT INTO `tips` VALUES (/*id*/4119101, /*value*/119101, /*tips_index*/1, /*title*/'进步');
 INSERT INTO `tips` VALUES (/*id*/4120001, /*value*/120001, /*tips_index*/1, /*title*/'守护和平的姐姐');

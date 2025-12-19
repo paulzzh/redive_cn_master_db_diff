@@ -2,4 +2,5 @@ CREATE TABLE 'global_data' ('key_name' TEXT NOT NULL, 'value' INTEGER NOT NULL, 
 INSERT INTO `global_data` VALUES (/*key_name*/'GACHA_SINGLE_MANA', /*value*/1000, /*desc*/'单抽赠送mana');
 INSERT INTO `global_data` VALUES (/*key_name*/'GACHA_MULTIPLE_MANA', /*value*/10000, /*desc*/'十连抽赠送mana');
 INSERT INTO `global_data` VALUES (/*key_name*/'SEASONPASSITEM_10009', /*value*/0, /*desc*/'15,16001008,1;2,28590,2;2,28591,2;2,28592,2;2,21953,1');
+INSERT INTO `global_data` VALUES (/*key_name*/'SEASONPASSITEM_10009_2', /*value*/0, /*desc*/'15,16001007,1');
 CREATE UNIQUE INDEX 'global_data_0_key_name' on 'global_data'('key_name');

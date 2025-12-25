@@ -15,7 +15,7 @@ INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/13, /*icon_name*/'a
 INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/14, /*icon_name*/'magic_str_up', /*effect_name*/'提升魔法攻击力', /*description*/'在战斗中，大幅提升魔法攻击力。');
 INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/15, /*icon_name*/'defense_up', /*effect_name*/'提升物理防御力', /*description*/'在战斗中，大幅提升物理防御力。');
 INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/16, /*icon_name*/'magic_def_up', /*effect_name*/'提升魔法防御力', /*description*/'在战斗中，大幅提升魔法防御力。');
-INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/17, /*icon_name*/'physical_critical_up', /*effect_name*/'提升物理暴击率', /*description*/'在战斗中，大幅提升物理暴击率。');
-INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/18, /*icon_name*/'magic_critical_up', /*effect_name*/'提升魔法暴击率', /*description*/'在战斗中，大幅提升魔法暴击率。');
+INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/17, /*icon_name*/'physical_critical_up', /*effect_name*/'提升物理暴击', /*description*/'在战斗中，大幅提升物理暴击。');
+INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/18, /*icon_name*/'magic_critical_up', /*effect_name*/'提升魔法暴击', /*description*/'在战斗中，大幅提升魔法暴击。');
 INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/19, /*icon_name*/'energy_recovery_rate_up', /*effect_name*/'提升技能值上升量', /*description*/'在战斗中，大幅提升技能值上升量。');
 INSERT INTO `dome_battle_effect` VALUES (/*battle_effect_id*/20, /*icon_name*/'energy_recovery', /*effect_name*/'战斗开始时，特大幅度回复技能值', /*description*/'战斗开始时，特大幅度回复技能值。');

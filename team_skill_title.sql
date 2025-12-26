@@ -4,8 +4,8 @@ INSERT INTO `team_skill_title` VALUES (/*title_id*/2, /*title_text*/'物理攻�
 INSERT INTO `team_skill_title` VALUES (/*title_id*/3, /*title_text*/'物理防御力强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/4, /*title_text*/'魔法攻击力强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/5, /*title_text*/'魔法防御力强化');
-INSERT INTO `team_skill_title` VALUES (/*title_id*/6, /*title_text*/'物理暴击率强化');
-INSERT INTO `team_skill_title` VALUES (/*title_id*/7, /*title_text*/'魔法暴击率强化');
+INSERT INTO `team_skill_title` VALUES (/*title_id*/6, /*title_text*/'物理暴击强化');
+INSERT INTO `team_skill_title` VALUES (/*title_id*/7, /*title_text*/'魔法暴击强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/8, /*title_text*/'闪避强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/9, /*title_text*/'生命值吸收强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/10, /*title_text*/'生命值自动回复强化');
@@ -18,7 +18,7 @@ INSERT INTO `team_skill_title` VALUES (/*title_id*/16, /*title_text*/'技能值�
 INSERT INTO `team_skill_title` VALUES (/*title_id*/17, /*title_text*/'命中强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/50, /*title_text*/'物理·魔法攻击力强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/51, /*title_text*/'物理·魔法防御力强化');
-INSERT INTO `team_skill_title` VALUES (/*title_id*/52, /*title_text*/'物理·魔法暴击率强化');
+INSERT INTO `team_skill_title` VALUES (/*title_id*/52, /*title_text*/'物理·魔法暴击强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/100, /*title_text*/'物理暴击伤害强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/101, /*title_text*/'魔法暴击伤害强化');
 INSERT INTO `team_skill_title` VALUES (/*title_id*/102, /*title_text*/'物理造成伤害强化');

@@ -5,4 +5,5 @@ INSERT INTO `special_story_banner` VALUES (/*id*/80007, /*story_group_id*/9005, 
 INSERT INTO `special_story_banner` VALUES (/*id*/80008, /*story_group_id*/9006, /*start_time*/'2025/4/2 5:00:00', /*remind_end_time*/'2025/5/1 4:59:59', /*end_time*/'2025/5/1 4:59:59');
 INSERT INTO `special_story_banner` VALUES (/*id*/80009, /*story_group_id*/9007, /*start_time*/'2025/5/31 5:00:00', /*remind_end_time*/'2025/6/15 4:59:59', /*end_time*/'2025/6/15 4:59:59');
 INSERT INTO `special_story_banner` VALUES (/*id*/80010, /*story_group_id*/9008, /*start_time*/'2025/10/2 5:00:00', /*remind_end_time*/'2025/10/18 4:59:59', /*end_time*/'2025/10/18 4:59:59');
+INSERT INTO `special_story_banner` VALUES (/*id*/80011, /*story_group_id*/9009, /*start_time*/'2025/12/31 5:00:00', /*remind_end_time*/'2026/01/15 4:59:59', /*end_time*/'2026/01/15 4:59:59');
 CREATE INDEX 'special_story_banner_0_story_group_id' on 'special_story_banner'('story_group_id');

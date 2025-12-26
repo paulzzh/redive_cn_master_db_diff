@@ -4,8 +4,8 @@ INSERT INTO `talent_skill_title` VALUES (/*title_id*/2, /*title_text*/'物理攻
 INSERT INTO `talent_skill_title` VALUES (/*title_id*/3, /*title_text*/'物理防御力强化');
 INSERT INTO `talent_skill_title` VALUES (/*title_id*/4, /*title_text*/'魔法攻击力强化');
 INSERT INTO `talent_skill_title` VALUES (/*title_id*/5, /*title_text*/'魔法防御力强化');
-INSERT INTO `talent_skill_title` VALUES (/*title_id*/6, /*title_text*/'物理暴击强化');
-INSERT INTO `talent_skill_title` VALUES (/*title_id*/7, /*title_text*/'魔法暴击强化');
+INSERT INTO `talent_skill_title` VALUES (/*title_id*/6, /*title_text*/'物理暴击率强化');
+INSERT INTO `talent_skill_title` VALUES (/*title_id*/7, /*title_text*/'魔法暴击率强化');
 INSERT INTO `talent_skill_title` VALUES (/*title_id*/8, /*title_text*/'闪避强化');
 INSERT INTO `talent_skill_title` VALUES (/*title_id*/9, /*title_text*/'生命值吸收强化');
 INSERT INTO `talent_skill_title` VALUES (/*title_id*/10, /*title_text*/'生命值自动回复强化');

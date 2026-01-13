@@ -160,4 +160,3 @@ INSERT INTO `tips` VALUES (/*id*/4180801, /*value*/180801, /*tips_index*/1, /*ti
 INSERT INTO `tips` VALUES (/*id*/4180901, /*value*/180901, /*tips_index*/1, /*title*/'两个人一起的话');
 INSERT INTO `tips` VALUES (/*id*/4181001, /*value*/181001, /*tips_index*/1, /*title*/'不变的事物');
 INSERT INTO `tips` VALUES (/*id*/4181101, /*value*/181101, /*tips_index*/1, /*title*/'情同姐妹');
-INSERT INTO `tips` VALUES (/*id*/4181201, /*value*/181201, /*tips_index*/1, /*title*/'品味');
